@@ -3,7 +3,7 @@
 在线图册：https://lilin-eco.github.io/lilin-logo-gallery/  
 组织仓库：https://github.com/lilin-eco/lilin-logo-gallery
 
-仓库与图册公开可见。勾选仅用于各自浏览器内的方案比较；讨论时使用图册编号。网站从main分支根目录发布，更新资料后运行`node scripts/build-pages.mjs`刷新首页和目录导航，再提交并推送。
+仓库与图册公开可见。勾选仅用于各自浏览器内的方案比较；讨论时使用图册编号。网站由`.github/workflows/pages.yml`发布main分支根目录，更新资料后运行`node scripts/build-pages.mjs`刷新首页和目录导航，再提交并推送。工作流也支持手动运行。
 
 企业：达州礼林生态科技有限责任公司。更新日期：2026年11月16日。
 
