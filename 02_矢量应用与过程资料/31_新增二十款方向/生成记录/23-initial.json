@@ -1,0 +1,13 @@
+{
+  "number": 23,
+  "id": "23",
+  "name": "相依有度",
+  "shape": "三块不等大的圆润实体错位叠置，下部双体以短接头承托。",
+  "culture": "相容空间为善心，彼此支撑为善念，稳定累积为善行。",
+  "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A TALL STACKED PEBBLE TOTEM: THREE UNEQUAL SOLID SOFT POLYGONS rest in an unexpected stable balance. Two broad lower pebble shapes share one short notched joint; a smaller offset oblong at top completes a distinct vertical silhouette. ONE visible clean white turn links their edges like 礼, two supports recall 林. Not a human figure, no face, heads, meditating person, realistic stones, sculpture shading or enclosure. Palette: Vivid vermilion-red, deep indigo and a small saffron-gold top piece. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-bf23a8ff-0417-4fde-8452-1fc2e87a21a4.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-bf23a8ff-0417-4fde-8452-1fc2e87a21a4.png",
+  "status": "修正前过程稿",
+  "reason": "初稿呈现坐姿人物联想，重做为横向实体承托。"
+}

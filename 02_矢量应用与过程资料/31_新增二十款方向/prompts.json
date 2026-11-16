@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-16",
+  "tool": "image_gen.imagegen",
+  "mode": "独立生成20个新方向，编号21–40，不引用旧图",
+  "briefs": [
+    {
+      "number": 21,
+      "id": "21",
+      "name": "经纬相生",
+      "shape": "两横两纵宽条交织，错位白窗与开放端部构成经纬式符号。",
+      "culture": "容纳白窗对应善心，交织承接对应善念，开放端部对应善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE COMPACT WOVEN CROSS emblem: two broad nearly horizontal strips and two shorter vertical strips interlace ONCE with intentional over-under color blocks. An asymmetric stepped square exterior and ONE large offset rectangular white window. Two strips share a fork-like tenon inspired by 林, one open turning end recalls 礼. No circular knot, infinite loop, square frame around text or tiny woven strands. Broad flat bands, cut corners, restrained angular rhythm. Palette: Deep wine red, bright aqua-blue and warm peach. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 22,
+      "id": "22",
+      "name": "润物有声",
+      "shape": "偏斜水滴被宽分叉白槽切开，曲面与短种面形成三块实体。",
+      "culture": "润泽接纳对应善心，分叉汇接对应善念，白槽贯通对应善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE BOLD ASYMMETRICAL TEARDROP emblem tilted 15 degrees, a large branching WHITE CHANNEL splits the body into two unequal accepting curved masses and one short seed face. The channel uses a clear bent hook from 礼 and paired fork from 林, transformed into a graphic. Distinct WATER-DROP outer contour, no lotus, heart, leaf vein, blue water clipart or enclosed glyph. Only three substantial shapes with broad spacing. Palette: Rich berry-magenta, warm golden yellow and deep cobalt. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 23,
+      "id": "23",
+      "name": "相依有度",
+      "shape": "三块不等大的圆润实体错位叠置，下部双体以短接头承托。",
+      "culture": "相容空间为善心，彼此支撑为善念，稳定累积为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A TALL STACKED PEBBLE TOTEM: THREE UNEQUAL SOLID SOFT POLYGONS rest in an unexpected stable balance. Two broad lower pebble shapes share one short notched joint; a smaller offset oblong at top completes a distinct vertical silhouette. ONE visible clean white turn links their edges like 礼, two supports recall 林. Not a human figure, no face, heads, meditating person, realistic stones, sculpture shading or enclosure. Palette: Vivid vermilion-red, deep indigo and a small saffron-gold top piece. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 24,
+      "id": "24",
+      "name": "林间刻印",
+      "shape": "不规则六边实体由两侧分叉白口切开，共用中轴并保留下部开口。",
+      "culture": "白口容纳、结构共用与向外开口分别联系三善。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A WIDE SOLID SIX-SIDED CUT HEXAGON, asymmetric rather than a regular badge. Two BIG forked WHITE RECESSES cut in from opposite sides and share one central upright, deriving from the twin 木 of 林; one lower edge exits in a clean open 礼-like hook. Three large negative spaces maximum, bold clean punch-cut geometry, not full printed characters, no honeycomb, enclosing hexagon outline or cube. Palette: Electric royal blue main body with one integrated cherry-red lower corner. Flat colors. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 25,
+      "id": "25",
+      "name": "善意回应",
+      "shape": "两片对话式圆角实体共用折线白隙，一侧尾部转为另一侧支点。",
+      "culture": "回应与倾听联系善心，双向承接联系善念，沟通落地联系善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A SINGLE COMPACT ASYMMETRIC DOUBLE-DIALOGUE SYMBOL: two broad rounded speech-like lobes share a crisp Z-shaped WHITE GAP, the short angular tail of one actually becomes the support of the other. A paired branch notch subtly recalls 林 and an open turn recalls 礼. No two separate bubble cliparts, no quotation marks, no messenger app imitation, no circular enclosing badge, no faces. Distinct soft-square outline with ONE diagonal low tail. Palette: Saturated azure blue and vivid warm fuchsia with a small coral join face. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 26,
+      "id": "26",
+      "name": "三向坐标",
+      "shape": "三条长短不同的直角短臂汇入偏置接头，形成模块式分流构造。",
+      "culture": "接头与留白表达接纳和协调，三向延伸表达具体行动。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A COMPACT ORTHOGONAL THREE-WAY COORDINATE MARK: three SHORT thick right-angle arms meet at ONE shared off-center elbow, each ends in a broad square terminal of different length. Exactly three component solids; two arms split once at their join, source from 林. A small open lower return carries 礼 gesture. Silhouette like a clever modular junction, NOT a plus sign, arrows, atom, medical cross or diagram with thin lines. Palette: Near-black ink, strong turquoise and vivid sunflower yellow. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 27,
+      "id": "27",
+      "name": "连理一线",
+      "shape": "一条粗圆角回折线形成两个相反开口，共用中段并在尾部转折。",
+      "culture": "接纳开口为善心，连续笔势为善念，开放末端为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE THICK CONTINUOUS SOFT-SQUARE MEANDER, like a crafted orthogonal single-line monogram with TWO VERY LARGE OPEN RECESSES facing opposite directions. A tall shared center and two short horizontal branches are derived from 林; lower open hooked turn from 礼. Distinct low alternating U-and-L silhouette with blunt terminals, 5-6 segments only. No closed loop, infinity, maze, square enclosing frame, full typeset word or pixel tiles. Palette: Black-violet single structural line, one short acid-lime segment integrated into its final turn. Flat two-color. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 28,
+      "id": "28",
+      "name": "新叶之窗",
+      "shape": "宽斜叶状外形由切角面与矩形窗洞共构，以共用短干连接。",
+      "culture": "窗内留空、双面共接与尾端延伸承载三善意图。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE BROAD DIAGONAL LANCE-SHAPED LEAF-LIKE SILHOUETTE, but sculpted from TWO sharply clipped flat planes with TWO big rectangular white windows cut THROUGH its middle, NOT veins. The windows share a short upright to evoke paired 木, lower edge curls into one open 礼-hook. Leaf is geometric and robust, not delicate botanical illustration or spa clipart. Strong asymmetry, large cuts, only 2-3 pieces. Palette: Burnt orange, deep ultramarine and one restrained raspberry meeting face, NO green. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 29,
+      "id": "29",
+      "name": "向光同心",
+      "shape": "三层不等厚半圆带被偏右阶形白槽切开，形成同心展开节奏。",
+      "culture": "内侧容纳、带面相承与通道外展联系善心、善念、善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A GRAPHIC RADIATING HALF-DISC built from THREE THICK UNEQUAL SEMICIRCULAR BANDS, all deliberately CUT OPEN on the lower-right by ONE wide step-shaped channel. Not a complete circular ring. Center shifted left, one squared fork at the shared base suggests 林, turn exit suggests 礼. Bold rhythmic HALO silhouette, no sunrise landscape, rainbow illustration, fingerprint, wifi logo or lotus. Palette: Cobalt, bright coral and golden ochre bands, flat colors with clear dark-light hierarchy. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 30,
+      "id": "30",
+      "name": "弧面相承",
+      "shape": "相向弧面与短直桥接片构成鞍式图形，中部留出宽白隙。",
+      "culture": "相向接纳、桥接协调与两端展开分别联系三善。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE WIDE SCULPTURAL SADDLE emblem: two broad opposing convex curves meet a SHORT STRAIGHT HORIZONTAL BRIDGE at an off-center shared joint. Upper contour descends, lower contour rises; ONE large hourglass-like white opening, but no complete hourglass vessel. Two clipped support feet recall 林, a short turning lip recalls 礼. Only three bold components, no circle, ribbon loop, petals, swoosh or literal bridge arches. Palette: Deep violet, bright crimson and a short fresh mint connector. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 31,
+      "id": "31",
+      "name": "并翼行远",
+      "shape": "长短不等的宽翼片在转折根部相接，以分叉白槽区分两侧。",
+      "culture": "共同根部与相向空间表达善心善念，向外展开表达善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A BOLD ABSTRACT SPLIT-WING CORPORATE EMBLEM, TWO unequal thick planar wings meet at one bent L-like shared root and open diagonally upward. One wing is SHORT, wide and squared, the other is LONG with a gently swept blunt edge. One forked WHITE CHANNEL suggests the two 木 rhythm, the open L root comes from 礼. Compact dynamic asymmetry, no literal bird, feathers, eagle, airplane, checkmark or V tick. Three simple solids maximum. Palette: Deep plum, luminous cyan and a small warm orange root. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 32,
+      "id": "32",
+      "name": "林之晶",
+      "shape": "四块大切面围绕分叉白隙组成缺角晶形，保留开放下端。",
+      "culture": "白隙为接纳，切面承接为协调，开放下端为行动。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE COMPACT CUT CRYSTAL-LIKE PENTAGON EMBLEM, only FOUR large flat facets, intentionally asymmetric exterior with one missing lower corner. The center has ONE large forked WHITE CUT: two top branches and an open lower 礼-like turn. No full Chinese text, no diamond ring, gemstone illustration, glossy 3D, star sparkle or polygon mesh. The faceting is a memorable geometric corporate symbol, not decorative jewel art. Palette: Clear electric blue, rich amethyst and warm apricot with one dark anchoring facet. Flat opaque planes. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 33,
+      "id": "33",
+      "name": "善念聚点",
+      "shape": "三块不等大圆角团体以短粗颈相接，中央保留转折凹口。",
+      "culture": "多方相容对应善心，节点互接对应善念，分支展开对应善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE ASYMMETRIC THREE-NODE SOFT GRAPHIC: THREE unequal rounded near-square masses are CONNECTED by TWO SHORT THICK NECKS, which share one broad white bent recess. A small lower fork from the central mass evokes 林; an open corner evokes 礼. Like a purposeful friendly modular organism, NOT circles connected by thin lines, molecule, cloud, person, clover or flower. Strong irregular compact silhouette, no enclosing frame. Palette: Vivid fuchsia, bright tangerine and dark midnight navy. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 34,
+      "id": "34",
+      "name": "礼林回纹",
+      "shape": "三条宽直笔共用短中轴，以开放矩形凹口与外转角形成回纹式轮廓。",
+      "culture": "开口为善心，共笔为善念，外转角为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A CONTEMPORARY CHINESE OPEN MEANDER emblem inspired by architectural fretwork, not an old seal. THREE BROAD RECTILINEAR STROKES share one SHORT VERTICAL STEM and make an irregular stepped outer contour. Two opposite rectangular bays remain COMPLETELY OPEN, one final corner curls outward to recall 礼, shared parallel upright sources from 林. Crisp square stroke ends, only one rounded inside corner, no maze, densely repeated pattern, typeset character or enclosing border. Palette: Terracotta red and dark petrol teal with a tiny pale-but-legible peach junction. Flat colors. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 35,
+      "id": "35",
+      "name": "破界新生",
+      "shape": "粗四分之一弧与短分叉构件在开口处相接，形成斜向破界轮廓。",
+      "culture": "留白接纳、接口共生与越界延伸承载三善意图。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A SINGLE THICK QUARTER-CIRCLE ARC is INTERRUPTED by ONE short FORKED SPRIG-LIKE ANGULAR STROKE that crosses its open end. The fork has BLUNT clipped tips, not leaves; one branch turns back like 礼 hook and the twin support rhythm derives from 林. Dramatic bold two-component mark, large clear interior, a compact diagonal open-crescent silhouette. No full circular border, botanical leaves, plant illustration, person, arrow or generic eco swoosh. Palette: Near-black ink and vivid acid-lime, with a small clear blue join point. Flat, punchy and minimal. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 36,
+      "id": "36",
+      "name": "相合成器",
+      "shape": "高低不同的承托侧体共用宽脚，中部白槽转折贯通。",
+      "culture": "容纳空间为善心，承托共接为善念，开口外展为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE UPRIGHT ASYMMETRIC VESSEL-LIKE MARK, two angular cupping halves share a broad notched FOOT, with one half taller and straighter, other half low with a rolled inward square lip. ONE LARGE WHITE bent interior channel evokes 礼, split shared foot from 林. Bold polygonal bowl/vessel silhouette, flat corporate graphic, not pottery illustration, traditional incense burner, cauldron, crown, crest, cup handles or 3D object. Palette: Midnight navy, warm coral and a small muted gold shared foot. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 37,
+      "id": "37",
+      "name": "双木拓扑",
+      "shape": "双竖向圆角分叉通过错高斜接部相连，形成狭长拓扑构造。",
+      "culture": "成对支撑、接口协调和分支行动联系三善。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: TWO TALL ROUNDED UPRIGHT BRANCH FORMS share ONE SHORT OBLIQUE CROSS-CONNECTION at different heights. The two stems fork inward once and terminate bluntly, creating a unique narrow interlocking H-like silhouette with a clear skew white channel. Derive from 林 twin trunks with a 礼-like side hook. Smooth tubular geometric structure, not letter H typesetting, plants, trees, eyes, faces, human figures or ladder illustration. Palette: Controlled BLUE-TO-VIOLET gradient in one main component and vivid AQUA solid in the other. Flat 2D gradient, no glass or highlights. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 38,
+      "id": "38",
+      "name": "折光之隙",
+      "shape": "三块大切角实体围绕斜向白隙分置，下部两体形成分叉承托。",
+      "culture": "白隙容纳、切面呼应与贯通方向承载三善意图。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: THREE LARGE SHARPLY CUT TRIANGULAR/TRAPEZOIDAL SOLIDS stand apart around ONE broad diagonal WHITE LIGHT-SLOT. One upper piece is long and clipped, two short lower pieces create a paired fork base from 林; one slot terminates in an open hook from 礼. Distinct tall near-trapezoidal silhouette, not a gem, enclosing diamond, ribbon loop, prism picture, lightning bolt, arrow or 3D sculpture. Brutalist soft-corner editorial brand geometry. Palette: Deep cyan, warm coral and muted electric violet; flat opaque planes. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 39,
+      "id": "39",
+      "name": "共生拼片",
+      "shape": "大小不等的缺口片体以旋转短块连接，呈非对称沙漏式外形。",
+      "culture": "彼此相容为善心，缺口相接为善念，开放转角为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE ORIGINAL INTERLOCKING PUZZLE-LIKE CORPORATE EMBLEM made of TWO LARGE UNEQUAL stepped slabs and ONE small rotated joining block. Each slab has a wide rectangular bite rather than round jigsaw knobs; when joined they make a compact asymmetrical HOURGLASS silhouette with a broad clear center recess. A shared branch-derived foot recalls 林, turned open corner from 礼. No pixel grid, four equal squares, knot, literal puzzle toy, enclosing badge or full glyph. Palette: Raspberry-magenta, golden ochre and deep ultramarine, flat bold parts. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    },
+    {
+      "number": 40,
+      "id": "40",
+      "name": "莲影映新",
+      "shape": "低位承托瓣面与偏置半圆形共构，右侧开放转折并由短根部相接。",
+      "culture": "承托接纳为善心，根部相接为善念，开口与升起的方向为善行。",
+      "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE LOW ABSTRACT LOTUS-CUP AND EMERGING DISC emblem, THREE simple bold shapes only: a broad off-center cupping petal BASE with a wide open 礼-like turning lip on the right, an asymmetrical clipped SEMI-DISC rises from the left inside, and a short branching root/join from 林. It should suggest a lotus AT FIRST OPENING and gentle purpose without drawing multiple upright petals. WIDE LOW asymmetrical silhouette with generous white gap. No upright three-petal lotus, fan of five petals, four-petal rosette, literal sunrise landscape, generic spa flower, leaf icon, complete circle enclosure or extra heart. Palette: Warm saffron rising form, deep ruby cupping base and one rich royal blue root. Flat contemporary corporate identity. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo."
+    }
+  ]
+}

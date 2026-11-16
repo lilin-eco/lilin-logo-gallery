@@ -1,0 +1,13 @@
+{
+  "number": 23,
+  "id": "23",
+  "name": "相依有度",
+  "shape": "三块宽圆角实体沿横向错位相承，以偏置缺口与底部短接面保持关联。",
+  "culture": "相容空间为善心，彼此支撑为善念，稳定累积为善行。",
+  "prompt": "Use case: logo-brand. ONE completely new professional modern CORPORATE GRAPHIC SYMBOL for 礼林生态 / LILIN ECO, company working in software, engineering and ecology. Core philosophy 善心善念善行 uses accepting space, structural joining, open purposeful ends. Construction: Completely recompose as a LOW HORIZONTAL balanced trio of BROAD SOFT POLYGONAL SLABS, not vertical stacked stones. A VERY LARGE near-square INDIGO mass sits on the LEFT; a WIDE VERMILION oblong sits on RIGHT slightly higher; ONE medium SAFFRON short slab joins them near their lower shared edge. Strong off-center WHITE NOTCHED JOINT between them, derived from shared 礼 turn and 林 supports, only 2 large gaps. Width about 1.35 times height. Deliberately abstract industrial-soft corporate geometry. NO top dot, head, hat, arms, two legs, person, meditating figure, smiling face, toy or illustration. Broad decisive nonfigurative solids, no small central silhouette. Pure WHITE backdrop, only ONE centered emblem, ample margins. Flat vector-like artwork, vivid balanced color, no text, wordmark, captions, mockup, shading, shadows, 3D or stock icons.",
+  "revision": 2,
+  "revisionReason": "初稿呈现坐姿人物联想，重做为横向实体承托。",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-a8951842-4dd1-40b0-a9e2-b5dd16ba9c6d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-a8951842-4dd1-40b0-a9e2-b5dd16ba9c6d.png"
+}

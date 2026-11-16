@@ -1,0 +1,11 @@
+{
+  "number": 31,
+  "id": "31",
+  "name": "并翼行远",
+  "shape": "长短不等的宽翼片在转折根部相接，以分叉白槽区分两侧。",
+  "culture": "共同根部与相向空间表达善心善念，向外展开表达善行。",
+  "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: A BOLD ABSTRACT SPLIT-WING CORPORATE EMBLEM, TWO unequal thick planar wings meet at one bent L-like shared root and open diagonally upward. One wing is SHORT, wide and squared, the other is LONG with a gently swept blunt edge. One forked WHITE CHANNEL suggests the two 木 rhythm, the open L root comes from 礼. Compact dynamic asymmetry, no literal bird, feathers, eagle, airplane, checkmark or V tick. Three simple solids maximum. Palette: Deep plum, luminous cyan and a small warm orange root. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-ebd290cd-bdbe-4439-afb7-8dbd771242d2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-ebd290cd-bdbe-4439-afb7-8dbd771242d2.png"
+}

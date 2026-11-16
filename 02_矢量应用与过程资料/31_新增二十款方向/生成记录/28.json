@@ -1,0 +1,11 @@
+{
+  "number": 28,
+  "id": "28",
+  "name": "新叶之窗",
+  "shape": "宽斜叶状外形由切角面与矩形窗洞共构，以共用短干连接。",
+  "culture": "窗内留空、双面共接与尾端延伸承载三善意图。",
+  "prompt": "Use case: logo-brand. Create ONE NEW professional contemporary graphic logo for Chinese company 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. The company spans software and systems, engineering and practical/ecological services. Core values 善心、善念、善行 mean care, thoughtful joining and purposeful action. Prefer a strong unique silhouette and a few broad shapes over dense hidden lettering. Derive subtle structure from 礼 turn/open hook and 林 paired support without forcing complete characters. Independent design: NO existing image reference. Construction: ONE BROAD DIAGONAL LANCE-SHAPED LEAF-LIKE SILHOUETTE, but sculpted from TWO sharply clipped flat planes with TWO big rectangular white windows cut THROUGH its middle, NOT veins. The windows share a short upright to evoke paired 木, lower edge curls into one open 礼-hook. Leaf is geometric and robust, not delicate botanical illustration or spa clipart. Strong asymmetry, large cuts, only 2-3 pieces. Palette: Burnt orange, deep ultramarine and one restrained raspberry meeting face, NO green. PURE WHITE background, one centered standalone emblem with ample margins. DO NOT render any words or captions; a neutral company wordmark will be added separately for comparison. Medium visual weight with generous white cuts, crisp vector-like flat artwork. No mockup, decorative illustration, texture, 3D, shadows, global rainbow wash, generic stock icon, business-icon collage or copied established logo.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-42c83c77-b456-4c09-ac75-f746a07c046d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-42c83c77-b456-4c09-ac75-f746a07c046d.png"
+}
