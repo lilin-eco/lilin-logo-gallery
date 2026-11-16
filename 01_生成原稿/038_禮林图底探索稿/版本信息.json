@@ -1,0 +1,21 @@
+{
+  "number": 38,
+  "title": "禮林图底探索稿",
+  "stage": "08",
+  "shape": "尝试用图底关系融合完整禮与林，并保持传统字形部件。",
+  "culture": "原意通过正负形共同组织两个名称成分。",
+  "notes": "实际仍近似两个字并列，未形成目标合字。",
+  "parents": [
+    36
+  ],
+  "status": "自检淘汰",
+  "id": "038",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-7594f2a6-8367-434f-a422-71225dfc1a7f.png",
+  "sourceCreatedAt": "2026-11-13T08:33:47.272Z",
+  "displayCreatedAt": "2026/11/13 16:33:47",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "4c2d997c5ea306f65b817a0162cf2d90a71c960e032749af7f6dae61690d5540",
+  "sourceBytes": 1179949
+}

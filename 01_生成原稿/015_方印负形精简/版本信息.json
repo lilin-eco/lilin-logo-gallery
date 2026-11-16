@@ -1,0 +1,21 @@
+{
+  "number": 15,
+  "title": "方印负形精简",
+  "stage": "03",
+  "shape": "在近方形实面中切出宽的斜向与转折通道，以负形构成极简礼字手势。",
+  "culture": "中心留白与边缘开口承载包容、开放的设计含义。",
+  "notes": "主体依赖抽象负形，完整名称读法不足。",
+  "parents": [
+    6
+  ],
+  "status": "未采用探索",
+  "id": "015",
+  "stageName": "极简符号",
+  "sourceFilename": "exec-53d1950a-405d-4613-9e99-9006de50998b.png",
+  "sourceCreatedAt": "2026-11-13T06:46:43.042Z",
+  "displayCreatedAt": "2026/11/13 14:46:43",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "dcc72bbd89e4c682cc29ddd2f97d8f84464d504e0fcfe5e816a23d8af1dbe85f",
+  "sourceBytes": 1145509
+}

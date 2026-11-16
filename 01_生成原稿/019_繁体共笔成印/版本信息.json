@@ -1,0 +1,22 @@
+{
+  "number": 19,
+  "title": "繁体共笔成印",
+  "stage": "04",
+  "shape": "让左侧转折接入右侧豆形基础，形成一条共同的承托笔画，并保留上部格栅。",
+  "culture": "共同基础表达连接，开放底部表达行动。",
+  "notes": "尝试通过共笔提升定制感，繁体细节仍较多。",
+  "parents": [
+    16,
+    6
+  ],
+  "status": "结构深化",
+  "id": "019",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-fc71692a-e759-4664-87a0-1cf598c9bc17.png",
+  "sourceCreatedAt": "2026-11-13T06:52:35.741Z",
+  "displayCreatedAt": "2026/11/13 14:52:35",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "ac87c5282d56d96e03a5f943da3e351046e13fa8b5026abd433ef8db3533e70b",
+  "sourceBytes": 1113390
+}

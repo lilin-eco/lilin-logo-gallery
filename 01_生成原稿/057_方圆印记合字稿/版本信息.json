@@ -1,0 +1,21 @@
+{
+  "number": 57,
+  "title": "方圆印记合字稿",
+  "stage": "13",
+  "shape": "以紧凑的方圆合字组织礻与双木，顶部转折形成莲瓣，右下展开。",
+  "culture": "心形点画、双木连接和右下收笔分别对应三善。",
+  "notes": "最后一轮四风格图中标为 C；这是现代印记感合字，并非规范篆书。",
+  "parents": [
+    54
+  ],
+  "status": "四风格候选 C",
+  "id": "057",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-7a6a55eb-2369-4b8d-acae-dae5b2529a22.png",
+  "sourceCreatedAt": "2026-11-13T09:59:35.772Z",
+  "displayCreatedAt": "2026/11/13 17:59:35",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "ede035e06308ee6be2e951627f7a9ea6948c1d3cd417f32bbf0bd06052d3d019",
+  "sourceBytes": 1058275
+}

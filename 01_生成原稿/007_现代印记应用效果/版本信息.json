@@ -1,0 +1,21 @@
+{
+  "number": 7,
+  "title": "现代印记应用效果",
+  "stage": "01",
+  "shape": "将同一开放印记应用于官网、App、公司公告、广告展板与商品标签的效果板。",
+  "culture": "三善作为品牌文化辅助文字，与印记的留白及开放结构共同使用。",
+  "notes": "应用效果为视觉示意；可编辑母版、图标和模板另存于应用素材目录。",
+  "parents": [
+    6
+  ],
+  "status": "应用示意",
+  "id": "007",
+  "stageName": "最初三方向与应用",
+  "sourceFilename": "exec-4c782d4b-8e3e-47b7-91fc-ecafaeb8ce9d.png",
+  "sourceCreatedAt": "2026-11-13T05:28:46.724Z",
+  "displayCreatedAt": "2026/11/13 13:28:46",
+  "width": 1672,
+  "height": 941,
+  "sha256": "7f1ce7ac80d204b9874c2344b057ff7554a79b2dcf722a5523aab09b8988e8bf",
+  "sourceBytes": 1747070
+}

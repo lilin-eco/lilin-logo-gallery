@@ -1,0 +1,18 @@
+{
+  "measures": [
+    {
+      "id": "previous",
+      "inkFractionInBounds": 0.5172222105018881,
+      "width": 1070,
+      "height": 886
+    },
+    {
+      "id": "lighter",
+      "inkFractionInBounds": 0.23462758181521998,
+      "width": 1067,
+      "height": 886
+    }
+  ],
+  "reduction": 0.5463698637621374,
+  "scope": "各自紧致边界内深色像素占比比较，不是轮廓相似度或识读测试。"
+}

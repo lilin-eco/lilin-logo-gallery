@@ -1,0 +1,47 @@
+[
+  {
+    "id": "A",
+    "title": "当代宋意",
+    "source": "exec-01fc317b-cc54-4798-8faf-cd5ef40fdc72.png",
+    "initialSource": "exec-baf1f423-e066-4c6c-b0a9-51919c8f273d.png",
+    "sourceWidth": 1402,
+    "sourceHeight": 1122,
+    "inkBounds": {
+      "left": 174,
+      "top": 231,
+      "width": 1043,
+      "height": 780
+    },
+    "relativeInk": 0.3075757689020455
+  },
+  {
+    "id": "B",
+    "title": "圆融几何",
+    "source": "exec-770ebde3-fccc-4cae-9e7f-1a709d486a38.png",
+    "initialSource": "exec-c3264940-ae36-4f72-a4ee-ea2827d6b594.png",
+    "sourceWidth": 1312,
+    "sourceHeight": 1199,
+    "inkBounds": {
+      "left": 205,
+      "top": 299,
+      "width": 887,
+      "height": 682
+    },
+    "relativeInk": 0.34509265291593066
+  },
+  {
+    "id": "C",
+    "title": "现代共笔",
+    "source": "exec-1d3ff1e8-568c-43ec-95e7-c31aafb23a5f.png",
+    "initialSource": null,
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "inkBounds": {
+      "left": 173,
+      "top": 174,
+      "width": 1203,
+      "height": 675
+    },
+    "relativeInk": 0.3692602208061259
+  }
+]

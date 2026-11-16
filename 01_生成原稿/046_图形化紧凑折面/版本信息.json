@@ -1,0 +1,21 @@
+{
+  "number": 46,
+  "title": "图形化紧凑折面",
+  "stage": "09",
+  "shape": "以多边折面组织礻、双木与共同基础，形成紧凑近六边的整体。",
+  "culture": "折面共享和右侧开口表达联结与行动。",
+  "notes": "外轮廓含较强顶盖感，作为构造探索保留。",
+  "parents": [
+    42
+  ],
+  "status": "图形化探索",
+  "id": "046",
+  "stageName": "文字图形化",
+  "sourceFilename": "exec-b735600c-47c2-4fdd-8b9d-472422f66e5b.png",
+  "sourceCreatedAt": "2026-11-13T09:34:35.126Z",
+  "displayCreatedAt": "2026/11/13 17:34:35",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "1486a7a3061f26d147fcf0879ccd3095a97627f030a5f5de7dcad58aa5444d17",
+  "sourceBytes": 1099441
+}

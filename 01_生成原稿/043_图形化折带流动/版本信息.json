@@ -1,0 +1,21 @@
+{
+  "number": 43,
+  "title": "图形化折带流动",
+  "stage": "09",
+  "shape": "以圆滑底部折带连接两个上升分枝，形成动态、紧凑的转向轮廓。",
+  "culture": "折带连接与上升开放端承载善念、善行。",
+  "notes": "双木缺少完整横画，识读线索不足。",
+  "parents": [
+    42
+  ],
+  "status": "未采用探索",
+  "id": "043",
+  "stageName": "文字图形化",
+  "sourceFilename": "exec-de715801-e700-4e4e-a5d1-fdc372b2a685.png",
+  "sourceCreatedAt": "2026-11-13T09:32:05.422Z",
+  "displayCreatedAt": "2026/11/13 17:32:05",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "8d73ac45f2fe7519d281e30b91d731f577a299c3d37f90797804021f67b6cf9f",
+  "sourceBytes": 1064847
+}

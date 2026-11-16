@@ -1,0 +1,21 @@
+{
+  "number": 40,
+  "title": "禮林现代轮廓稿",
+  "stage": "08",
+  "shape": "将前稿处理为较规整、均衡的雕塑式笔画与开放豆形基础。",
+  "culture": "共同支撑与开放端继续承担三善表达。",
+  "notes": "同样缺少完整双木横画，未通过结构自检。",
+  "parents": [
+    39
+  ],
+  "status": "自检淘汰",
+  "id": "040",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-0480fffa-46be-43fd-8d5e-107a0703a09a.png",
+  "sourceCreatedAt": "2026-11-13T08:39:05.576Z",
+  "displayCreatedAt": "2026/11/13 16:39:05",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "e5d54f41afcda32e5dbfa5740359a31867f30467fedfe6a9dbf28088db540a04",
+  "sourceBytes": 1145916
+}

@@ -1,0 +1,21 @@
+{
+  "number": 13,
+  "title": "原印两笔精简",
+  "stage": "03",
+  "shape": "把原开放印记缩为转折框形与简化手势，移除繁体格栅，附两种缩小展示。",
+  "culture": "开放内部和右向收笔延续包容与行动的含义。",
+  "notes": "简洁度提高，但完整字形辨识削弱。",
+  "parents": [
+    6
+  ],
+  "status": "未采用探索",
+  "id": "013",
+  "stageName": "极简符号",
+  "sourceFilename": "exec-3baceb1f-fc33-4062-a2d7-a6f8884da812.png",
+  "sourceCreatedAt": "2026-11-13T06:46:01.104Z",
+  "displayCreatedAt": "2026/11/13 14:46:01",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "62b86a66d4c93f472c32e1a5655aac8404961d14df759fef875f7ab1a74377bc",
+  "sourceBytes": 1097675
+}

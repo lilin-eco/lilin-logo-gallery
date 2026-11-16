@@ -1,0 +1,21 @@
+{
+  "number": 41,
+  "title": "禮林横画恢复稿",
+  "stage": "08",
+  "shape": "补回穿过两木竖干的共同横画，形成礻、双木与豆形承托的单一字形重心。",
+  "culture": "中心留白为善心，共用横画为善念，向右展开底端为善行。",
+  "notes": "后续另作矢量描摹及64px粘连修正；本目录此图仍保存未经修改的生成原稿。",
+  "parents": [
+    40
+  ],
+  "status": "阶段候选",
+  "id": "041",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-e9407866-ef37-4b80-8eae-b9d0eff44605.png",
+  "sourceCreatedAt": "2026-11-13T08:42:21.964Z",
+  "displayCreatedAt": "2026/11/13 16:42:21",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "328fc0af60a58c16f7c1cc5ba139fe9aeade7f1b4c84a8645cdc409b034ce298",
+  "sourceBytes": 1157290
+}

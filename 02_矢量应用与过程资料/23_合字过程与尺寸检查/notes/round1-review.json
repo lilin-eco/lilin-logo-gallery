@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R1-traditional-shared",
+    "status": "rejected",
+    "singleGlyph": true,
+    "nameEvidence": "左礻、右双木及豆部可见；但顶部又增加两竖回折，与木干重复，名称识读仍依赖熟悉字源。",
+    "failures": [
+      "顶部冗余笔画使形体繁复",
+      "64/32像素时多处间隙变窄",
+      "书写风格偏旧，现代感不足"
+    ],
+    "next": "以相同双木主干承担曲部两竖，删除单独顶冠，合并承托横笔。"
+  },
+  {
+    "id": "R2-ancient-shared",
+    "status": "rejected",
+    "singleGlyph": true,
+    "nameEvidence": "可以找到礻、双木和下部大弯钩，但礼主体与林的关系仍需要解释。",
+    "failures": [
+      "古异体路线不等于规范繁体",
+      "首字识别仍不稳",
+      "与前面用户不接受的骨架接近"
+    ],
+    "next": "不作为本轮规范繁体方向的合格稿。"
+  },
+  {
+    "id": "R3-figure-ground",
+    "status": "rejected",
+    "singleGlyph": false,
+    "nameEvidence": "更接近完整禮与完整林左右拼接，未形成有效正负形。",
+    "failures": [
+      "仍然双字布局",
+      "没有按要求形成正负共构",
+      "小尺寸孔洞密集"
+    ],
+    "next": "放弃这张构造。"
+  }
+]

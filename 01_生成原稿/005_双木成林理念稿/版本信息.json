@@ -1,0 +1,21 @@
+{
+  "number": 5,
+  "title": "双木成林理念稿",
+  "stage": "01",
+  "shape": "在双木共同结构中安排内侧心形负形，保持几何支撑和字标的主次关系。",
+  "culture": "善心为心形留白，善念为双木相连，善行为外侧稳固支撑。",
+  "notes": "图中的局部图解不能拆作额外的品牌图标。",
+  "parents": [
+    2
+  ],
+  "status": "文化深化",
+  "id": "005",
+  "stageName": "最初三方向与应用",
+  "sourceFilename": "exec-f0a2102a-da59-4c3c-8995-1c5db927b53a.png",
+  "sourceCreatedAt": "2026-11-13T05:21:48.995Z",
+  "displayCreatedAt": "2026/11/13 13:21:48",
+  "width": 1672,
+  "height": 941,
+  "sha256": "18b1f6b9fb6d02f23b809edb330936663285ba2e790a527a9eba6b43c042f409",
+  "sourceBytes": 1129363
+}

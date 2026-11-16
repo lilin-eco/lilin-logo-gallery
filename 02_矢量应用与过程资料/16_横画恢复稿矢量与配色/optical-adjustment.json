@@ -1,0 +1,16 @@
+{
+  "reason": "64px时礻末捺与左木撇尖粘连；仅收束该处捺末，保留字形骨架与主笔。",
+  "contourIndex": 2,
+  "center": [
+    361,
+    568
+  ],
+  "radius": 150,
+  "maxOffset": [
+    -32,
+    -8.96
+  ],
+  "changedPoints": 22,
+  "unchangedContours": 4,
+  "reference": "source-traced.svg"
+}

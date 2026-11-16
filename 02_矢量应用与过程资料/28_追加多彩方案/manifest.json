@@ -1,0 +1,65 @@
+[
+  {
+    "id": "D",
+    "name": "青柠海蓝",
+    "mode": "分瓣三色",
+    "palette": [
+      "#24427B",
+      "#009FAF",
+      "#A1BB3F"
+    ],
+    "prompt": "Use case: logo-brand / color-only edit. Make a NEW MULTICOLOR PALETTE VARIANT of this exact 礼林生态 graphic lotus monogram. Preserve the exact outer silhouette, every white internal channel, point, turn, lower fork and small detached seed, same proportions and positions. Do not redesign, add, remove or thicken any strokes. Three main lobes should carry clearly differentiated colors. Pure white background, one centered symbol, generous margins, no brand text or caption. No extra icons, frame, outline, 3D, gloss, shadows, textures or mockups. Keep white channels opaque white and visibly open. Palette D: confident fresh modern three-color blocks, LEFT lobe and small seed in rich navy #24427B, RIGHT lobe in saturated marine cyan #009FAF, UPPER lobe in deep lively lime #A1BB3F. Lime must have enough depth against white, not pale yellow. A fresh corporate/digital/natural balance with a lively lime accent and grounded blue support. Crisp mostly flat colors, no gradients or rainbow.",
+    "file": "exec-c2d35037-3eaa-4d93-9aa9-95de14f63ce6.png"
+  },
+  {
+    "id": "E",
+    "name": "玫紫晴蓝",
+    "mode": "分瓣三色",
+    "palette": [
+      "#4947AF",
+      "#368BCD",
+      "#EB6E8D"
+    ],
+    "prompt": "Use case: logo-brand / color-only edit. Make a NEW MULTICOLOR PALETTE VARIANT of this exact 礼林生态 graphic lotus monogram. Preserve the exact outer silhouette, every white internal channel, point, turn, lower fork and small detached seed, same proportions and positions. Do not redesign, add, remove or thicken any strokes. Three main lobes should carry clearly differentiated colors. Pure white background, one centered symbol, generous margins, no brand text or caption. No extra icons, frame, outline, 3D, gloss, shadows, textures or mockups. Keep white channels opaque white and visibly open. Palette E: contemporary humane rose, violet and blue. LEFT lobe and small seed in calm vivid indigo-violet #4947AF, RIGHT lobe in clear sky blue #368BCD, UPPER lobe in warm rose #EB6E8D. All three colors distinguishable, warm yet professional, welcoming and light but not childish or candy neon. Crisp mostly flat color blocks, no gradient.",
+    "file": "exec-9a560c75-776d-4094-b836-6b4d4d835350.png"
+  },
+  {
+    "id": "F",
+    "name": "橘红海蓝",
+    "mode": "分瓣三色",
+    "palette": [
+      "#E66A47",
+      "#316FA7",
+      "#FF9E3D"
+    ],
+    "prompt": "Use case: logo-brand / color-only edit. Make a NEW MULTICOLOR PALETTE VARIANT of this exact 礼林生态 graphic lotus monogram. Preserve the exact outer silhouette, every white internal channel, point, turn, lower fork and small detached seed, same proportions and positions. Do not redesign, add, remove or thicken any strokes. Three main lobes should carry clearly differentiated colors. Pure white background, one centered symbol, generous margins, no brand text or caption. No extra icons, frame, outline, 3D, gloss, shadows, textures or mockups. Keep white channels opaque white and visibly open. Palette F: energetic warm-cool composition. LEFT lobe and small seed in vermilion-orange #E66A47, RIGHT lobe in deep ocean blue #316FA7, UPPER lobe in clear golden orange #FF9E3D. Keep the two warm hues visibly different; blue anchors them. Professional, active, confident color composition without festive red-and-gold connotations or metallic effects. Crisp flat 2D colors, no gradient.",
+    "file": "exec-67f8a6cd-7f23-47dd-9ed0-37681917b5a1.png"
+  },
+  {
+    "id": "G",
+    "name": "日光渐彩",
+    "mode": "分瓣渐变",
+    "palette": [
+      "#8750B8",
+      "#E5709C",
+      "#2E72BA",
+      "#27BDBA",
+      "#F2C14E",
+      "#F07842"
+    ],
+    "prompt": "Use case: logo-brand / color-only edit. Make a NEW MULTICOLOR PALETTE VARIANT of this exact 礼林生态 graphic lotus monogram. Preserve the exact outer silhouette, every white internal channel, point, turn, lower fork and small detached seed, same proportions and positions. Do not redesign, add, remove or thicken any strokes. Three main lobes should carry clearly differentiated colors. Pure white background, one centered symbol, generous margins, no brand text or caption. No extra icons, frame, outline, 3D, gloss, shadows, textures or mockups. Keep white channels opaque white and visibly open. Palette G: carefully controlled bright multi-hue petal gradients. UPPER lobe transitions golden sunlight #F2C14E to warm orange #F07842; LEFT lobe and small seed transition violet #8750B8 to soft rose #E5709C; RIGHT lobe transitions clear blue #2E72BA to turquoise #27BDBA. Each petal has its own smooth flat 2D gradient, not one generic rainbow washing over the entire logo. Rich but composed, youthful corporate identity, no neon, no transparent fading to white, no dimensional highlights. Keep original white geometry perfectly intact.",
+    "file": "exec-27d99134-a284-4fdb-b0d5-80eaa316b19f.png"
+  },
+  {
+    "id": "H",
+    "name": "雾蓝杏紫",
+    "mode": "柔和三色",
+    "palette": [
+      "#527BA8",
+      "#9B84B7",
+      "#E5A36D"
+    ],
+    "prompt": "Use case: logo-brand / color-only edit. Make a NEW MULTICOLOR PALETTE VARIANT of this exact 礼林生态 graphic lotus monogram. Preserve the exact outer silhouette, every white internal channel, point, turn, lower fork and small detached seed, same proportions and positions. Do not redesign, add, remove or thicken any strokes. Three main lobes should carry clearly differentiated colors. Pure white background, one centered symbol, generous margins, no brand text or caption. No extra icons, frame, outline, 3D, gloss, shadows, textures or mockups. Keep white channels opaque white and visibly open. Palette H: soft sophisticated but legible multicolor. LEFT lobe and small seed in muted medium blue #527BA8, RIGHT lobe in medium lavender #9B84B7, UPPER lobe in warm apricot #E5A36D. Keep moderate pigment depth and separation from white, do not wash the mark out into pale pastels. Calm modern company identity with a gentle humane tone; no baby colors or dull beige. Flat color blocks, no gradient.",
+    "file": "exec-97e1aae0-cda3-4077-af1f-47cc8e4960b5.png"
+  }
+]

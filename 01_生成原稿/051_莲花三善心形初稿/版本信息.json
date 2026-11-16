@@ -1,0 +1,21 @@
+{
+  "number": 51,
+  "title": "莲花三善心形初稿",
+  "stage": "11",
+  "shape": "把左上点画改为心形，并将底部收笔调整为上扬曲线。",
+  "culture": "善心具象为心形点画，善念沿用共笔，善行通过上扬端表达。",
+  "notes": "修改后右下通道封闭，产生内嵌月牙和笑脸感，自检淘汰。",
+  "parents": [
+    50
+  ],
+  "status": "自检淘汰",
+  "id": "051",
+  "stageName": "莲花三善融合",
+  "sourceFilename": "exec-72592265-b2e9-422c-9af3-d456da155db0.png",
+  "sourceCreatedAt": "2026-11-13T09:44:53.127Z",
+  "displayCreatedAt": "2026/11/13 17:44:53",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f9be13493159756ca1888212cf5fe73fb68bea93bf561e7aac54f01112f815a6",
+  "sourceBytes": 891594
+}

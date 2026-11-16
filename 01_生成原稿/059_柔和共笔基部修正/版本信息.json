@@ -1,0 +1,21 @@
+{
+  "number": 59,
+  "title": "柔和共笔基部修正",
+  "stage": "13",
+  "shape": "保留柔和书写与下部莲瓣，只加宽两木汇入基部的薄弱连接。",
+  "culture": "沿用心形、共笔与舒展收笔的三善含义。",
+  "notes": "最后四风格对比中的 B；细曲线在小尺寸中仍会弱化。",
+  "parents": [
+    56
+  ],
+  "status": "四风格候选 B",
+  "id": "059",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-f21c0cf2-fda2-43aa-acfa-a4ce9f290ab7.png",
+  "sourceCreatedAt": "2026-11-13T10:01:57.512Z",
+  "displayCreatedAt": "2026/11/13 18:01:57",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "c2cbcf3891d973d97ab5ecdcfa619b301a7d195fb1eff05788bdc4b90ed3226c",
+  "sourceBytes": 1098124
+}

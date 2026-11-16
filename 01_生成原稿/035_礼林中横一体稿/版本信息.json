@@ -1,0 +1,21 @@
+{
+  "number": 35,
+  "title": "礼林中横一体稿",
+  "stage": "07",
+  "shape": "在同一字场中以一条中部共用横画连接两组竖干，并保留左上点画。",
+  "culture": "共用横画和转向表达善念，向右开出的中横端表达善行。",
+  "notes": "依据手工结构导图生成；字形辨识和整体融合仍在探索。",
+  "parents": [
+    33
+  ],
+  "status": "结构探索",
+  "id": "035",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-ac772533-8fe9-47e8-9431-fbc662523fe5.png",
+  "sourceCreatedAt": "2026-11-13T08:22:08.643Z",
+  "displayCreatedAt": "2026/11/13 16:22:08",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "ea2be064b4220ca02d513d2db63910ae215eed6002b0faa4949a93692cf3fe87",
+  "sourceBytes": 1111111
+}

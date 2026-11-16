@@ -1,0 +1,21 @@
+{
+  "number": 26,
+  "title": "善字方正替代",
+  "stage": "06",
+  "shape": "以善字为主体，采用方正切面、水平层次和清楚基础。",
+  "culture": "同样直接使用“善”的字形表达理念。",
+  "notes": "未保留礼林名称来源，与品牌识别要求不符。",
+  "parents": [
+    25
+  ],
+  "status": "已淘汰方向",
+  "id": "026",
+  "stageName": "善字替代探索",
+  "sourceFilename": "exec-c17961d0-c804-46c3-bc2a-a9d237ae2acf.png",
+  "sourceCreatedAt": "2026-11-13T07:39:09.980Z",
+  "displayCreatedAt": "2026/11/13 15:39:09",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "cfde772fb19363127b299b441fb207229df47110f2b0014d7d57b5d5039d0980",
+  "sourceBytes": 1083911
+}

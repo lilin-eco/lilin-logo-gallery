@@ -1,0 +1,21 @@
+{
+  "number": 60,
+  "title": "抽象篆意印记探索",
+  "stage": "13",
+  "shape": "将笔画重构为近对称、层叠的印记，中心设大心形负形，顶部形成莲瓣。",
+  "culture": "中央心形表达善心，穿插转折表达善念，开放下笔表达善行。",
+  "notes": "抽象后礼林名称线索丢失；文化不能替代公司识别，已淘汰。",
+  "parents": [
+    57
+  ],
+  "status": "自检淘汰",
+  "id": "060",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-a25791ef-499c-467d-b17d-447528cbccf2.png",
+  "sourceCreatedAt": "2026-11-13T10:02:15.977Z",
+  "displayCreatedAt": "2026/11/13 18:02:15",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f4c0ef55b036e3916b0a8cf85f6c7ec42d38349ca9bd1217f531f1c605ddbbba",
+  "sourceBytes": 1171624
+}

@@ -1,0 +1,22 @@
+{
+  "number": 33,
+  "title": "礼林双干同场稿",
+  "stage": "07",
+  "shape": "压缩为两组主干，让礼的部件与双木在同一近方形字场借用笔画。",
+  "culture": "共用干与横画对应善念，内部开敞空间对应善心。",
+  "notes": "礼字识别被削弱，不能仅靠解释隐藏的字形。",
+  "parents": [
+    29,
+    32
+  ],
+  "status": "未采用探索",
+  "id": "033",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-2aadbf6c-8444-4e46-b04b-f95153b9543f.png",
+  "sourceCreatedAt": "2026-11-13T08:08:18.474Z",
+  "displayCreatedAt": "2026/11/13 16:08:18",
+  "width": 1278,
+  "height": 1230,
+  "sha256": "5d0dc1b8710c936f4a11376cde07241711d3fd5743bb0191b27343c9fdf22e4d",
+  "sourceBytes": 1183479
+}

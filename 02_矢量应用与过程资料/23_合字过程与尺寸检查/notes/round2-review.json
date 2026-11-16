@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R1a-clean-writing",
+    "status": "rejected",
+    "failures": [
+      "双木丢失横画，变成两根分叉竖，林字识别不完整",
+      "与另一版本差别主要在细节，不可作为两个独立方向交付"
+    ],
+    "retained": "一字整体重心、单一大内白、去掉重复顶冠后的简洁度。"
+  },
+  {
+    "id": "R1b-modern-sculpted",
+    "status": "rejected-for-revision",
+    "failures": [
+      "双木丢失横画，林的必要结构不完整"
+    ],
+    "retained": "主笔较统一，豆部内白较大，较适合继续清理。",
+    "next": "在木干上段、分叉点上方补一条共同横笔，禁止重新添加独立顶冠。"
+  }
+]

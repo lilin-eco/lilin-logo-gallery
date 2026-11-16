@@ -1,0 +1,12 @@
+{
+  "number": 3,
+  "id": "03",
+  "name": "林间之门",
+  "shape": "高低不同的直立双门架共用短底座，以短横梁和方形切口连接。",
+  "culture": "拱间接纳空间为善心，共用支撑为善念，向外展开为善行。",
+  "prompt": "Use case: logo-brand. ONE fresh graphic corporate emblem for 礼林生态 / LILIN ECO, spanning software, information systems, engineering and ecology. Name-source shared joining and opening gestures, values 善心善念善行: accepting space, structural care, purposeful outward action. Construction: REPLACE the previous botanical-looking design with a strictly ARCHITECTURAL double-portal emblem: two slender tall squared arch frames of DIFFERENT heights share a short foot, one middle crossbar FORKS into two clean rectangular recesses. Tall narrow silhouette. All top ends are BLUNT and HORIZONTAL. No leaves, seeds, twigs, plants, pointed natural tips or curving tree trunks anywhere. Left smaller royal blue portal, taller right violet portal, ONE short golden yellow connecting lintel. One broad inner opening; a small left OFFSET SQUARE can suggest 礼 dot but not a head. Minimal 5-6 broad rectilinear strokes, selected rounded inside corners, flat no gradients. One centered original symbol, PURE WHITE background, generous margin. No rendered text, captions, comparison board, clipart, mockups, texture or shadows.",
+  "revision": 2,
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-f92dfe8d-e3d5-4992-a5c3-e9f713f1793d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-f92dfe8d-e3d5-4992-a5c3-e9f713f1793d.png"
+}

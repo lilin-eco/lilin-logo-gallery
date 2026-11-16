@@ -1,0 +1,21 @@
+{
+  "number": 18,
+  "title": "繁体隶意字印",
+  "stage": "04",
+  "shape": "以完整禮字加入适度横纵对比、展开的横势及克制的下部延伸。",
+  "culture": "舒展收笔对应善行，内部空间对应善心。",
+  "notes": "属于隶意字形探索，未直接作为正式标志采用。",
+  "parents": [
+    16
+  ],
+  "status": "可读性研究",
+  "id": "018",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-f510e9d1-adbe-4b53-818c-901b3ca50630.png",
+  "sourceCreatedAt": "2026-11-13T06:50:37.232Z",
+  "displayCreatedAt": "2026/11/13 14:50:37",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "75372a3fc3ea698517189293ce947f632444d3871f4b8aba0879040848c86b96",
+  "sourceBytes": 1080234
+}

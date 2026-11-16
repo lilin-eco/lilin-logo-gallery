@@ -1,0 +1,21 @@
+{
+  "number": 23,
+  "title": "原印行笔书写",
+  "stage": "05",
+  "shape": "保留原开放印记的主要手势，以流畅转弯和变化笔端强化书写感。",
+  "culture": "内部留白、连贯转向和舒展收笔继续表达三善。",
+  "notes": "改变的是视觉语言，未补成完整繁体字结构。",
+  "parents": [
+    6
+  ],
+  "status": "风格研究",
+  "id": "023",
+  "stageName": "原印记的传统风格",
+  "sourceFilename": "exec-434fd91c-6047-4090-bfca-924d7debb667.png",
+  "sourceCreatedAt": "2026-11-13T07:32:55.862Z",
+  "displayCreatedAt": "2026/11/13 15:32:55",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "85c981603db640ee2170836df033661b6ec41d8b3bacd8fc35455fc88f591058",
+  "sourceBytes": 1186178
+}

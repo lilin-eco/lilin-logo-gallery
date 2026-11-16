@@ -1,0 +1,21 @@
+{
+  "number": 39,
+  "title": "禮林清理书写稿",
+  "stage": "08",
+  "shape": "删除重复顶冠并简化笔端，保留左侧手势和下方承托。",
+  "culture": "以更宽的中心空间表达包容。",
+  "notes": "删减时丢失了木的关键横画，双木结构不完整。",
+  "parents": [
+    36
+  ],
+  "status": "自检淘汰",
+  "id": "039",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-5e1f4a7d-e14a-4c7d-b44e-f042559967dc.png",
+  "sourceCreatedAt": "2026-11-13T08:38:40.038Z",
+  "displayCreatedAt": "2026/11/13 16:38:40",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "fd7b5661508c3113335cc5f841729bf02640635f0f84124590367fe4d52e24ef",
+  "sourceBytes": 1154236
+}

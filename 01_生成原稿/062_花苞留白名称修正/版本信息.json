@@ -1,0 +1,21 @@
+{
+  "number": 62,
+  "title": "花苞留白名称修正",
+  "stage": "13",
+  "shape": "保留竖向花苞外形，移除中央大心形，补回双木横画及分枝，把心形缩回点画。",
+  "culture": "小心形为善心，共同下部转折为善念，右下开放为善行。",
+  "notes": "最后四风格对比中的 D；轮廓集中但相对厚重，也可能被理解为芽或火焰。",
+  "parents": [
+    61
+  ],
+  "status": "四风格候选 D",
+  "id": "062",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-a6a4032c-ff1f-47ff-b17b-d38d8a55881a.png",
+  "sourceCreatedAt": "2026-11-13T10:03:59.072Z",
+  "displayCreatedAt": "2026/11/13 18:03:59",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "56c30ebf43c4d3e5b97c0b42aeb985bfcb492ed1fa816badc62ab39ed7e960ee",
+  "sourceBytes": 1153365
+}

@@ -1,0 +1,21 @@
+{
+  "number": 8,
+  "title": "繁体圆融篆意",
+  "stage": "02",
+  "shape": "将原简体来源印记改为繁体禮结构，使用圆角转折和较宽的包围式笔画。",
+  "culture": "以连续留白与圆融转折延续包容、连接的设计取向。",
+  "notes": "右部曲与豆的结构较密，视觉重量明显增加。",
+  "parents": [
+    6
+  ],
+  "status": "历史探索",
+  "id": "008",
+  "stageName": "繁体禮图标",
+  "sourceFilename": "exec-d27625c2-48e2-49d7-92b3-552117a43c70.png",
+  "sourceCreatedAt": "2026-11-13T06:39:56.885Z",
+  "displayCreatedAt": "2026/11/13 14:39:56",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "56dbc68554c29169c336700d6ad66ef511de4046ed6152f918e54efa00111677",
+  "sourceBytes": 799709
+}

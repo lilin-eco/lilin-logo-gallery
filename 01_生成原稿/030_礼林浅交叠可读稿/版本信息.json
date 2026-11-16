@@ -1,0 +1,21 @@
+{
+  "number": 30,
+  "title": "礼林浅交叠可读稿",
+  "stage": "07",
+  "shape": "减少回环和重叠，尽量保留礼、林各自熟悉轮廓，仅在中部浅连接。",
+  "culture": "以少量连接承担善念，开放间隙承担善心。",
+  "notes": "名称较容易读出，但整体仍接近两个独立字。",
+  "parents": [
+    29
+  ],
+  "status": "未采用探索",
+  "id": "030",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-0bbc04fa-6d96-423b-85af-86535a08ccfa.png",
+  "sourceCreatedAt": "2026-11-13T07:57:36.484Z",
+  "displayCreatedAt": "2026/11/13 15:57:36",
+  "width": 1448,
+  "height": 1086,
+  "sha256": "7d81f040730375c4a2138ae6875c5a4b58c46ff4cefca38eec615725e13a6f04",
+  "sourceBytes": 1200041
+}

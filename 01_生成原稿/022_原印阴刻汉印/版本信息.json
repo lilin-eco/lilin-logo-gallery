@@ -1,0 +1,21 @@
+{
+  "number": 22,
+  "title": "原印阴刻汉印",
+  "stage": "05",
+  "shape": "以原礼印记的辨识骨架为基础，采用厚重外形与较有手作感的转折。",
+  "culture": "保留内部包容空间、横斜转向及开放端的三善逻辑。",
+  "notes": "这是原简体来源印记的传统风格化，不是完整规范繁体禮。",
+  "parents": [
+    6
+  ],
+  "status": "风格研究",
+  "id": "022",
+  "stageName": "原印记的传统风格",
+  "sourceFilename": "exec-a58ea982-29b8-46fd-ac90-1ba807037054.png",
+  "sourceCreatedAt": "2026-11-13T07:32:27.921Z",
+  "displayCreatedAt": "2026/11/13 15:32:27",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "cd43b686e871a0c89236d0fd151ffbf52fae33dc73da253415f0accb97155aaa",
+  "sourceBytes": 1174050
+}

@@ -1,0 +1,21 @@
+{
+  "number": 4,
+  "title": "礼林字标理念稿",
+  "stage": "01",
+  "shape": "沿用横向字标，梳理礼、林之间的笔画相承关系，并以局部示意标注理念。",
+  "culture": "善心为留白包容，善念为笔画相承，善行为舒展落笔。",
+  "notes": "说明引线、文字及小图属于展示板，不是标志图形。",
+  "parents": [
+    1
+  ],
+  "status": "文化深化",
+  "id": "004",
+  "stageName": "最初三方向与应用",
+  "sourceFilename": "exec-65c2ea1c-1c23-4668-9451-ade7bf8816b7.png",
+  "sourceCreatedAt": "2026-11-13T05:21:26.028Z",
+  "displayCreatedAt": "2026/11/13 13:21:26",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "571b771746b642a6d5768bf96fb973cdc872c52d1ece098576507f8c52d76378",
+  "sourceBytes": 1152547
+}

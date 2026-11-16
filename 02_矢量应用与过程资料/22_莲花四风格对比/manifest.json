@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A",
+    "title": "几何折莲",
+    "sub": "折面结构 · 清晰利落",
+    "file": "exec-9022294f-f736-4289-b969-73785d483a90.png",
+    "key": "distinct-A-geometric-v2"
+  },
+  {
+    "id": "B",
+    "title": "柔和共笔",
+    "sub": "流动笔意 · 轻盈人文",
+    "file": "exec-f21c0cf2-fda2-43aa-acfa-a4ce9f290ab7.png",
+    "key": "distinct-B-soft-v2"
+  },
+  {
+    "id": "C",
+    "title": "方圆印记",
+    "sub": "紧凑合字 · 稳定简练",
+    "file": "exec-7a6a55eb-2369-4b8d-acae-dae5b2529a22.png",
+    "key": "distinct-C-seal"
+  },
+  {
+    "id": "D",
+    "title": "花苞留白",
+    "sub": "正负形融合 · 图标轮廓",
+    "file": "exec-a6a4032c-ff1f-47ff-b17b-d38d8a55881a.png",
+    "key": "distinct-D-bud-v3"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "number": 6,
+  "id": "06",
+  "name": "折面相承",
+  "shape": "两片高低错位的宽折面在短肘处相接，中央形成折线白隙，橙色接面连接蓝紫主体。",
+  "culture": "开放折页表达善心，折面承接表达善念，展开方向表达善行。",
+  "prompt": "Use case: logo-brand. ONE fresh graphic corporate emblem for 礼林生态 / LILIN ECO, spanning software, information systems, engineering and ecology. Name-source shared joining and opening gestures, values 善心善念善行: accepting space, structural care, purposeful outward action. Construction: Create a new FOLDED-PLANE MONOGRAM with a COMPACT DIAGONAL ZIGZAG contour. TWO WIDE ASYMMETRIC PAPER-LIKE STRUCTURAL PLANES cross at a short notched shared elbow. The TOP plane is a navy horizontal slab with ONE downward diagonal fold. The BOTTOM plane is violet with ONE upward diagonal fold. A small orange triangular JOIN FACE bridges them. Large Z-shaped WHITE opening THROUGH the center, no enclosing frame, NO central circle dot, NO open book, fan, graduation cap, person or flower. Broad polygonal flat planes, strong clipped outside corners, no diagonal ribbon diamond loop, no 3D shadows, just contrasting solid faces. One centered original symbol, PURE WHITE background, generous margin. No rendered text, captions, comparison board, clipart, mockups, texture or shadows.",
+  "revision": 2,
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-823c24a5-3227-401d-9a16-07af9fe670ad.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-823c24a5-3227-401d-9a16-07af9fe670ad.png"
+}

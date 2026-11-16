@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A",
+    "title": "蓝青暖橙",
+    "sha256": "be1f25f615b79b61ad9ac8e9c6dc2ea8f82afe1cde444886aa8694a2fa767187",
+    "source": "exec-c1303a69-fb65-4e30-a235-8328a0d53592.png",
+    "width": 1536,
+    "height": 1024,
+    "normalizedSilhouetteIoU": 0.990527515575376,
+    "measurement": "与单色参考分别按紧致边界归一到512平方后比较轮廓蒙版；只衡量换色时的形状保留，不代表受众识读测试。"
+  },
+  {
+    "id": "B",
+    "title": "蓝紫青渐变",
+    "sha256": "8d5d9c17fe58eeca0ecca52020779ffcf858ccb18b6c679d8ba919444a9b5f21",
+    "source": "exec-779b3b70-c7a9-484f-a658-1bc6f60fdb60.png",
+    "width": 1536,
+    "height": 1024,
+    "normalizedSilhouetteIoU": 0.9858999292786421,
+    "measurement": "与单色参考分别按紧致边界归一到512平方后比较轮廓蒙版；只衡量换色时的形状保留，不代表受众识读测试。"
+  },
+  {
+    "id": "C",
+    "title": "珊瑚紫暖金",
+    "sha256": "93efc2afe27ef755a4f5c18356c42106de4f76ee0f4309ed1d284b0c0504ffdd",
+    "source": "exec-c19ea99d-5d8a-4009-9575-f4066b31b56a.png",
+    "width": 1536,
+    "height": 1024,
+    "normalizedSilhouetteIoU": 0.992029266670362,
+    "measurement": "与单色参考分别按紧致边界归一到512平方后比较轮廓蒙版；只衡量换色时的形状保留，不代表受众识读测试。"
+  }
+]

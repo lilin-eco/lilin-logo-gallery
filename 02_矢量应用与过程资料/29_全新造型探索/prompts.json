@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-16",
+  "tool": "内置图像生成工具",
+  "mode": "从零生成，不引用旧图",
+  "briefs": [
+    {
+      "id": "A",
+      "name": "双木相承",
+      "subtitle": "共生结构 · 托举连接",
+      "prompt": "Use case: logo-brand. Create ONE completely new corporate emblem for Chinese company 礼林生态 (LILIN ECO), spanning software, engineering and ecological services. New creative direction: TWO DISTINCT INTERLOCKING BRANCH MODULES, inspired by the two 木 of 林, lift and support one another. Their shared central joint and open hooked turn borrow the 礼 gesture. A compact WIDE HORIZONTAL silhouette with a distinctive central white opening, flat architectural rounded geometry, precise medium-weight strokes, 2-3 bold forms. Communicate 善心 through accepting space, 善念 through an actual shared structural connection, 善行 through one lifted outward end. Rich deep navy paired with clear vermilion and a restrained warm accent; colors are integrated into different modules. Graphic-first, youthful professional corporate identity, not Chinese font lettering. DO NOT draw a lotus, leaves, flower outline, tree illustration, circle frame, square seal, generic heart sticker, infinity or handshake clipart. No complete Chinese words in the icon. One original recognizable symbol, pure WHITE background, generous margins, no captions or wordmark, no gradients, shadows, texture, 3D or mockup. Do not reuse a three-petal flower layout."
+    },
+    {
+      "id": "B",
+      "name": "开合之礼",
+      "subtitle": "开放窗口 · 内外相接",
+      "prompt": "Use case: logo-brand. Design ONE NEW memorable Chinese corporate graphic emblem for 礼林生态 / LILIN ECO. Direction: an ASYMMETRIC OPEN DIAMOND / FOLDED PORTAL built from TWO interlocking thick turned ribbons. One ribbon's point-and-open-hook movement is inspired by 礼, the second has a subtly paired fork rhythm from 林. Form a clear protected WHITE CENTER and an unmistakable open exit, expressing 善心 (care), 善念 (thoughtful joining), 善行 (action outward). Crisp folded geometry with selected soft corners, medium-light optical weight, a compact diagonal near-square silhouette; the diamond comes from the actual turned strokes, NOT a frame around text. Use contemporary cobalt-blue, soft violet and bright cyan strategically on the ribbons, controlled flat 2D gradients allowed, no global rainbow. It must be an original brand SYMBOL, not a written character or typography. No lotus, leaves, flower, heart sticker, infinity loop, enclosing circular badge, conventional house/roof, copied app icon or stock corporate swoosh. ONE centered emblem on PURE WHITE, ample margin, no captions, company text, 3D, glass, shadows, texture or mockup."
+    },
+    {
+      "id": "C",
+      "name": "三善行迹",
+      "subtitle": "连续路径 · 向外生长",
+      "prompt": "Use case: logo-brand. ONE original fresh corporate emblem for Chinese brand 礼林生态, LILIN ECO. Direction: THREE SHARED TURNING PATHS form a distinctive low, forward-rising graphic. Think a precise continuous open ribbon system with TWO upright support rhythms borrowed from 林, and a dot/turn/open-hook source borrowed from 礼. The strokes should transform into an iconic abstract mark, not fully written Chinese characters. Broad clean continuous curves transitioning into angled cuts, generous openings, a calm forward motion without a literal arrow. A unique compact LOW DIAGONAL silhouette, no triangle mountain peaks. The first cupping turn means 善心, the second considered shared joint means 善念, the last outward end means 善行. Vibrant warm orange, coral-red and an anchoring deep blue, with clear color relationships between the three paths. Medium-light weight, uncluttered, modern software-and-engineering brand quality. No lotus, leaves, flower frame, circle border, square seal, literal hearts, roads/vehicle illustration, maze, stock speed stripes or full typography. ONE centered original symbol on pure WHITE, lots of margin, no text, captions, gradient lighting, shadows, 3D or mockup."
+    },
+    {
+      "id": "D",
+      "name": "共生绽放",
+      "subtitle": "俯视花形 · 四向共生",
+      "prompt": "Use case: logo-brand. Create ONE entirely new graphic logo for 礼林生态 / LILIN ECO. Explore LOTUS FROM ABOVE, a compact FOUR-PETAL asymmetrical rosette, not the familiar upright three-petal lotus. Each broad petal is a custom folded stroke, opposite pairs share a branching structure borrowed from the two 木 in 林, and the cut-through central white path recalls the open turning movement of 礼. One simple strong rosette silhouette, a small accepting central negative space, one OPEN petal exit, medium-light band weight and ample air. Culture 善心 through central space, 善念 through opposite paired shared strokes, 善行 through the opening to the outside. A sophisticated warm palette of fuchsia, coral-orange and plum with restrained smooth gradients within individual petals; visibly multicolored yet coherent. Modern, lively, ownable corporate emblem, no old calligraphy, no complete written glyphs or text inside it. Do not draw a stock pinwheel, four hearts, wellness clipart, recycling symbol, conventional upright lotus, leaves, circular enclosure, heavy badge, tiny veins or decorative details. One centered symbol on PURE WHITE with generous margins; NO captions, wordmark, texture, shadows, 3D or mockup."
+    }
+  ]
+}

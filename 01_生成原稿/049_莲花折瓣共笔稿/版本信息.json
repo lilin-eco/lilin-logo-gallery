@@ -1,0 +1,21 @@
+{
+  "number": 49,
+  "title": "莲花折瓣共笔稿",
+  "stage": "10",
+  "shape": "以字形底部转折形成横向莲瓣，双木共横，外端向右上舒展。",
+  "culture": "花瓣包容、共横连接、开放末端分别对应三善。",
+  "notes": "在第一组莲花对比中作为 B 方向保留。",
+  "parents": [
+    47
+  ],
+  "status": "阶段候选",
+  "id": "049",
+  "stageName": "莲花与礼林",
+  "sourceFilename": "exec-a261331c-b539-4114-beb1-b481dd2b6808.png",
+  "sourceCreatedAt": "2026-11-13T09:39:26.235Z",
+  "displayCreatedAt": "2026/11/13 17:39:26",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "312644a9f9e8689474fafd3600711f7a0db9bbf429a717fbd77d42fb069516c7",
+  "sourceBytes": 1109324
+}

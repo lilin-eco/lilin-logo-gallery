@@ -1,0 +1,21 @@
+{
+  "number": 28,
+  "title": "礼林上下嵌合",
+  "stage": "07",
+  "shape": "以禮在上、林在下的嵌合关系共用横向层次与支撑笔画。",
+  "culture": "共同支撑为善念，向外收笔为善行。",
+  "notes": "上下信息仍较密，容易出现叠字观感。",
+  "parents": [
+    27
+  ],
+  "status": "合字探索",
+  "id": "028",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-8b3dfd25-350d-41fe-97bf-603f266bf3ad.png",
+  "sourceCreatedAt": "2026-11-13T07:52:55.441Z",
+  "displayCreatedAt": "2026/11/13 15:52:55",
+  "width": 1448,
+  "height": 1086,
+  "sha256": "c9f503fb7a7ac472532d2dc254fdf4a29c1bc0e04ad3f684a80b0f6d006ff913",
+  "sourceBytes": 1187166
+}

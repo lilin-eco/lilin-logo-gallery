@@ -1,0 +1,21 @@
+{
+  "number": 16,
+  "title": "繁体方正清晰",
+  "stage": "04",
+  "shape": "以完整禮字为基础，采用中等字重、较方正的端点及清楚的曲豆分部。",
+  "culture": "通过清晰结构与较大留白表达可靠、有序。",
+  "notes": "主要解决识读问题，整体仍偏字形排印。",
+  "parents": [
+    10
+  ],
+  "status": "可读性研究",
+  "id": "016",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-e99c2ac5-180f-4843-adda-a2370f9da5b6.png",
+  "sourceCreatedAt": "2026-11-13T06:49:53.410Z",
+  "displayCreatedAt": "2026/11/13 14:49:53",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "dd0b82c33b4527d6fd164505c954b7a3d8a95d72af912b7b55dba564c87504b7",
+  "sourceBytes": 1123620
+}

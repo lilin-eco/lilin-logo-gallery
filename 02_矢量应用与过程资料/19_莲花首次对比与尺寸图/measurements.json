@@ -1,0 +1,58 @@
+[
+  {
+    "id": "A-negative-lotus",
+    "source": "exec-3fa26b4b-3fa6-4d85-9449-30f403f1da8d.png",
+    "inkBounds": {
+      "left": 89,
+      "top": 230,
+      "width": 1075,
+      "height": 892
+    },
+    "sizes": [
+      {
+        "width": 256,
+        "height": 212
+      },
+      {
+        "width": 128,
+        "height": 106
+      },
+      {
+        "width": 64,
+        "height": 53
+      },
+      {
+        "width": 32,
+        "height": 27
+      }
+    ]
+  },
+  {
+    "id": "B-petal-ligature",
+    "source": "exec-a261331c-b539-4114-beb1-b481dd2b6808.png",
+    "inkBounds": {
+      "left": 53,
+      "top": 146,
+      "width": 1435,
+      "height": 768
+    },
+    "sizes": [
+      {
+        "width": 256,
+        "height": 137
+      },
+      {
+        "width": 128,
+        "height": 69
+      },
+      {
+        "width": 64,
+        "height": 34
+      },
+      {
+        "width": 32,
+        "height": 17
+      }
+    ]
+  }
+]

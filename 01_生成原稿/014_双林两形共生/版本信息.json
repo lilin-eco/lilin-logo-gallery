@@ -1,0 +1,21 @@
+{
+  "number": 14,
+  "title": "双林两形共生",
+  "stage": "03",
+  "shape": "由两组镜像的粗转折形成开放分枝结构，以中部留白组织左右关系。",
+  "culture": "相互支撑表达合作与联结。",
+  "notes": "抽象后名称线索不足，不应解释为完整繁体禮。",
+  "parents": [
+    2
+  ],
+  "status": "未采用探索",
+  "id": "014",
+  "stageName": "极简符号",
+  "sourceFilename": "exec-e1547ccc-a835-4e0b-b0dd-04c1a6b6d44a.png",
+  "sourceCreatedAt": "2026-11-13T06:46:21.295Z",
+  "displayCreatedAt": "2026/11/13 14:46:21",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "daa8d546203479ceb89a6adb1c1eb830e684c202614510923f01ce2c4c812eb7",
+  "sourceBytes": 1024721
+}

@@ -1,0 +1,21 @@
+{
+  "number": 55,
+  "title": "几何折莲初稿",
+  "stage": "13",
+  "shape": "以三组折面式花瓣、尖切笔端和共同基础融合礼林，强调几何节奏。",
+  "culture": "小心形、共享横画及向外折笔承担三善表达。",
+  "notes": "上部直线三角较容易产生山形联想，后续调整瓣缘。",
+  "parents": [
+    54
+  ],
+  "status": "修正前原稿",
+  "id": "055",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-53ce1938-ed5c-4f17-84bd-156a6107a93d.png",
+  "sourceCreatedAt": "2026-11-13T09:58:59.028Z",
+  "displayCreatedAt": "2026/11/13 17:58:59",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "cc97fc59ab19a70514c6ea031fc73389c630dd392997c4d2bf337a21d3d793c2",
+  "sourceBytes": 1086744
+}

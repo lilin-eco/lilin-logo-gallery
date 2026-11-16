@@ -1,0 +1,21 @@
+{
+  "number": 11,
+  "title": "繁体隶意人文",
+  "stage": "02",
+  "shape": "采用较宽的横向比例与适度收放的笔端，保留完整禮字右部结构。",
+  "culture": "以舒展、克制的书写感体现温和与行动取向。",
+  "notes": "单色书写式图标；原图呈现效果也作为历史原稿保留。",
+  "parents": [
+    6
+  ],
+  "status": "历史探索",
+  "id": "011",
+  "stageName": "繁体禮图标",
+  "sourceFilename": "exec-bfd2cd5f-9cb5-4cc6-bbbc-9e5794343112.png",
+  "sourceCreatedAt": "2026-11-13T06:41:31.015Z",
+  "displayCreatedAt": "2026/11/13 14:41:31",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "20ce0b094008530e34d31df9fcddbec74bd2b7c2b300335a482a3f0a9711c3ef",
+  "sourceBytes": 1151768
+}

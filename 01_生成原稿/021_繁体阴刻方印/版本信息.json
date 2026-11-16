@@ -1,0 +1,21 @@
+{
+  "number": 21,
+  "title": "繁体阴刻方印",
+  "stage": "04",
+  "shape": "将禮字以反白嵌入深绿色近方形中，保留曲格、豆形及边缘开口。",
+  "culture": "反白空间与外侧缺口表达包容和开放。",
+  "notes": "繁体和实面结合导致较强重量感。",
+  "parents": [
+    19
+  ],
+  "status": "未采用探索",
+  "id": "021",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-7192b6d0-af12-4087-b98e-95c02781d29e.png",
+  "sourceCreatedAt": "2026-11-13T06:53:34.610Z",
+  "displayCreatedAt": "2026/11/13 14:53:34",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "60dcb21cd18b9f6d16564ff1e660c90faac466c2f904f4e74bdd69b2efd20917",
+  "sourceBytes": 1141481
+}

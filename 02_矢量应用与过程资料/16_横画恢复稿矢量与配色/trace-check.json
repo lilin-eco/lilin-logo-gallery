@@ -1,0 +1,36 @@
+{
+  "sourcePath": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-e9407866-ef37-4b80-8eae-b9d0eff44605.png",
+  "bounds": {
+    "xmin": 224,
+    "ymin": 218,
+    "xmax": 1056,
+    "ymax": 983
+  },
+  "aspectRatio": 1.087467362924282,
+  "contours": [
+    {
+      "area": 7653,
+      "vertices": 534
+    },
+    {
+      "area": 220866,
+      "vertices": 4788
+    },
+    {
+      "area": 59509,
+      "vertices": 2958
+    },
+    {
+      "area": -35019,
+      "vertices": 1668
+    },
+    {
+      "area": -33137,
+      "vertices": 860
+    }
+  ],
+  "epsilon": 2,
+  "intersectionOverUnion": 0.986964433266658,
+  "measurement": "在原图像素坐标下比较前景蒙版与矢量轮廓，避免两次缩放及放置取整引入误差。",
+  "scope": "格式描摹与单色化；不增删设计笔画。"
+}

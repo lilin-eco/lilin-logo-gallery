@@ -1,0 +1,21 @@
+{
+  "number": 44,
+  "title": "图形化低宽构形",
+  "stage": "09",
+  "shape": "采用低宽比例、上升共横和三角负形，突出横向几何轮廓。",
+  "culture": "共横表达连接，向右上延伸表达行动。",
+  "notes": "轮廓偏宽，完整名称与传统结构仍较抽象。",
+  "parents": [
+    42
+  ],
+  "status": "未采用探索",
+  "id": "044",
+  "stageName": "文字图形化",
+  "sourceFilename": "exec-4c201f38-cc25-4064-a67a-27cb10bd5005.png",
+  "sourceCreatedAt": "2026-11-13T09:32:35.422Z",
+  "displayCreatedAt": "2026/11/13 17:32:35",
+  "width": 1774,
+  "height": 887,
+  "sha256": "4d5d8a41625d4f5a141e1ffbd7efaef295cdc4e690d29b29508bcf074251ea47",
+  "sourceBytes": 1096544
+}

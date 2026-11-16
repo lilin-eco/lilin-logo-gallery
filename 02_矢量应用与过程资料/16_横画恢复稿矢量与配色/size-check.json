@@ -1,0 +1,52 @@
+[
+  {
+    "size": 512,
+    "foregroundComponents": 3,
+    "componentAreas": [
+      42508,
+      16160,
+      2131
+    ],
+    "monochromeAlphaMatch": true
+  },
+  {
+    "size": 256,
+    "foregroundComponents": 3,
+    "componentAreas": [
+      10689,
+      4028,
+      534
+    ],
+    "monochromeAlphaMatch": true
+  },
+  {
+    "size": 128,
+    "foregroundComponents": 3,
+    "componentAreas": [
+      2653,
+      1007,
+      134
+    ],
+    "monochromeAlphaMatch": true
+  },
+  {
+    "size": 64,
+    "foregroundComponents": 3,
+    "componentAreas": [
+      689,
+      258,
+      33
+    ],
+    "monochromeAlphaMatch": true
+  },
+  {
+    "size": 32,
+    "foregroundComponents": 3,
+    "componentAreas": [
+      164,
+      62,
+      9
+    ],
+    "monochromeAlphaMatch": true
+  }
+]

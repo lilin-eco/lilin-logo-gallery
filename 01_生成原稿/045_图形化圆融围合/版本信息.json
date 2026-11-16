@@ -1,0 +1,21 @@
+{
+  "number": 45,
+  "title": "图形化圆融围合",
+  "stage": "09",
+  "shape": "以圆融转折及外侧弧段包围双木结构，形成近圆符号。",
+  "culture": "围合而开口的空间表达包容。",
+  "notes": "较接近给字形加外部围合，融合关系不充分。",
+  "parents": [
+    42
+  ],
+  "status": "未采用探索",
+  "id": "045",
+  "stageName": "文字图形化",
+  "sourceFilename": "exec-ccb5983d-dfea-4a26-bfb5-4f82ec80a651.png",
+  "sourceCreatedAt": "2026-11-13T09:33:53.901Z",
+  "displayCreatedAt": "2026/11/13 17:33:53",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "8d4a3504d428d39616c1464b399d360599165dd261cd67828e57f892085094a1",
+  "sourceBytes": 1130809
+}

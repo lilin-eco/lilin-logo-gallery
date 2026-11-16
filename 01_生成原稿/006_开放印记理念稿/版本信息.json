@@ -1,0 +1,21 @@
+{
+  "number": 6,
+  "title": "开放印记理念稿",
+  "stage": "01",
+  "shape": "将开放印记分解为相承的结构笔画，统一其开口、转折和基础延伸关系。",
+  "culture": "善心为内部包容，善念为转折相承，善行为开放向前。",
+  "notes": "这是原现代印记文化规范的重要来源；不是后续莲花标志。",
+  "parents": [
+    3
+  ],
+  "status": "历史采用方向",
+  "id": "006",
+  "stageName": "最初三方向与应用",
+  "sourceFilename": "exec-a3accfe8-a8cf-4e77-afd2-7f3509b42190.png",
+  "sourceCreatedAt": "2026-11-13T05:22:25.195Z",
+  "displayCreatedAt": "2026/11/13 13:22:25",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "b4bd39b66e58a1b7227384fd79a2e7b48e6b2fa988946c23b4dfd95634c1726d",
+  "sourceBytes": 1093737
+}

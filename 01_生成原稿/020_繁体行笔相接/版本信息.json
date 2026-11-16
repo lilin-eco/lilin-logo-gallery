@@ -1,0 +1,21 @@
+{
+  "number": 20,
+  "title": "繁体行笔相接",
+  "stage": "04",
+  "shape": "用斜向手势和横向分隔形成接续，右部笔势适度前倾，基础收笔向右上展开。",
+  "culture": "转向相接为善念，前向收笔为善行。",
+  "notes": "动势增强，但字部之间仍需要留白控制。",
+  "parents": [
+    19
+  ],
+  "status": "结构深化",
+  "id": "020",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-c873652a-ea50-41b7-8215-2bf42555b101.png",
+  "sourceCreatedAt": "2026-11-13T06:53:03.598Z",
+  "displayCreatedAt": "2026/11/13 14:53:03",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "20d1f4305c4770572e3d73102cf56a9549b727b09b757bf349e2edaf16736385",
+  "sourceBytes": 1129612
+}

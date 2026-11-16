@@ -1,0 +1,21 @@
+{
+  "number": 63,
+  "title": "几何折莲瓣缘修正",
+  "stage": "13",
+  "shape": "保留折面和斜切语言，适度弯曲上部花瓣边缘，减弱纯三角山峰感。",
+  "culture": "沿用心形点画、双木共横与右向开放笔端。",
+  "notes": "最后四风格对比中的 A；尖细接触位置仍需在矢量定稿时处理。",
+  "parents": [
+    55
+  ],
+  "status": "四风格候选 A",
+  "id": "063",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-9022294f-f736-4289-b969-73785d483a90.png",
+  "sourceCreatedAt": "2026-11-13T10:04:54.434Z",
+  "displayCreatedAt": "2026/11/13 18:04:54",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "aeaf0dd8d3b1af52a24ecfa37bdf61b173d6903f90c3856a965ccef3aeed2fde",
+  "sourceBytes": 1095104
+}

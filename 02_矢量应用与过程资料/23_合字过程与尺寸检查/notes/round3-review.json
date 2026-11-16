@@ -1,0 +1,12 @@
+{
+  "retained": "R1c-restored-crossing",
+  "status": "candidate_for_user_selection",
+  "generatedCount": 6,
+  "rejectedCount": 5,
+  "reviewedFinalImages": ["preview-symbol.png", "preview-lockup.png", "qa-sizes-and-colors.png"],
+  "visibleStructure": ["礻", "双木共用横画", "双木竖画接入豆形承托", "右下开放收笔"],
+  "correctedIssue": "64px时两组笔画粘连，已局部收短礻末笔以扩大间隙",
+  "verifiedSizes": [512, 256, 128, 64, 32],
+  "verifiedColors": ["#36593E", "#000000", "#FFFFFF"],
+  "limitations": ["艺术合字不是规范汉字", "未进行受众盲测", "32px只作轮廓识别", "品牌组合中的名称为系统字体排版参考", "尚未发布到官网"]
+}

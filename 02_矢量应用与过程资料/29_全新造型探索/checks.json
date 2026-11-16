@@ -1,0 +1,65 @@
+{
+  "review": "四款原图、比较图与32/64/128/256像素预览人工检查",
+  "selected": [
+    {
+      "id": "A",
+      "key": "A-",
+      "name": "双木相承",
+      "sub": "横向交织 · 海军蓝与朱橙",
+      "file": "originals/A-exec-5e28309d-a5db-4251-b148-dd3d740be579.png",
+      "sha256": "dca745e66acb315e4bd2dc2c44007f7f457b5df709410f476d34cdab5d864c61",
+      "crop": {
+        "left": 147,
+        "top": 174,
+        "width": 1453,
+        "height": 581
+      }
+    },
+    {
+      "id": "B",
+      "key": "B-",
+      "name": "开合之礼",
+      "sub": "开放菱形 · 蓝紫与青色",
+      "file": "originals/B-exec-9210a685-9261-4220-b25d-25f33de8a901.png",
+      "sha256": "bdb2fe2ca0da043f9cea3d16e80dfa30cb97f72168d12331fb5cce63fe18d576",
+      "crop": {
+        "left": 161,
+        "top": 116,
+        "width": 945,
+        "height": 1022
+      }
+    },
+    {
+      "id": "C",
+      "key": "C2-",
+      "name": "向光生长",
+      "sub": "直立枝干 · 深紫、珊瑚与明黄",
+      "file": "originals/C2-exec-6b1daa42-388a-44bd-b31b-565f49e8ceb7.png",
+      "sha256": "4dfb4eeced96bb8130089397ecb297bba08c53f613e789cbd9dcc3202995ccfb",
+      "crop": {
+        "left": 123,
+        "top": 168,
+        "width": 1081,
+        "height": 865
+      }
+    },
+    {
+      "id": "D",
+      "key": "D-",
+      "name": "共生绽放",
+      "sub": "俯视花形 · 玫红、橙色与梅紫",
+      "file": "originals/D-exec-2c72a0aa-6298-4c01-89d0-71612d38c6b0.png",
+      "sha256": "7a7419938090ced4d123a2c10dc238bb2ab6d0ec034e3ff8805cf6f70088f54d",
+      "crop": {
+        "left": 282,
+        "top": 35,
+        "width": 972,
+        "height": 954
+      }
+    }
+  ],
+  "excluded": {
+    "file": "C-exec-1586fb5a-19fb-41b6-a8ca-212447abc58d.png",
+    "reason": "连续条带与右向运动感较强，容易偏向运动品牌，替换为直立枝干方案"
+  }
+}

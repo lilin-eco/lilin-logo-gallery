@@ -1,0 +1,21 @@
+{
+  "number": 37,
+  "title": "礼林古体共笔稿",
+  "stage": "08",
+  "shape": "从古体礼的转折手势出发，把双木放入共同的回转支撑中。",
+  "culture": "内侧包容与转折相连承担文化表达。",
+  "notes": "古体来源不能替代现代名称识读；此稿名称辨识不稳。",
+  "parents": [
+    36
+  ],
+  "status": "自检淘汰",
+  "id": "037",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-502eba19-b6a9-44e1-a5e4-809636f7cf48.png",
+  "sourceCreatedAt": "2026-11-13T08:33:24.467Z",
+  "displayCreatedAt": "2026/11/13 16:33:24",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "574a35ae41b1767ac9b04879ff73aea0e33d5ec91a5ab23b88728b07ebebc3d0",
+  "sourceBytes": 1142654
+}

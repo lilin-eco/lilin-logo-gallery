@@ -1,0 +1,21 @@
+{
+  "number": 24,
+  "title": "原印碑刻切面",
+  "stage": "05",
+  "shape": "将原印记处理为清楚的直线、尖切端和斜面，强调现代碑刻般的结构。",
+  "culture": "清晰转折与开放收笔承载连接及行动的含义。",
+  "notes": "与圆融版本相比更硬朗，名称仍来自原印记手势。",
+  "parents": [
+    6
+  ],
+  "status": "风格研究",
+  "id": "024",
+  "stageName": "原印记的传统风格",
+  "sourceFilename": "exec-589f8c43-0e17-4657-ab0a-67aee15cbe70.png",
+  "sourceCreatedAt": "2026-11-13T07:33:21.425Z",
+  "displayCreatedAt": "2026/11/13 15:33:21",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "fe9420cf40c10cffb9866327daa276c123042c9e9b82bf1ef2c53ae0506b7510",
+  "sourceBytes": 1100790
+}

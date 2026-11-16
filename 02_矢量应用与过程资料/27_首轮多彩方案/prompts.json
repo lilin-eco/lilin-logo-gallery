@@ -1,0 +1,43 @@
+{
+  "tool": "内置图像生成工具",
+  "date": "2026-11-16",
+  "reference": "C:\\Users\\Administrator\\Documents\\ChatGPT\\公司官网\\output\\graphic-symbols-2026-11-16\\originals\\06-exec-7f7a64f5-b57d-42c0-956e-374ff519cc1c.png",
+  "prompts": [
+    {
+      "id": "A",
+      "name": "蓝青暖橙",
+      "mode": "三色分瓣",
+      "palette": [
+        "#2663AA",
+        "#24B6A8",
+        "#F28856"
+      ],
+      "prompt": "Use case: logo-brand / color-only edit. Recolor the provided chosen graphic lotus / 礼 monogram for 礼林生态. Keep the EXACT silhouette, petal count, proportions, internal white character channels, small seed stroke, gaps, all curves and positions. This is a color exploration, NOT a redesign. Use multiple colors IN THE MARK ITSELF, not colored backgrounds. Preserve pure white background and every existing white negative-space cut so the name-source gesture remains clear. No new shapes, contour lines, decorative cuts, borders, text, captions, hearts, flowers, shadows, texture, 3D, glass or mockups. Show ONE large centered logo with generous margins. Palette A: FLAT THREE-COLOR petal blocking. LEFT petal and the small detached seed stroke: clean rich cobalt blue #2663AA. RIGHT petal and its lower outward sweep: fresh teal #24B6A8. UPPER central petal: warm clear orange #F28856. All three colors must be clearly visible together, with restrained saturation and a professional contemporary corporate feel. No gradient, no fourth color. Do not recolor the whole logo with a single gradient. Color logic: warm orange conveys 善心 and warmth, blue conveys 善念 and considered connection, teal conveys 善行 and growth. Keep every contour exactly as the reference."
+    },
+    {
+      "id": "B",
+      "name": "蓝紫青渐变",
+      "mode": "分瓣柔和渐变",
+      "palette": [
+        "#7354D8",
+        "#475BE6",
+        "#345EDA",
+        "#40BDD8",
+        "#1EA999",
+        "#34C7C2"
+      ],
+      "prompt": "Use case: logo-brand / color-only edit. Recolor the provided chosen graphic lotus / 礼 monogram for 礼林生态. Keep the EXACT silhouette, petal count, proportions, internal white character channels, small seed stroke, gaps, all curves and positions. This is a color exploration, NOT a redesign. Use multiple colors IN THE MARK ITSELF, not colored backgrounds. Preserve pure white background and every existing white negative-space cut so the name-source gesture remains clear. No new shapes, contour lines, decorative cuts, borders, text, captions, hearts, flowers, shadows, texture, 3D, glass or mockups. Show ONE large centered logo with generous margins. Palette B: CONTEMPORARY MULTICOLOR DIGITAL GRADIENT, with a separate controlled gradient IN EACH existing petal. UPPER petal smoothly transitions violet #7354D8 to indigo #475BE6; LEFT petal and detached seed transition cobalt #345EDA toward cyan #40BDD8; RIGHT petal transitions emerald-teal #1EA999 toward aqua #34C7C2. These three hue families should be simultaneously apparent, calm, luminous and readable, not neon gaming RGB, not a rainbow across the whole logo. Flat 2D smooth gradients only, no gloss, transparency, dimensional highlights or shadows. White cuts remain fully white. The gentle central accepting space carries 善心, connected hue rhythm 善念, rightward aqua sweep 善行. Exact original shape, no added strokes."
+    },
+    {
+      "id": "C",
+      "name": "珊瑚紫暖金",
+      "mode": "三色分瓣",
+      "palette": [
+        "#7760B2",
+        "#DCA842",
+        "#E76B64"
+      ],
+      "prompt": "Use case: logo-brand / color-only edit. Recolor the provided chosen graphic lotus / 礼 monogram for 礼林生态. Keep the EXACT silhouette, petal count, proportions, internal white character channels, small seed stroke, gaps, all curves and positions. This is a color exploration, NOT a redesign. Use multiple colors IN THE MARK ITSELF, not colored backgrounds. Preserve pure white background and every existing white negative-space cut so the name-source gesture remains clear. No new shapes, contour lines, decorative cuts, borders, text, captions, hearts, flowers, shadows, texture, 3D, glass or mockups. Show ONE large centered logo with generous margins. Palette C: SOPHISTICATED WARM MULTICOLOR, flat color blocking with THREE clearly differentiated petal colors. UPPER central petal: warm coral #E76B64; LEFT petal and small detached seed: muted vivid violet #7760B2; RIGHT petal and lower open sweep: warm amber #DCA842. Balance warm coral, violet and amber so the emblem is lively yet composed. Not festive red-and-gold, not metallic gold, not pastel baby colors. No gradients, no outlines, no extra colors. The warm coral expresses 善心, violet connection 善念, outward amber petal 善行. Exact geometry unchanged, white openings remain clear."
+    }
+  ]
+}

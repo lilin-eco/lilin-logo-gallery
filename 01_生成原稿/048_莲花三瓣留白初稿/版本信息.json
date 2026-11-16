@@ -1,0 +1,21 @@
+{
+  "number": 48,
+  "title": "莲花三瓣留白初稿",
+  "stage": "10",
+  "shape": "在三瓣实面外轮廓中以反白组织礼林合字，下部向右打开。",
+  "culture": "花心留白、共笔和开放端分别承担三善表达。",
+  "notes": "紧凑但上部较尖，容易产生火焰联想，后续修成五瓣。",
+  "parents": [
+    47
+  ],
+  "status": "修正前原稿",
+  "id": "048",
+  "stageName": "莲花与礼林",
+  "sourceFilename": "exec-39c6fcea-4395-4bfe-b052-6fdf6fe1bb9c.png",
+  "sourceCreatedAt": "2026-11-13T09:39:04.590Z",
+  "displayCreatedAt": "2026/11/13 17:39:04",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "a7fa3e406d9aa5e4bdbd1a2d297af86ee37432263fa56ea4bc2e61f4945a3ea3",
+  "sourceBytes": 921769
+}

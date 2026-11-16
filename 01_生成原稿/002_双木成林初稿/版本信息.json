@@ -1,0 +1,19 @@
+{
+  "number": 2,
+  "title": "双木成林初稿",
+  "stage": "01",
+  "shape": "将两个木的结构合为几何符号，中心形成对称支撑和较大的负形，再与中英文字标组合。",
+  "culture": "双木之间的支持关系表达联结与协作；理念尚未作分项标注。",
+  "notes": "名称中的“林”是主要图形来源，不包含完整“礼”字。",
+  "parents": [],
+  "status": "初始提案",
+  "id": "002",
+  "stageName": "最初三方向与应用",
+  "sourceFilename": "exec-c8864090-f109-48f2-8c9f-1485e58ad1f9.png",
+  "sourceCreatedAt": "2026-11-13T05:17:56.136Z",
+  "displayCreatedAt": "2026/11/13 13:17:56",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "262f9f8eeb1dd9ea5717e80623c38b31dda0dd38e7abc1be52d74cfb21621f52",
+  "sourceBytes": 1091866
+}

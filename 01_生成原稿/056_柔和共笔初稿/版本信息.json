@@ -1,0 +1,21 @@
+{
+  "number": 56,
+  "title": "柔和共笔初稿",
+  "stage": "13",
+  "shape": "采用宽窄变化的书写笔意，让双木向下汇入舒展的下瓣。",
+  "culture": "心形点画与包容下瓣为善心，底部汇合为善念，右瓣舒展为善行。",
+  "notes": "底部汇合处过细，后续局部加宽。",
+  "parents": [
+    54
+  ],
+  "status": "修正前原稿",
+  "id": "056",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-05457c4b-b5b4-4c32-9647-3309fff55765.png",
+  "sourceCreatedAt": "2026-11-13T09:59:17.521Z",
+  "displayCreatedAt": "2026/11/13 17:59:17",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "25b927912ec8a587299bf827e6e10fb1685cef8649cbb029567f9300d4797268",
+  "sourceBytes": 1083115
+}

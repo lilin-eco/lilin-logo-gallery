@@ -1,0 +1,22 @@
+{
+  "number": 52,
+  "title": "莲花三善开口修正",
+  "stage": "11",
+  "shape": "保留五瓣和心形点画，恢复右下贯通外界的通道，并几何化心形上部。",
+  "culture": "小心形为善心，共用横画为善念，向外开口为善行。",
+  "notes": "恢复开口的保留稿；随后反馈视觉重量偏大。",
+  "parents": [
+    50,
+    51
+  ],
+  "status": "减重前原稿",
+  "id": "052",
+  "stageName": "莲花三善融合",
+  "sourceFilename": "exec-485468d6-dae7-408c-8147-65a651883846.png",
+  "sourceCreatedAt": "2026-11-13T09:45:45.476Z",
+  "displayCreatedAt": "2026/11/13 17:45:45",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "153a2ae9e284368c4f9d6ce2ca726507994d4108e69fb8adbd48a7b6b92f4a49",
+  "sourceBytes": 917989
+}

@@ -1,0 +1,21 @@
+{
+  "number": 36,
+  "title": "禮林传统共笔稿",
+  "stage": "08",
+  "shape": "保留礻与下部豆形承托，在右侧用双木替代部分传统字部，形成紧凑合字。",
+  "culture": "承托留白为善心，双木共笔为善念，开放底端为善行。",
+  "notes": "顶部增加了重复冠形和竖画，细节偏密；自检淘汰。",
+  "parents": [
+    35
+  ],
+  "status": "自检淘汰",
+  "id": "036",
+  "stageName": "合字结构自检",
+  "sourceFilename": "exec-7483a2c8-76bd-4276-a5e3-a95f55494761.png",
+  "sourceCreatedAt": "2026-11-13T08:32:59.400Z",
+  "displayCreatedAt": "2026/11/13 16:32:59",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "15bd37cf1b650172c4ecee2adce196fb61af60b12ea65b2a5c3e4808f0f54303",
+  "sourceBytes": 1119607
+}

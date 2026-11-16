@@ -1,0 +1,21 @@
+{
+  "number": 17,
+  "title": "繁体温润圆角",
+  "stage": "04",
+  "shape": "在完整禮字骨架上使用温和圆角和较软的笔端，保留右部曲格与承托。",
+  "culture": "圆角和留白表达温和与关照。",
+  "notes": "字形清楚，但作为独特标志的结构创意仍有限。",
+  "parents": [
+    16
+  ],
+  "status": "可读性研究",
+  "id": "017",
+  "stageName": "可读性与定制字形",
+  "sourceFilename": "exec-e27efc4c-4dd9-4221-a385-119d65dbcb20.png",
+  "sourceCreatedAt": "2026-11-13T06:50:15.027Z",
+  "displayCreatedAt": "2026/11/13 14:50:15",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "0cdb2e025bad0c79fa3e86731b003f56895a4320d1b037a8ef5f2372e88c9ad7",
+  "sourceBytes": 1132747
+}

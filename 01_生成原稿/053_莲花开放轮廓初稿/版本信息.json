@@ -1,0 +1,21 @@
+{
+  "number": 53,
+  "title": "莲花开放轮廓初稿",
+  "stage": "12",
+  "shape": "去除大片实心瓣面，把花瓣处理为开放轮廓，并将合字由反白转为正形。",
+  "culture": "保留心形点画、字部连接和开放末端。",
+  "notes": "填充量降低，但中心字重与花瓣轮廓之间还需平衡。",
+  "parents": [
+    52
+  ],
+  "status": "轻量化初稿",
+  "id": "053",
+  "stageName": "莲花轻量化",
+  "sourceFilename": "exec-f2e272d6-f195-448f-8c1c-9774c7086a63.png",
+  "sourceCreatedAt": "2026-11-13T09:48:55.157Z",
+  "displayCreatedAt": "2026/11/13 17:48:55",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "d88ad45e85a9c1974ce156df6ba26479e02ce86a36283f7a3310a0e96e992fd4",
+  "sourceBytes": 1088082
+}

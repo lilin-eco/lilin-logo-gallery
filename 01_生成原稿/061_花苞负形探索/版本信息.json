@@ -1,0 +1,21 @@
+{
+  "number": 61,
+  "title": "花苞负形探索",
+  "stage": "13",
+  "shape": "以三组抱合花瓣组成竖向花苞，中心心形与分枝通道构成负形。",
+  "culture": "中心心形与包合为善心，成对通道为善念，外侧开缝为善行。",
+  "notes": "双木被泛化为植物形，名称读法不足，后续修正。",
+  "parents": [
+    58
+  ],
+  "status": "修正前原稿",
+  "id": "061",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-a6c5b6a7-c2f0-48da-8e05-ba80f7285bb3.png",
+  "sourceCreatedAt": "2026-11-13T10:02:34.663Z",
+  "displayCreatedAt": "2026/11/13 18:02:34",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "5d685a17fba5e242ff12974f1667d8a7683535ed71bba49da575598367084660",
+  "sourceBytes": 1148762
+}

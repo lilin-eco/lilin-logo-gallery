@@ -1,0 +1,21 @@
+{
+  "number": 42,
+  "title": "图形化开放方构",
+  "stage": "09",
+  "shape": "以粗直线、斜切笔和共用上下结构形成开放近方形符号。",
+  "culture": "点画与内部留白表达善心，共笔表达善念，右向基础表达善行。",
+  "notes": "图形感增强，完整繁体结构未逐笔保留。",
+  "parents": [
+    41
+  ],
+  "status": "图形化探索",
+  "id": "042",
+  "stageName": "文字图形化",
+  "sourceFilename": "exec-ca109ab8-17da-4685-ab11-81d7ee6a095b.png",
+  "sourceCreatedAt": "2026-11-13T09:31:43.080Z",
+  "displayCreatedAt": "2026/11/13 17:31:43",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "ee3333ed7640b7f2b3332503e83a891183d0ed20f2364454f95ee4975db0d185",
+  "sourceBytes": 873886
+}

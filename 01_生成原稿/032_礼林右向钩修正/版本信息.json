@@ -1,0 +1,21 @@
+{
+  "number": 32,
+  "title": "礼林右向钩修正",
+  "stage": "07",
+  "shape": "将共享中干的左卷改为向右的小转钩，其余结构沿用前稿。",
+  "culture": "右向转钩强调由连接走向行动。",
+  "notes": "局部纠正了转折方向，整体仍依赖共笔识读。",
+  "parents": [
+    31
+  ],
+  "status": "结构修正",
+  "id": "032",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-6d927fdd-5b52-4516-84ee-3a63d63902be.png",
+  "sourceCreatedAt": "2026-11-13T08:00:15.633Z",
+  "displayCreatedAt": "2026/11/13 16:00:15",
+  "width": 1404,
+  "height": 1120,
+  "sha256": "2e72b1a9ce8d841eba9b9c65a5f1447ba128c062e25ed2f86ac433961355492b",
+  "sourceBytes": 1508670
+}

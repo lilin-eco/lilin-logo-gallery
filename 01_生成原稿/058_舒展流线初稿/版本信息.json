@@ -1,0 +1,21 @@
+{
+  "number": 58,
+  "title": "舒展流线初稿",
+  "stage": "13",
+  "shape": "以横向流动曲线连接礼林与三瓣莲花轮廓，强调右向展开。",
+  "culture": "包容空间、共用路径及向右展开的末端对应三善。",
+  "notes": "与柔和稿较相近，未收入最后四风格对比。",
+  "parents": [
+    54
+  ],
+  "status": "自检淘汰",
+  "id": "058",
+  "stageName": "莲花多风格",
+  "sourceFilename": "exec-db913dfa-f568-49c0-ad10-9741c8ca0e66.png",
+  "sourceCreatedAt": "2026-11-13T09:59:52.926Z",
+  "displayCreatedAt": "2026/11/13 17:59:52",
+  "width": 1774,
+  "height": 887,
+  "sha256": "6156ec64581a8b2307982c5401b75b56c9166f62d01e9fd3a4c3403e3473e407",
+  "sourceBytes": 1146443
+}

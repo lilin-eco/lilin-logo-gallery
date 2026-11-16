@@ -1,0 +1,51 @@
+{
+  "comparison": "前景紧致边界归一到512平方的轮廓对照，不是受众识读或记忆测试。",
+  "originalCopiesVerified": true,
+  "checks": [
+    {
+      "id": "D",
+      "name": "青柠海蓝",
+      "source": "exec-c2d35037-3eaa-4d93-9aa9-95de14f63ce6.png",
+      "sha256": "fd712634fd08fdb488f844de39353aeaeefc13d7c1f1a363b05e41029bd35c14",
+      "width": 1536,
+      "height": 1024,
+      "normalizedSilhouetteIoU": 0.9822734200702437
+    },
+    {
+      "id": "E",
+      "name": "玫紫晴蓝",
+      "source": "exec-9a560c75-776d-4094-b836-6b4d4d835350.png",
+      "sha256": "27a2748b38993719ef9ed8c762fd8458ae1d354ec325dfc8d489d9cb86aebcf1",
+      "width": 1536,
+      "height": 1024,
+      "normalizedSilhouetteIoU": 0.9860576020841842
+    },
+    {
+      "id": "F",
+      "name": "橘红海蓝",
+      "source": "exec-67f8a6cd-7f23-47dd-9ed0-37681917b5a1.png",
+      "sha256": "8c51b27dac07ccce648fa6ce896c2add60ccc982b710de41c2687a5f69f0d5bf",
+      "width": 1536,
+      "height": 1024,
+      "normalizedSilhouetteIoU": 0.9954985420154557
+    },
+    {
+      "id": "G",
+      "name": "日光渐彩",
+      "source": "exec-27d99134-a284-4fdb-b0d5-80eaa316b19f.png",
+      "sha256": "7bb3d864f21a387bfc403f52f3349767eff58b555c692c226bbfd908121ee5bd",
+      "width": 1536,
+      "height": 1024,
+      "normalizedSilhouetteIoU": 0.9879165424080762
+    },
+    {
+      "id": "H",
+      "name": "雾蓝杏紫",
+      "source": "exec-97e1aae0-cda3-4077-af1f-47cc8e4960b5.png",
+      "sha256": "3cba4cf8621b0479df887312c5a350842d4e727b7d30a75cc0503baa50d9a0ee",
+      "width": 1536,
+      "height": 1024,
+      "normalizedSilhouetteIoU": 0.9904022848539863
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 10,
+  "title": "繁体方正构形",
+  "stage": "02",
+  "shape": "用直线、矩形留白和水平基础组织禮字，突出曲格、豆形及左侧礻。",
+  "culture": "秩序与结构连接承载理念，不另加图案。",
+  "notes": "较接近完整字形构造，区别于开放印记的抽象外形。",
+  "parents": [
+    6
+  ],
+  "status": "历史探索",
+  "id": "010",
+  "stageName": "繁体禮图标",
+  "sourceFilename": "exec-324e131a-4ade-423d-82e1-9f1dd3da9d7b.png",
+  "sourceCreatedAt": "2026-11-13T06:41:02.827Z",
+  "displayCreatedAt": "2026/11/13 14:41:02",
+  "width": 1086,
+  "height": 1448,
+  "sha256": "0dc6a70c5116bc8f7ac7420670ea9cb0b4b78dbc815e428e5b24de0b900538aa",
+  "sourceBytes": 614854
+}

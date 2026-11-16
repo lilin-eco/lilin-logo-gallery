@@ -1,0 +1,22 @@
+{
+  "number": 34,
+  "title": "礼林上下共笔稿",
+  "stage": "07",
+  "shape": "上部保留较完整礼字手势，下部林借用其竖画及转折形成支撑。",
+  "culture": "上、下借笔形成相承关系。",
+  "notes": "仍存在两个完整字上下安排的观感。",
+  "parents": [
+    30,
+    33
+  ],
+  "status": "未采用探索",
+  "id": "034",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-91eb18f8-66fd-4b8e-a0a6-c96bb460464c.png",
+  "sourceCreatedAt": "2026-11-13T08:12:20.412Z",
+  "displayCreatedAt": "2026/11/13 16:12:20",
+  "width": 1448,
+  "height": 1086,
+  "sha256": "3df9017661a02fe8bf7a3ae19f2078406243809cb95d0e366f928fa1d249b275",
+  "sourceBytes": 1149281
+}

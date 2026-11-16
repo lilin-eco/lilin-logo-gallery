@@ -1,0 +1,21 @@
+{
+  "number": 9,
+  "title": "繁体现代印记",
+  "stage": "02",
+  "shape": "保留开放近方形手势，将繁体右部的曲格与豆形承托纳入同一印记。",
+  "culture": "留白为善心，横斜转折为善念，开放底笔为善行。",
+  "notes": "繁体信息较完整，但格栅与外部转折带来复杂度。",
+  "parents": [
+    6
+  ],
+  "status": "历史探索",
+  "id": "009",
+  "stageName": "繁体禮图标",
+  "sourceFilename": "exec-030a7f1d-d840-4419-b011-5780c92cf822.png",
+  "sourceCreatedAt": "2026-11-13T06:40:31.913Z",
+  "displayCreatedAt": "2026/11/13 14:40:31",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "75c6b238b8adefb2f8cf13633768fb6c3c450ed8d86e29a53aedaaf8eebbbb47",
+  "sourceBytes": 742574
+}

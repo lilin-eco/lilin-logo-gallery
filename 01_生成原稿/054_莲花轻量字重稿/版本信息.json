@@ -1,0 +1,21 @@
+{
+  "number": 54,
+  "title": "莲花轻量字重稿",
+  "stage": "12",
+  "shape": "在开放轮廓基础上继续减轻中央笔画、缩小心形并整理曲线。",
+  "culture": "保持善心点画、善念共笔及善行外向收笔的结构。",
+  "notes": "与前一实面稿相比明显减重；32px等小尺寸仍需专用光学校正。",
+  "parents": [
+    53
+  ],
+  "status": "轻量化候选",
+  "id": "054",
+  "stageName": "莲花轻量化",
+  "sourceFilename": "exec-c97f83cf-c42c-4a9a-ab5f-f98a3620b412.png",
+  "sourceCreatedAt": "2026-11-13T09:50:06.745Z",
+  "displayCreatedAt": "2026/11/13 17:50:06",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6cf8dfd4f69b18d8988119e83471f0c727f0177e6720fae077c99a9123963d68",
+  "sourceBytes": 1132822
+}

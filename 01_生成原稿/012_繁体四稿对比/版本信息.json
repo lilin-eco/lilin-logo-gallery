@@ -1,0 +1,24 @@
+{
+  "number": 12,
+  "title": "繁体四稿对比",
+  "stage": "02",
+  "shape": "将现代印记、圆融篆意、方正构形与隶意人文排在同一张比较板中。",
+  "culture": "四种字形处理共用三善文化背景。",
+  "notes": "此图包含四个方案，不计作四张独立生成原图。",
+  "parents": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "status": "对比展示",
+  "id": "012",
+  "stageName": "繁体禮图标",
+  "sourceFilename": "exec-99ff3704-1018-4a59-a5ba-8d0f574b4b32.png",
+  "sourceCreatedAt": "2026-11-13T06:42:58.184Z",
+  "displayCreatedAt": "2026/11/13 14:42:58",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "bd889ae2b0eac4a9df584e8ac01c7b7bf323a37e31f9bcb4895fda44b9f5e96a",
+  "sourceBytes": 1254828
+}

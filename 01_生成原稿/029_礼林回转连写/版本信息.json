@@ -1,0 +1,21 @@
+{
+  "number": 29,
+  "title": "礼林回转连写",
+  "stage": "07",
+  "shape": "用礻的起笔贯穿双木骨架，下部转弯后向右舒展，形成单一连写轮廓。",
+  "culture": "回转中的留白为善心，共笔为善念，外向收笔为善行。",
+  "notes": "下部回环与笔画穿插增加了辨识负担。",
+  "parents": [
+    27
+  ],
+  "status": "合字探索",
+  "id": "029",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-8015886b-0134-4e5a-a47d-9efffc204398.png",
+  "sourceCreatedAt": "2026-11-13T07:53:17.313Z",
+  "displayCreatedAt": "2026/11/13 15:53:17",
+  "width": 1448,
+  "height": 1086,
+  "sha256": "3412146aa97bdcec8f9147231899851c6414ceebd8ca5241651c087a63542c7a",
+  "sourceBytes": 1156316
+}

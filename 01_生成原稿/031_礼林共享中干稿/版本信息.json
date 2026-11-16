@@ -1,0 +1,21 @@
+{
+  "number": 31,
+  "title": "礼林共享中干稿",
+  "stage": "07",
+  "shape": "以第一木的竖干兼作礼字右侧竖画，减少独立竖干，构成三组主要竖势。",
+  "culture": "同一笔承担两字结构，强化共笔连接。",
+  "notes": "中干下部向左卷曲，礼字右向转折线索不充分。",
+  "parents": [
+    30
+  ],
+  "status": "结构修正",
+  "id": "031",
+  "stageName": "礼林合字探索",
+  "sourceFilename": "exec-d1a06ff2-ebe4-4caf-abdb-7b4a887f35cb.png",
+  "sourceCreatedAt": "2026-11-13T07:59:04.331Z",
+  "displayCreatedAt": "2026/11/13 15:59:04",
+  "width": 1404,
+  "height": 1120,
+  "sha256": "c85eb42ed4597abe173fe38ab27e603f26fba90777b33250b670d396dd228517",
+  "sourceBytes": 1159430
+}

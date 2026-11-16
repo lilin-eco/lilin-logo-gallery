@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "id": "01",
+  "name": "榫合成林",
+  "shape": "榫接式直条共用中央分叉，形成紧凑横方形。",
+  "culture": "连接处代表善念，容纳空隙对应善心，向外端部对应善行。",
+  "prompt": "Use case: logo-brand. Asset: ONE original corporate logo SYMBOL for Chinese brand 礼林生态 / LILIN ECO, company 达州礼林生态科技有限责任公司. Its scope includes software, information systems, engineering, ecological and practical services; represent a coherent corporate brand, NOT a collage of business icons. Values 善心、善念、善行 guide accepting space, thoughtful structural joining and outward purposeful action. Graphic-first contemporary identity, memorable silhouette, medium optical weight with generous white openings, professionally balanced, easy to reproduce. This is a NEW independent design with no prior image as a reference. Construction direction: Interlocking joinery: TWO thick L-shaped structural pieces share ONE forked central tenon, creating a compact asymmetrical rectangular emblem. Crisp straight bars, just two rounded inner corners, broad square-cut terminals. Distinct silhouette like an ingenious small engineered joint, not a cube or ribbon. Palette: Ink navy and vivid tangerine, one tiny saffron connecting face. Output ONE centered standalone emblem on clean pure WHITE with generous margins. NO rendered company name or text: wordmark will be consistently laid out separately. No comparison board, captions, labels, mockups, texture, shadows, 3D rendering, generic corporate swoosh or extraneous pictograms. Do not copy any existing brand. Finish as crisp flat vector-like artwork with broad clean shapes.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-2a2bd3c3-d978-49db-8306-58d2f98327d3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-2a2bd3c3-d978-49db-8306-58d2f98327d3.png"
+}

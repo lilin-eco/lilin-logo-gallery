@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A",
+    "width": 1144,
+    "height": 761,
+    "inkFraction": 0.2826700238001158
+  },
+  {
+    "id": "B",
+    "width": 1220,
+    "height": 624,
+    "inkFraction": 0.2580561685582177
+  },
+  {
+    "id": "C",
+    "width": 810,
+    "height": 829,
+    "inkFraction": 0.3741291754158662
+  },
+  {
+    "id": "D",
+    "width": 820,
+    "height": 1038,
+    "inkFraction": 0.4461910804079139
+  }
+]
