@@ -1,0 +1,31 @@
+{
+  "number": 163,
+  "id": "163",
+  "title": "新款64_同心共生",
+  "roundNumber": "64",
+  "shape": "三组柔圆片体以内缘构成中央白莲，以双侧开口和成对接点形成紧凑轮廓。",
+  "culture": "中心留白为善心，成对接点为善念，双侧开口为善行。",
+  "notes": "紧凑近三角轮廓与中央白莲较清楚，适合图标方向；上部转折可产生鸟形联想，需要进一步做品牌识别评估。",
+  "status": "柔构实色候选",
+  "centralLotus": true,
+  "stage": "24",
+  "stageName": "柔构实色六案",
+  "parents": [],
+  "sourceFilename": "exec-759a15d8-8bca-465c-b7ba-3d0977376227.png",
+  "sourceCreatedAt": "2026-11-17T02:09:56.912Z",
+  "displayCreatedAt": "2026/11/17 10:09:56",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "0b76a8c6bb38e83b16c5e6fad98c74790caab9925402d8153c814fc6659c3275",
+  "sourceBytes": 1099573,
+  "folder": "01_生成原稿/163_新款64_同心共生",
+  "image": "01_生成原稿/163_新款64_同心共生/原图.png",
+  "thumb": "00_索引素材/163.jpg",
+  "description": "01_生成原稿/163_新款64_同心共生/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/35_柔构实色六案",
+  "assessment": {
+    "engineering": "三片柔圆实体共享支撑与接点。",
+    "software": "大白槽和双侧开放关系。",
+    "name": "转折与成对连接保留名称意图，不能直接读为完整礼林。"
+  }
+}

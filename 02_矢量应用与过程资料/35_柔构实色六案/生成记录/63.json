@@ -1,0 +1,17 @@
+{
+  "id": "63",
+  "number": 63,
+  "name": "莲开成林",
+  "centralLotus": true,
+  "shape": "五瓣彩莲居中，错位双曲根部交汇后共用开放下钩。",
+  "culture": "莲心承托为善心，双根共接为善念，曲线开放为善行。",
+  "paletteDirection": "麦金、陶红、杏橙花瓣与墨棕 #654431 根部，暖色实色分区。",
+  "prompt": "Use case: logo-brand / precise color-only edit. Keep the EXACT geometry, five lotus petals, paired crossing stems, small dot, lower open hook, proportions, white gaps, smooth contours and position of this supplied 礼林生态 mark. Change ONLY THE GREEN ROOT/STEM AND DOT COLOR: make ALL currently dark green stems and the small green dot a single warm ESPRESSO BROWN #654431. Preserve the existing golden ochre #C99634 central lotus petal, warm terracotta #BC5E3E lower side petals and apricot #D98B52 upper side petals as clear solid color groups. This is a completely WARM earthy color direction: no green, blue, purple, lavender or cool gray anywhere. Opaque matte FLAT GRAPHIC FILLS, no gradients, highlights, shadows, gloss, lighting, grain or texture. Pure WHITE background and pure white gaps unchanged. One centered standalone emblem, no text, labels, swatches or mockup. Do not redesign, add or remove any strokes.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-4fda7fd0-67d4-4084-947a-249f79372c04.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-4fda7fd0-67d4-4084-947a-249f79372c04.png",
+  "revision": 2,
+  "revisionReason": "将深绿根部改为墨棕，形成全暖色候选。",
+  "reference": "C:/Users/Administrator/Documents/ChatGPT/公司官网/output/礼林Logo完整档案_2026-11-16/02_矢量应用与过程资料/35_柔构实色六案/63-review.png",
+  "archivedReference": "inputs/63-before-warm-stems.png"
+}

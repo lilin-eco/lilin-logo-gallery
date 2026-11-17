@@ -1,0 +1,31 @@
+{
+  "number": 158,
+  "id": "158",
+  "title": "新款59_柔构相承",
+  "roundNumber": "59",
+  "shape": "两组柔拱分叉带面在偏置接头处相承，点折与开放尾钩参与横向构图。",
+  "culture": "善心为两侧开放空间，善念为共同接点，善行为贯通外展。",
+  "notes": "横向展开和三色分区较清楚；整体较宽，适合横版组合，方形小图标中主体高度较低。",
+  "status": "柔构实色候选",
+  "centralLotus": false,
+  "stage": "24",
+  "stageName": "柔构实色六案",
+  "parents": [],
+  "sourceFilename": "exec-07850b3b-444d-4fa1-a1f4-fd5ed68be27c.png",
+  "sourceCreatedAt": "2026-11-17T02:07:15.233Z",
+  "displayCreatedAt": "2026/11/17 10:07:15",
+  "width": 1774,
+  "height": 887,
+  "sha256": "fa3118b14714e086ffb8dd7201f8e77afe78221cf27d7e756d47e808663c4736",
+  "sourceBytes": 1071104,
+  "folder": "01_生成原稿/158_新款59_柔构相承",
+  "image": "01_生成原稿/158_新款59_柔构相承/原图.png",
+  "thumb": "00_索引素材/158.jpg",
+  "description": "01_生成原稿/158_新款59_柔构相承/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/35_柔构实色六案",
+  "assessment": {
+    "engineering": "两组宽弧在偏置接头处承托，结构关系为间接行业来源。",
+    "software": "通过共用通路、分叉与开放白槽表达连接。",
+    "name": "点折开钩与成对分叉有来源联系，实际更接近横向艺术符号，未形成完整礼林字形。"
+  }
+}

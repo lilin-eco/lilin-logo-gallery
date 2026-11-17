@@ -1,0 +1,31 @@
+{
+  "number": 160,
+  "id": "160",
+  "title": "新款61_双木向行",
+  "roundNumber": "61",
+  "shape": "单一主干承接双分叉与礼的点折开钩，在中央共享鞍式接点。",
+  "culture": "共享接点为善念，通道留白为善心，斜向展开为善行。",
+  "notes": "名称字形感较强，软圆分叉和共享中部较清楚；仍带艺术合字气质，不等于规范完整汉字。",
+  "status": "柔构实色候选",
+  "centralLotus": false,
+  "stage": "24",
+  "stageName": "柔构实色六案",
+  "parents": [],
+  "sourceFilename": "exec-047715ff-4386-4f0f-8f62-edfd55742e85.png",
+  "sourceCreatedAt": "2026-11-17T02:11:44.141Z",
+  "displayCreatedAt": "2026/11/17 10:11:44",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "a2a2c666575ac3398d92f56a2a9230c49f656879f52e6007e14871817c53cef1",
+  "sourceBytes": 1050957,
+  "folder": "01_生成原稿/160_新款61_双木向行",
+  "image": "01_生成原稿/160_新款61_双木向行/原图.png",
+  "thumb": "00_索引素材/160.jpg",
+  "description": "01_生成原稿/160_新款61_双木向行/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/35_柔构实色六案",
+  "assessment": {
+    "engineering": "共同中部接点和连续承托带面。",
+    "software": "分叉路径与模块式对接关系。",
+    "name": "重组后礼的点折和双木来源相接，比初稿两个独立字形更统一。"
+  }
+}

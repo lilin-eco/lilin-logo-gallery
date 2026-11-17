@@ -1,11 +1,11 @@
 {
-  "verifiedOn": "2026-11-17T01:58:06.885Z",
-  "copiedAssets": 1115,
-  "manifestHashesMatched": 1115,
-  "originalsMatched": 155,
-  "uniqueOriginalSourceFilenames": 155,
-  "previewCards": 189,
-  "localPreviewLinksChecked": 953,
+  "verifiedOn": "2026-11-17T02:16:22.484Z",
+  "copiedAssets": 1182,
+  "manifestHashesMatched": 1182,
+  "originalsMatched": 163,
+  "uniqueOriginalSourceFilenames": 163,
+  "previewCards": 198,
+  "localPreviewLinksChecked": 999,
   "allChecksPassed": true,
   "scriptSyntaxValid": true,
   "browserInteractionVerified": false

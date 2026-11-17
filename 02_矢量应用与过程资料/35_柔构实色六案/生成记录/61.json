@@ -1,0 +1,15 @@
+{
+  "id": "61",
+  "number": 61,
+  "name": "双木向行",
+  "centralLotus": false,
+  "shape": "单一主干承接双分叉与礼的点折开钩，在中央共享鞍式接点。",
+  "culture": "共享接点为善念，通道留白为善心，斜向展开为善行。",
+  "paletteDirection": "Berry-red #AE4151 and deep olive #48664E main modules, golden ochre #D6A548 shared tenon. Flat opaque colors, balanced warm/cool.",
+  "prompt": "Use case: logo-brand. ONE NEW INTEGRATED MODERN EMBLEM for 礼林生态 / LILIN ECO. Critical: a SINGLE unified shared-stroke graphic, not two independently written Chinese characters linked by a small dash. Design a compact DIAGONAL SOFT-JOIN MONOGRAM: ONE main gently curved STEM branches TWICE into two paired support forks derived from 林; the left leading soft-square dot and sweeping 礼 turn MERGE DIRECTLY INTO that SAME shared main stem and its short open lower hook. Only ONE shared center, two broad white bays, MAXIMUM FOUR large rounded components. No duplicate separate 礼 glyph, no two 木 characters typed side by side, no written words, no two separated name units. A rounded terracotta/berry-red supporting band and a dark olive branching band genuinely SHARE a substantial saddle joint, a small golden-ochre joint face is integrated into their actual shared middle. More symbol than text, humane contemporary engineering joint + code-like open path, soft broad curves with clear terminals. Colors are opaque flat BERRY RED #AE4151, OLIVE #48664E, OCHRE #D6A548; no blue or purple, no gradient, surface shading, haze, gloss, 3D or texture. White background, ONE centered original mark, lots of margin, no captions, wordmark, flower, circle badge, hand, person or stock swoosh. Balance generous white spaces against medium-weight curved strokes.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-047715ff-4386-4f0f-8f62-edfd55742e85.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-047715ff-4386-4f0f-8f62-edfd55742e85.png",
+  "revision": 2,
+  "revisionReason": "从两个分开的字形改为共用中心的一体构造。"
+}

@@ -1,0 +1,31 @@
+{
+  "number": 162,
+  "id": "162",
+  "title": "新款63_莲开成林",
+  "roundNumber": "63",
+  "shape": "五瓣彩莲居中，错位双曲根部交汇后共用开放下钩。",
+  "culture": "莲心承托为善心，双根共接为善念，曲线开放为善行。",
+  "notes": "五瓣彩莲与墨棕交汇根部组成独立暖色方向；交叉根部也可能产生结绳或生物结构联想，小尺寸根部偏细。",
+  "status": "柔构实色候选",
+  "centralLotus": true,
+  "stage": "24",
+  "stageName": "柔构实色六案",
+  "parents": [],
+  "sourceFilename": "exec-4fda7fd0-67d4-4084-947a-249f79372c04.png",
+  "sourceCreatedAt": "2026-11-17T02:13:33.644Z",
+  "displayCreatedAt": "2026/11/17 10:13:33",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "cffdaa42e9b91bc05a7809e020029a5e4cd05e470b1cc431bfad4cb4f1f0ffa1",
+  "sourceBytes": 1138764,
+  "folder": "01_生成原稿/162_新款63_莲开成林",
+  "image": "01_生成原稿/162_新款63_莲开成林/原图.png",
+  "thumb": "00_索引素材/162.jpg",
+  "description": "01_生成原稿/162_新款63_莲开成林/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/35_柔构实色六案",
+  "assessment": {
+    "engineering": "双曲根部交汇并共同承托花形。",
+    "software": "交汇与开放回转作为系统连接意图。",
+    "name": "小点和开放下钩保留礼的来源，双根部为林的抽象来源。"
+  }
+}

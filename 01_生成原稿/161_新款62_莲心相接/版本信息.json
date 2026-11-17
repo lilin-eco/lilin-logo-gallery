@@ -1,0 +1,31 @@
+{
+  "number": 161,
+  "id": "161",
+  "title": "新款62_莲心相接",
+  "roundNumber": "62",
+  "shape": "不等高双弧内缘围出中央白莲，两侧开口与下部分叉保持结构联系。",
+  "culture": "莲心留白为善心，双弧相接为善念，侧向开放为善行。",
+  "notes": "中央白色三瓣荷花较清楚，橙绿关系明快；外部体量较大，下部细转折需在小尺寸版校正。",
+  "status": "柔构实色候选",
+  "centralLotus": true,
+  "stage": "24",
+  "stageName": "柔构实色六案",
+  "parents": [],
+  "sourceFilename": "exec-e72dc7f0-5c4c-44cb-95d4-d5aa7db356e0.png",
+  "sourceCreatedAt": "2026-11-17T02:08:21.400Z",
+  "displayCreatedAt": "2026/11/17 10:08:21",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "fac9e954bb0b04e21451fd0e1635119ed854048af820386871b2f850517e4229",
+  "sourceBytes": 1039919,
+  "folder": "01_生成原稿/161_新款62_莲心相接",
+  "image": "01_生成原稿/161_新款62_莲心相接/原图.png",
+  "thumb": "00_索引素材/161.jpg",
+  "description": "01_生成原稿/161_新款62_莲心相接/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/35_柔构实色六案",
+  "assessment": {
+    "engineering": "相向支撑带面与低位共同接点。",
+    "software": "两侧开口与连通白槽。",
+    "name": "左侧点折、下端转回保留礼的来源，林为成对支撑的抽象来源。"
+  }
+}
