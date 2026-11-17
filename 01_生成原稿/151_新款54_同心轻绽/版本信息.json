@@ -1,0 +1,31 @@
+{
+  "number": 151,
+  "id": "151",
+  "title": "新款54_同心轻绽",
+  "roundNumber": "54",
+  "shape": "三条轻柔开放带面围出中央白莲，双根与礼的点折借自然转接联系。",
+  "culture": "莲心留白、带面共接与开放延伸联系善心、善念、善行。",
+  "notes": "柔和色彩、紧凑轮廓和中央白莲较协调；仍有少量尖端，可在选定后继续圆润校正，工程与软件属性需要配合品牌应用说明。",
+  "status": "柔和人文候选",
+  "centralLotus": true,
+  "stage": "22",
+  "stageName": "柔和人文重构",
+  "parents": [],
+  "sourceFilename": "exec-0d54b52b-3c9c-4a67-9cbd-b13b6bbce82f.png",
+  "sourceCreatedAt": "2026-11-17T01:24:31.266Z",
+  "displayCreatedAt": "2026/11/17 09:24:31",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "f010b9489959f42daeb654b7510a8b4054aac06a7afa9070032fb17bef1e506d",
+  "sourceBytes": 1108388,
+  "folder": "01_生成原稿/151_新款54_同心轻绽",
+  "image": "01_生成原稿/151_新款54_同心轻绽/原图.png",
+  "thumb": "00_索引素材/151.jpg",
+  "description": "01_生成原稿/151_新款54_同心轻绽/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/33_柔和人文重构",
+  "assessment": {
+    "engineering": "开放带面和共用支撑关系。",
+    "software": "流动通道与开放接口被处理成曲面，作为隐性来源。",
+    "name": "保留点与开钩，双木为抽象支撑而非可读汉字。"
+  }
+}

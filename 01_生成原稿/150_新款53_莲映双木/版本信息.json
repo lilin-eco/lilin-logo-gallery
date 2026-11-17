@@ -1,0 +1,31 @@
+{
+  "number": 150,
+  "id": "150",
+  "title": "新款53_莲映双木",
+  "roundNumber": "53",
+  "shape": "彩色荷花居中，与成对曲线根部共用支撑，点与开钩轻柔外展。",
+  "culture": "善心为莲心与承托，善念为共用根部，善行为开放的连续曲线。",
+  "notes": "中心彩色荷花突出，桃粉与灰紫较柔和；细根部在小尺寸下会减弱，生态和人文感强于工程软件行业感。",
+  "status": "柔和人文候选",
+  "centralLotus": true,
+  "stage": "22",
+  "stageName": "柔和人文重构",
+  "parents": [],
+  "sourceFilename": "exec-e543040a-a4e5-4160-b7d9-df8365da3a82.png",
+  "sourceCreatedAt": "2026-11-17T01:24:45.374Z",
+  "displayCreatedAt": "2026/11/17 09:24:45",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "80fd7b76bea45deb6d849dfab42359acb3336bc05c45f6f289fc3ecf4b5571cd",
+  "sourceBytes": 1082220,
+  "folder": "01_生成原稿/150_新款53_莲映双木",
+  "image": "01_生成原稿/150_新款53_莲映双木/原图.png",
+  "thumb": "00_索引素材/150.jpg",
+  "description": "01_生成原稿/150_新款53_莲映双木/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/33_柔和人文重构",
+  "assessment": {
+    "engineering": "成对根部共用花瓣支撑。",
+    "software": "连续根部和开放下转提示连接，业务识别较间接。",
+    "name": "左侧点与开钩体现礼，成对根部承载林的来源。"
+  }
+}

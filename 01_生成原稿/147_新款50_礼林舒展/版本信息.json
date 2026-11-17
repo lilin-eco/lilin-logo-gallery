@@ -1,0 +1,31 @@
+{
+  "number": 147,
+  "id": "147",
+  "title": "新款50_礼林舒展",
+  "roundNumber": "50",
+  "shape": "双分叉与礼的点折开钩共用舒展底部，线条以圆润转接组成整体。",
+  "culture": "接纳空间、共用笔势与舒展末端分别承载善心、善念、善行。",
+  "notes": "更舒展、自然，部分端部呈芽叶联想；小尺寸细枝和浅桃色较弱，风格也可能偏生态服务。",
+  "status": "柔和人文候选",
+  "centralLotus": false,
+  "stage": "22",
+  "stageName": "柔和人文重构",
+  "parents": [],
+  "sourceFilename": "exec-bf2ae216-0534-4289-9c4d-a878e7c78e94.png",
+  "sourceCreatedAt": "2026-11-17T01:22:37.050Z",
+  "displayCreatedAt": "2026/11/17 09:22:37",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "1917777cb2a2d7d9a22df3f49b86b05ba25795e55e4ce0e0c54bbcccdadb9e99",
+  "sourceBytes": 1097231,
+  "folder": "01_生成原稿/147_新款50_礼林舒展",
+  "image": "01_生成原稿/147_新款50_礼林舒展/原图.png",
+  "thumb": "00_索引素材/147.jpg",
+  "description": "01_生成原稿/147_新款50_礼林舒展/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/33_柔和人文重构",
+  "assessment": {
+    "engineering": "成对柔性支撑和共有弧形底部。",
+    "software": "交汇路径与连续传递作为系统协作的来源，非直接行业图标。",
+    "name": "礼的点折、林的分叉有所保留，字形带有人文书写感。"
+  }
+}

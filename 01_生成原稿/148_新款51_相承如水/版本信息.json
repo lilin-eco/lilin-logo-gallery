@@ -1,0 +1,31 @@
+{
+  "number": 148,
+  "id": "148",
+  "title": "新款51_相承如水",
+  "roundNumber": "51",
+  "shape": "相向弧形模块围出连续白槽，以柔和分叉和开钩共接。",
+  "culture": "相向接纳为善心，柔和接点为善念，贯通白槽为善行。",
+  "notes": "大块柔曲面与低对比配色较轻柔；可能产生飞鸟或人物动作联想，品牌名需由组合字标明确。",
+  "status": "柔和人文候选",
+  "centralLotus": false,
+  "stage": "22",
+  "stageName": "柔和人文重构",
+  "parents": [],
+  "sourceFilename": "exec-83d700b9-05da-413e-ac90-d5c250f4a3d3.png",
+  "sourceCreatedAt": "2026-11-17T01:23:19.274Z",
+  "displayCreatedAt": "2026/11/17 09:23:19",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "ee441b5de70bacfb87b900a1c76e466f6248dcc18712df82f4d4920e07afe2de",
+  "sourceBytes": 1035536,
+  "folder": "01_生成原稿/148_新款51_相承如水",
+  "image": "01_生成原稿/148_新款51_相承如水/原图.png",
+  "thumb": "00_索引素材/148.jpg",
+  "description": "01_生成原稿/148_新款51_相承如水/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/33_柔和人文重构",
+  "assessment": {
+    "engineering": "相向承托与柔和接点。",
+    "software": "大白槽及连续流动路径。",
+    "name": "点与开钩可见，双木来源较抽象，不能直接读出礼林。"
+  }
+}

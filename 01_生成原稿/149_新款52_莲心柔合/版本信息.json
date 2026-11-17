@@ -1,0 +1,31 @@
+{
+  "number": 149,
+  "id": "149",
+  "title": "新款52_莲心柔合",
+  "roundNumber": "52",
+  "shape": "成对圆润弧面围出单一中央白莲，缩短外侧末端并去除细重轮廓。",
+  "culture": "善心为中央莲心留白，善念为双弧相承，善行为轻柔开放的末端。",
+  "notes": "修正后圆润末端、减少细重轮廓；中央白莲仍清楚，局部细白隙在32像素下减弱，宜进一步做小尺寸专版。",
+  "status": "柔和人文候选",
+  "centralLotus": true,
+  "stage": "22",
+  "stageName": "柔和人文重构",
+  "parents": [],
+  "sourceFilename": "exec-4bc28434-28a4-4af1-b366-df80fad4187b.png",
+  "sourceCreatedAt": "2026-11-17T01:27:03.595Z",
+  "displayCreatedAt": "2026/11/17 09:27:03",
+  "width": 1402,
+  "height": 1122,
+  "sha256": "7f7c7f174d0f1c33382381d759e5e92fa7debc02abf7ecaabc68f08f9f82ea27",
+  "sourceBytes": 1081997,
+  "folder": "01_生成原稿/149_新款52_莲心柔合",
+  "image": "01_生成原稿/149_新款52_莲心柔合/原图.png",
+  "thumb": "00_索引素材/149.jpg",
+  "description": "01_生成原稿/149_新款52_莲心柔合/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/33_柔和人文重构",
+  "assessment": {
+    "engineering": "浅底弧与成对承托曲面。",
+    "software": "共享连接与开放曲线路径，未使用方块端口。",
+    "name": "左点折及右开钩保留礼的来源，林为支撑关系的抽象来源。"
+  }
+}
