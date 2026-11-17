@@ -1,0 +1,31 @@
+{
+  "number": 153,
+  "id": "153",
+  "title": "新款56_杏橙墨色",
+  "roundNumber": "56",
+  "shape": "舒展字形来源保留，以杏橙为主、墨绿为支撑、砖红作点画。",
+  "culture": "共用底弧与支撑体现相承，点折和开放末端延续三善意图。",
+  "notes": "杏橙为主、墨绿为辅，颜色主次明确；树形和书写感仍然较强，极小尺寸的细枝需要专版。",
+  "status": "清透实色配色候选",
+  "centralLotus": false,
+  "stage": "23",
+  "stageName": "清透实色四案",
+  "parents": [],
+  "sourceFilename": "exec-f88cb5bb-cd8a-4be8-9dbf-e931422d58e6.png",
+  "sourceCreatedAt": "2026-11-17T01:54:15.182Z",
+  "displayCreatedAt": "2026/11/17 09:54:15",
+  "width": 1535,
+  "height": 1024,
+  "sha256": "8731a07c4981971202e3c0e791538c36170094715343339db2a2fadee7f523a1",
+  "sourceBytes": 1019037,
+  "folder": "01_生成原稿/153_新款56_杏橙墨色",
+  "image": "01_生成原稿/153_新款56_杏橙墨色/原图.png",
+  "thumb": "00_索引素材/153.jpg",
+  "description": "01_生成原稿/153_新款56_杏橙墨色/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/34_清透实色四案",
+  "assessment": {
+    "engineering": "延续50的成对支撑和共有弧形底部。",
+    "software": "通过交汇路径体现协作来源，软件属性较间接。",
+    "name": "礼的点折与木形分叉保留，字形带有人文书写感。"
+  }
+}

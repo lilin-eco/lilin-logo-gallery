@@ -1,0 +1,31 @@
+{
+  "number": 154,
+  "id": "154",
+  "title": "新款57_麦金陶红",
+  "roundNumber": "57",
+  "shape": "中央彩色荷花保留，以麦金、陶红和深橄榄实色形成清楚层次。",
+  "culture": "莲心为善心，共用根部为善念，开放曲线为善行。",
+  "notes": "麦金中央瓣、陶红侧瓣和深橄榄根部有清楚层级；没有金属光泽意图，仍更偏生态人文气质。",
+  "status": "清透实色配色候选",
+  "centralLotus": true,
+  "stage": "23",
+  "stageName": "清透实色四案",
+  "parents": [],
+  "sourceFilename": "exec-60c4e9b9-61d6-4d16-8ee8-3c539a375aaa.png",
+  "sourceCreatedAt": "2026-11-17T01:55:03.047Z",
+  "displayCreatedAt": "2026/11/17 09:55:03",
+  "width": 1535,
+  "height": 1024,
+  "sha256": "96c45b11f18731ba2ba3444236c7d67d6c628aa439b94b9f75e25a2986786a42",
+  "sourceBytes": 1079895,
+  "folder": "01_生成原稿/154_新款57_麦金陶红",
+  "image": "01_生成原稿/154_新款57_麦金陶红/原图.png",
+  "thumb": "00_索引素材/154.jpg",
+  "description": "01_生成原稿/154_新款57_麦金陶红/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/34_清透实色四案",
+  "assessment": {
+    "engineering": "延续53成对根部对花瓣的承托。",
+    "software": "共用根部与下转通路作为连接意图。",
+    "name": "左侧点折开钩可见，林为成对根部来源。"
+  }
+}

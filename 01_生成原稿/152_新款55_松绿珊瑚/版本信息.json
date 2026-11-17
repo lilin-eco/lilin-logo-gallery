@@ -1,0 +1,31 @@
+{
+  "number": 152,
+  "id": "152",
+  "title": "新款55_松绿珊瑚",
+  "roundNumber": "55",
+  "shape": "圆润礼形与分叉支撑保留，改用松绿、珊瑚与少量赭金实色。",
+  "culture": "留白接纳、共享弧线和开放末端延续善心、善念、善行。",
+  "notes": "松绿主形、珊瑚分叉与赭金连接的分区清楚，圆润轮廓延续；与49相比清晰度更强。生成PNG内部仍有少量色差，生产矢量应统一实色填充。",
+  "status": "清透实色配色候选",
+  "centralLotus": false,
+  "stage": "23",
+  "stageName": "清透实色四案",
+  "parents": [],
+  "sourceFilename": "exec-f39af12c-4f7b-479a-a341-bd2c319929f2.png",
+  "sourceCreatedAt": "2026-11-17T01:54:31.421Z",
+  "displayCreatedAt": "2026/11/17 09:54:31",
+  "width": 1535,
+  "height": 1024,
+  "sha256": "bce3b9d3a31d7635b6466cc632ed132a1c700b43af0d948fcc6cc8c4bec6d8bb",
+  "sourceBytes": 1037058,
+  "folder": "01_生成原稿/152_新款55_松绿珊瑚",
+  "image": "01_生成原稿/152_新款55_松绿珊瑚/原图.png",
+  "thumb": "00_索引素材/152.jpg",
+  "description": "01_生成原稿/152_新款55_松绿珊瑚/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/34_清透实色四案",
+  "assessment": {
+    "engineering": "延续49的共用支撑与底部承托，属于结构来源而非直接行业图标。",
+    "software": "延续连续路径与开放连接关系。",
+    "name": "保留礼的点折开钩与分叉木形来源，未直接写出完整双木。"
+  }
+}
