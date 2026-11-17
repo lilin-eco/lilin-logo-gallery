@@ -1,0 +1,31 @@
+{
+  "number": 137,
+  "id": "137",
+  "title": "新款41_榫接双木",
+  "roundNumber": "41",
+  "shape": "成对木形支撑共用梁与开钩，礼的点折转为开放括形，横向共构。",
+  "culture": "善心为支撑间的接纳留白，善念为共用接头，善行为外展开钩。",
+  "notes": "名称来源较直接，整体较宽；32像素方形图标中高度较小，软件行业属性需要结合品牌应用建立。",
+  "status": "工程软件共构候选",
+  "centralLotus": false,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-b2389bd2-02c0-4b1e-bebf-37c4833cec25.png",
+  "sourceCreatedAt": "2026-11-17T01:03:16.822Z",
+  "displayCreatedAt": "2026/11/17 09:03:16",
+  "width": 1774,
+  "height": 887,
+  "sha256": "efc1aa795fd2ca1db3d79ed305f4806f2d8c037d0b545e707a6e2a1ae6338c91",
+  "sourceBytes": 1087171,
+  "folder": "01_生成原稿/137_新款41_榫接双木",
+  "image": "01_生成原稿/137_新款41_榫接双木/原图.png",
+  "thumb": "00_索引素材/137.jpg",
+  "description": "01_生成原稿/137_新款41_榫接双木/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "共用顶梁、柱间榫接和底部承托。",
+    "software": "左侧括形、顶梁模块接点及开放的尾端，属于系统接口的形态提示。",
+    "name": "礼的点折开钩与成对木形支撑均有保留，组合字标明确品牌名称。"
+  }
+}

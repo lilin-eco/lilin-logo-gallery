@@ -1,0 +1,31 @@
+{
+  "number": 139,
+  "id": "139",
+  "title": "新款43_双链成林",
+  "roundNumber": "43",
+  "shape": "两件带分叉的模块在中央短榫相接，礼的点与开钩连入斜向结构。",
+  "culture": "善心为两侧开放空间，善念为短榫互接，善行为连通后向外展开。",
+  "notes": "工程榫接与代码括形共用构造较清楚；没有完整写出礼林两字，小尺寸中央金色接面会减弱。",
+  "status": "工程软件共构候选",
+  "centralLotus": false,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-2947a98b-d97f-48a9-befc-23a025b07c8c.png",
+  "sourceCreatedAt": "2026-11-17T01:03:44.592Z",
+  "displayCreatedAt": "2026/11/17 09:03:44",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "1fca5db076ba4e80a56b5cffed703795809658d32abeb9b234277e9189b59bac",
+  "sourceBytes": 1098687,
+  "folder": "01_生成原稿/139_新款43_双链成林",
+  "image": "01_生成原稿/139_新款43_双链成林/原图.png",
+  "thumb": "00_索引素材/139.jpg",
+  "description": "01_生成原稿/139_新款43_双链成林/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "两组斜向支撑在中央短榫相接。",
+    "software": "两侧括形与模块对接关系。",
+    "name": "两个分叉干和左上点画、下部开钩共同组成统一字形来源。"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42",
+  "number": 42,
+  "name": "工构礼序",
+  "shape": "双竖梁借上下分叉形成木形，共用转折与模块接口，轮廓竖向错落。",
+  "culture": "善心为模块间留白，善念为梁与接口共接，善行为错位向上的推进。",
+  "centralLotus": false,
+  "prompt": "Use case: logo-brand. ONE original contemporary corporate SYMBOL for 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. Required identity: simultaneously engineered structural craft, software/system connection, name-derived 礼林, and culture 善心善念善行. Achieve this through a SINGLE SHARED CONSTRUCTION, not a collage of industry cliparts. The client wants a memorable graphic with readable name-source gestures, not generic abstract geometry with a story attached. Construction: A COMPACT UPRIGHT MODULAR ART EMBLEM derived from 礼林: two I-BEAM-LIKE vertical elements FORK at their upper and lower crossbars so the twin 木 structure of 林 is genuinely visible; their common left turned stroke and small square dot recall 礼. The crossbeam has TWO broad rectangular INTERRUPTS like software INTERFACES, not many tiny circuit lines. Structural I-beam shape plus digital module interface are the SAME strokes. Distinct stepped outer contour, strong asymmetry, medium-light weight, not ordinary font lettering, not a printed 工字 beside 林. Do not enclose the symbol in a frame. Palette: Deep violet and clear ultramarine with warm saffron interface faces. Flat professional vector-like geometry, crisp contours, medium optical weight and generous white gaps. ONE centered emblem on PURE WHITE with generous margins. NO rendered company text or captions; a neutral exact company wordmark will be added separately for consistent comparison. No gear, helmet, crane, skyscraper, laptop, phone, circuit-board detail, 3D, shadow, gloss, textured mockup, decorative explanation arrows or copied brand. Do not make the name into two independent printed words.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-d830e9ff-2cf4-42dc-941a-45809fabdd5c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-d830e9ff-2cf4-42dc-941a-45809fabdd5c.png",
+  "status": "修正前过程稿",
+  "reason": "初稿上下重复分叉较密，重做以减少笔画层级。"
+}

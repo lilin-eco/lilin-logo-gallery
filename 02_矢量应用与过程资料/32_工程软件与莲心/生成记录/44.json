@@ -1,0 +1,14 @@
+{
+  "id": "44",
+  "number": 44,
+  "name": "礼林构网",
+  "shape": "两根直角分叉立柱与折线接口共接为近方形开放网构，左右端口分别形成礼的点折与开钩。",
+  "culture": "善心为中央开放空间，善念为系统与支撑相承，善行为开放接口的延伸。",
+  "centralLotus": false,
+  "prompt": "Use case: logo-brand. ONE modern professional corporate EMBLEM for 礼林生态 / LILIN ECO, software and engineering company 达州礼林生态科技有限责任公司. Use the SAME graphic strokes to express engineered structural joints, software interfaces, actual 礼 turn and paired 木 source from 林. Culture 善心善念善行 means accepting white space, thoughtful shared join, purposeful open end. Construction: ONE COMPACT NEAR-SQUARE OPEN STRUCTURAL GRID for 礼林. TWO clean thick UPRIGHT SUPPORTS each FORK into TWO BLUNT RECTANGULAR arms near the top, visibly a paired 木-source rhythm, no tapering branches. One short off-center connecting CROSSBAR doubles as a software BUS. The LEFT small square dot and angled '<'-like support form the dot-and-turn gesture of 礼, the lower-right shared beam makes a deliberate open hook. Large white center, selected precise square NOTCH JOINTS so this feels like ENGINEERED JOINERY and a CODE-INTERFACE structure. Rectilinear modular angular design, medium-light weight, no entire enclosing frame, no regular full character typesetting. Cobalt structure, cyan short connector, vermilion angled left joint. STRICTLY NO botanical leaves, leaf-shaped ends, round head dots, trees, plant illustrations, curved twig or flower; no tiny circuits or electronics cliparts. All branches terminate in blunt SQUARE CUTS. One centered original emblem on PURE WHITE, generous margins. No rendered captions or words, no comparison board, mockup, shadows, texture or copied brand. No collage of unrelated industry icons.",
+  "revision": 2,
+  "revisionReason": "初稿叶片与树形较强，工程和软件特征不足，改为开放梁架与直角分叉。",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-3598b144-9248-414a-b836-1240dc0ea079.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-3598b144-9248-414a-b836-1240dc0ea079.png"
+}

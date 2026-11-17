@@ -1,0 +1,31 @@
+{
+  "number": 143,
+  "id": "143",
+  "title": "新款47_莲开礼林",
+  "roundNumber": "47",
+  "shape": "两组折面以分叉干与礼的转折相接，中央白隙直接形成三瓣荷花。",
+  "culture": "善心为中央白莲，善念为折面接点，善行为开放的代码式端部。",
+  "notes": "中央白色荷花清楚，几何结构和名称来源较丰富；实体偏多，软件业务仍主要依靠接口形态提示。",
+  "status": "工程软件共构候选",
+  "centralLotus": true,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-f7a4837a-9af7-4548-9096-24557c8ecf73.png",
+  "sourceCreatedAt": "2026-11-17T01:06:35.579Z",
+  "displayCreatedAt": "2026/11/17 09:06:35",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "36b7a057348b9113965d3d947e78e79def4a7f25a2b51148adbf8d1b1f1d3070",
+  "sourceBytes": 1111415,
+  "folder": "01_生成原稿/143_新款47_莲开礼林",
+  "image": "01_生成原稿/143_新款47_莲开礼林/原图.png",
+  "thumb": "00_索引素材/143.jpg",
+  "description": "01_生成原稿/143_新款47_莲开礼林/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "两组折面、分叉支柱与共用底部接点。",
+    "software": "折面模块相接与开放端部。",
+    "name": "点画、左侧转折与成对支撑保留名称来源，双木并非完整字形。"
+  }
+}

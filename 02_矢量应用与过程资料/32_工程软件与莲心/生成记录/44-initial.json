@@ -1,0 +1,14 @@
+{
+  "id": "44",
+  "number": 44,
+  "name": "礼林构网",
+  "shape": "两根分叉支柱共用低位横杆，左右接口与礼的点折开钩共同成形。",
+  "culture": "善心为中央开放空间，善念为系统与支撑相承，善行为开放接口的延伸。",
+  "centralLotus": false,
+  "prompt": "Use case: logo-brand. ONE original contemporary corporate SYMBOL for 达州礼林生态科技有限责任公司, brand 礼林生态 / LILIN ECO. Required identity: simultaneously engineered structural craft, software/system connection, name-derived 礼林, and culture 善心善念善行. Achieve this through a SINGLE SHARED CONSTRUCTION, not a collage of industry cliparts. The client wants a memorable graphic with readable name-source gestures, not generic abstract geometry with a story attached. Construction: A GRAPHIC SHARED-STROKE NAME EMBLEM using the actual simplified 礼 dot/turn/open-hook and two clearly paired branching 木 supports. ONE LOW OPEN STRUCTURAL GRID has two tall branching uprights and one shared lower bar; the left dot-and-turn becomes the left software '<' type bracket, the right final stroke opens upward like a matching interface. THE LARGE CENTRAL WHITE BAY must remain clear. Pair of support columns is simultaneously an engineered frame and a systems-connection diagram. Distinct wide low arched-square silhouette, no full enclosing badge, no thin network diagram, no generic building skyline. One unified crafted brand graphic, not full regular-font 礼林 typesetting. Palette: Rich cobalt-blue with cyan module end and vermilion turning stroke. Flat professional vector-like geometry, crisp contours, medium optical weight and generous white gaps. ONE centered emblem on PURE WHITE with generous margins. NO rendered company text or captions; a neutral exact company wordmark will be added separately for consistent comparison. No gear, helmet, crane, skyscraper, laptop, phone, circuit-board detail, 3D, shadow, gloss, textured mockup, decorative explanation arrows or copied brand. Do not make the name into two independent printed words.",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-1f27f4cd-f35f-4cc5-981c-2545c55dd81b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-1f27f4cd-f35f-4cc5-981c-2545c55dd81b.png",
+  "status": "修正前过程稿",
+  "reason": "初稿叶片与树形较强，工程和软件特征不足，改为开放梁架与直角分叉。"
+}

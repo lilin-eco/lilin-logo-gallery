@@ -1,0 +1,31 @@
+{
+  "number": 144,
+  "id": "144",
+  "title": "新款48_同芯莲构",
+  "roundNumber": "48",
+  "shape": "近方实体由中央白莲、双分叉根部及两个开放端口共同切开，外部梁段承载整体。",
+  "culture": "善心为中心莲花留白，善念为共用梁与根部，善行为端口向外开放。",
+  "notes": "中央白莲占比大、位置清楚；图标感较强，整体用墨较重，单色版本需要专门校正。",
+  "status": "工程软件共构候选",
+  "centralLotus": true,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-57b21ad8-e2fd-4b3a-963c-431f97978fb9.png",
+  "sourceCreatedAt": "2026-11-17T01:06:52.218Z",
+  "displayCreatedAt": "2026/11/17 09:06:52",
+  "width": 1312,
+  "height": 1199,
+  "sha256": "ba854fbe75b8e2e76966fb34fa849e7fd9dc78d5cbd27ac2d7661a56762c9119",
+  "sourceBytes": 1074776,
+  "folder": "01_生成原稿/144_新款48_同芯莲构",
+  "image": "01_生成原稿/144_新款48_同芯莲构/原图.png",
+  "thumb": "00_索引素材/144.jpg",
+  "description": "01_生成原稿/144_新款48_同芯莲构/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "近方实体中的梁段与双分叉根部共同承托。",
+    "software": "大开口端口和界面式切块，适合数字图标的紧凑轮廓。",
+    "name": "左侧点折与下部双根表达礼、林来源；不能直接读作完整礼林合字。"
+  }
+}

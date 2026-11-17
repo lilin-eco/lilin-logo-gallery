@@ -1,0 +1,31 @@
+{
+  "number": 141,
+  "id": "141",
+  "title": "新款45_莲心共筑",
+  "roundNumber": "45",
+  "shape": "成对支柱与共用底梁在中央围出白色三瓣荷花，点折和开钩延续礼的来源。",
+  "culture": "善心为居中的莲心留白，善念为双柱与底梁承接，善行为梁端开放延伸。",
+  "notes": "白色三瓣荷花位于中心，双木和荷花共用边缘；底梁接口在32像素下较细，需小尺寸专版。",
+  "status": "工程软件共构候选",
+  "centralLotus": true,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-987544e0-3517-486e-a268-b0106e6baf41.png",
+  "sourceCreatedAt": "2026-11-17T01:05:06.419Z",
+  "displayCreatedAt": "2026/11/17 09:05:06",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "6cb3a835e9db9076f91f95dcedcddf8f859f28a85c79bbcb71e83687ca539729",
+  "sourceBytes": 1063678,
+  "folder": "01_生成原稿/141_新款45_莲心共筑",
+  "image": "01_生成原稿/141_新款45_莲心共筑/原图.png",
+  "thumb": "00_索引素材/141.jpg",
+  "description": "01_生成原稿/141_新款45_莲心共筑/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "双支撑和共用底梁承托中央空间。",
+    "software": "底部两个大模块接口与贯通横向总线。",
+    "name": "两侧双木来源较直接，点画和右端开钩较轻；品牌名由组合字标完整呈现。"
+  }
+}

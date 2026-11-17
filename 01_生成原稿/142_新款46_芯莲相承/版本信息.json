@@ -1,0 +1,31 @@
+{
+  "number": 142,
+  "id": "142",
+  "title": "新款46_芯莲相承",
+  "roundNumber": "46",
+  "shape": "居中彩色荷花与双分叉支撑共用根部，底部大模块接口和总线形成一体。",
+  "culture": "善心为莲心与承托，善念为双根共接，善行为向外贯通的底部开钩。",
+  "notes": "彩色荷花在中心，花与支撑共用根部；底部模块视觉较重，整体也可能被理解为生态技术标志。",
+  "status": "工程软件共构候选",
+  "centralLotus": true,
+  "stage": "21",
+  "stageName": "工程软件与莲心",
+  "parents": [],
+  "sourceFilename": "exec-e88e20a8-330d-4ea8-bae8-ac1e0af9f3cc.png",
+  "sourceCreatedAt": "2026-11-17T01:05:24.892Z",
+  "displayCreatedAt": "2026/11/17 09:05:24",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "0e318605b56a54375348c08a7327204f41f54cbd695b519e2d2d2bfe8b00e700",
+  "sourceBytes": 1044300,
+  "folder": "01_生成原稿/142_新款46_芯莲相承",
+  "image": "01_生成原稿/142_新款46_芯莲相承/原图.png",
+  "thumb": "00_索引素材/142.jpg",
+  "description": "01_生成原稿/142_新款46_芯莲相承/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/32_工程软件与莲心",
+  "assessment": {
+    "engineering": "成对分叉支柱与共用根部、底座。",
+    "software": "底部双模块端口与连接总线。",
+    "name": "林的成对支撑明确；礼的点折来源相对间接。"
+  }
+}

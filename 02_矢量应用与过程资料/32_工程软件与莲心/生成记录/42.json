@@ -1,0 +1,14 @@
+{
+  "id": "42",
+  "number": 42,
+  "name": "工构礼序",
+  "shape": "双竖梁保留上部分叉，共用单层横接梁与两个大接口，下端改为平直承托。",
+  "culture": "善心为模块间留白，善念为梁与接口共接，善行为错位向上的推进。",
+  "centralLotus": false,
+  "prompt": "Use case: logo-brand. ONE modern professional corporate EMBLEM for 礼林生态 / LILIN ECO, software and engineering company 达州礼林生态科技有限责任公司. Use the SAME graphic strokes to express engineered structural joints, software interfaces, actual 礼 turn and paired 木 source from 林. Culture 善心善念善行 means accepting white space, thoughtful shared join, purposeful open end. Construction: A NEW LIGHTER shared-stroke 礼林 emblem. Two unmistakable upright 木-SOURCE SUPPORTS have branching arms ONLY AT THEIR UPPER THIRD, their lower ends are SIMPLE FLAT FEET, absolutely NO lower branching arms. ONE single common mid-level CROSSBEAM has TWO LARGE contrasting rectangular interface faces. The left simplified 礼 dot-and-turn is ONE open broad angled bracket connecting into the lower shared foot; right final foot opens outward. Maximum 7 medium-width strokes, only 2 horizontal levels overall. Lots of large open white air. Narrow near-square outline, precise structural steel-joint character and code-interface modularity from the SAME beams. Deep violet left and ultramarine right, saffron interface faces. No repeated stacked tridents, small lattices, trees with leaves, decorative ribs, full normal font words, separate pictograms, heavy enclosure or 3D. One centered original emblem on PURE WHITE, generous margins. No rendered captions or words, no comparison board, mockup, shadows, texture or copied brand. No collage of unrelated industry icons.",
+  "revision": 2,
+  "revisionReason": "初稿上下重复分叉较密，重做以减少笔画层级。",
+  "tool": "image_gen.imagegen",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-c0a9e4c8-d863-405a-9859-86dd6878df8f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-c0a9e4c8-d863-405a-9859-86dd6878df8f.png"
+}
