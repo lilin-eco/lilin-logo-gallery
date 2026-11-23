@@ -1,0 +1,33 @@
+{
+  "number": 192,
+  "id": "192",
+  "title": "新款92_双线云桥",
+  "roundNumber": "92",
+  "shape": "两条轻量细带形成开放菱形，下侧另有一段短回折。",
+  "culture": "轻盈留白、双带互托、开放延伸。",
+  "notes": "本轮最轻盈之一；32像素细端较弱，64像素以上更适合展示。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-0bc9182b-f12e-48d1-9692-9253a823f477.png",
+  "sourceCreatedAt": "2026-11-23T08:08:32.199Z",
+  "displayCreatedAt": "2026/11/23 16:08:32",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "a844dbd6d59ad98453ae59d02f207ec10dbd761c15ca47cb571723af4d14baf5",
+  "sourceBytes": 1027831,
+  "folder": "01_生成原稿/192_新款92_双线云桥",
+  "image": "01_生成原稿/192_新款92_双线云桥/原图.png",
+  "thumb": "00_索引素材/192.jpg",
+  "description": "01_生成原稿/192_新款92_双线云桥/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "轻量云连接与双向桥接。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

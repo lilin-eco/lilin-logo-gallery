@@ -1,0 +1,33 @@
+{
+  "number": 177,
+  "id": "177",
+  "title": "新款77_四元协作",
+  "roundNumber": "77",
+  "shape": "四片带面以白缝分隔，围绕菱形留白形成旋转关系。",
+  "culture": "四片共享中心、互相承接、形成向外开口。",
+  "notes": "实际成图为四片，已按成图改名；并非提示中预期的三模块。32像素下白缝仍可见。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-950faa7b-88b8-466d-ae6b-8c4c0b25a096.png",
+  "sourceCreatedAt": "2026-11-23T08:03:24.045Z",
+  "displayCreatedAt": "2026/11/23 16:03:24",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "3369dfd18f33389774ad6ccfb342e7213de264ab634dbf20606831096cfb0e6c",
+  "sourceBytes": 1078631,
+  "folder": "01_生成原稿/177_新款77_四元协作",
+  "image": "01_生成原稿/177_新款77_四元协作/原图.png",
+  "thumb": "00_索引素材/177.jpg",
+  "description": "01_生成原稿/177_新款77_四元协作/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "四模块协同与组合。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

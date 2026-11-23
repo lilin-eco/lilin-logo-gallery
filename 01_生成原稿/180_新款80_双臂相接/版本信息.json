@@ -1,0 +1,33 @@
+{
+  "number": 180,
+  "id": "180",
+  "title": "新款80_双臂相接",
+  "roundNumber": "80",
+  "shape": "上下两条厚圆弧在左侧相接，右侧保持大开口。",
+  "culture": "双臂接纳、相接支撑、开放延伸。",
+  "notes": "亲和力较强，形体偏横向；科技表达更含蓄，软件行业需靠整体品牌环境补足。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-5c9a2690-44cd-4cef-bdaf-c17ff6b15eb8.png",
+  "sourceCreatedAt": "2026-11-23T08:05:32.936Z",
+  "displayCreatedAt": "2026/11/23 16:05:32",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "61e2ec6698ae6dd277eb020266f55ca745c653504780b92d611ee8199064f562",
+  "sourceBytes": 1085290,
+  "folder": "01_生成原稿/180_新款80_双臂相接",
+  "image": "01_生成原稿/180_新款80_双臂相接/原图.png",
+  "thumb": "00_索引素材/180.jpg",
+  "description": "01_生成原稿/180_新款80_双臂相接/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "柔性链接与服务协作。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

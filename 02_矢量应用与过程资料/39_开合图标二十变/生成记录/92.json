@@ -1,0 +1,15 @@
+{
+  "id": "92",
+  "number": 92,
+  "name": "双线云桥",
+  "shape": "两条轻量细带形成开放菱形，下侧另有一段短回折。",
+  "culture": "轻盈留白、双带互托、开放延伸。",
+  "centralLotus": false,
+  "reference": "C:/Users/Administrator/Documents/ChatGPT/公司官网/output/礼林Logo完整档案_2026-11-16/02_矢量应用与过程资料/38_开合科技融合/inputs/selected-open-mark.png",
+  "prompt": "Use case: logo-brand. Create ONE new concept emblem for 礼林生态 / LILIN ECO, a software and technology company. Image 1 is the FAMILY REFERENCE, not a locked contour. Client requests bold structural variations, not recoloring. Retain some recognizable open diamond / flowing connection DNA, using vivid royal-blue, violet and cyan 2D smooth gradients, on PURE WHITE. CONCEPT: A LIGHT DUAL-STROKE open diamond made of TWO generous smooth OUTLINE BANDS, about half optical weight of the source. One elevated blue-violet upper bridge and one cyan lower bridge, offset ends with rounded terminals. Airy precise cloud-software feeling, no solid heavy filled planes. Philosophical intent: an accepting open center (善心), cooperating forms (善念), outward movement (善行); express through geometry, NO literal slogans. Premium memorable vector-friendly corporate mark, optically balanced at app-icon size. One centered symbol only, at most 3-5 major masses, large clean negative spaces, 15% white margin. No words, numbers, letters, labels, swatches, presentation boards. No gears, buildings, helmets, laptops, microchip pins, decorative circuit spaghetti, floating particles, gradients in background, glow, drop shadows, metallic/glass/3D effects. Deliberate crisp edges, soft curvature where appropriate. Do NOT reproduce the source unchanged; the requested concept must be structurally obvious.",
+  "tool": "image_gen.imagegen",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-0bc9182b-f12e-48d1-9692-9253a823f477.png",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-0bc9182b-f12e-48d1-9692-9253a823f477.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "initialName": "双线云桥",
+  "sourceRound": "开合之礼"
+}

@@ -1,0 +1,33 @@
+{
+  "number": 182,
+  "id": "182",
+  "title": "新款82_流线编译",
+  "roundNumber": "82",
+  "shape": "左侧卷带与右下斜带分离，形成贯通的斜向白槽。",
+  "culture": "大留白接纳、分带配合、斜向贯通。",
+  "notes": "保留原稿上挑记忆点，斜槽较清楚；不是可直接阅读的代码字符。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-a86709d4-aef0-4ec0-8ad0-338d78ea6383.png",
+  "sourceCreatedAt": "2026-11-23T08:05:11.608Z",
+  "displayCreatedAt": "2026/11/23 16:05:11",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "2bb683aadf075adf514ce3d16185d942e67d39cdd82a2d91d290700eae99300e",
+  "sourceBytes": 1082682,
+  "folder": "01_生成原稿/182_新款82_流线编译",
+  "image": "01_生成原稿/182_新款82_流线编译/原图.png",
+  "thumb": "00_索引素材/182.jpg",
+  "description": "01_生成原稿/182_新款82_流线编译/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "抽象括号与编译通路。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "number": 179,
+  "id": "179",
+  "title": "新款79_柔性像素",
+  "roundNumber": "79",
+  "shape": "上下边缘形成大圆角台阶，右侧以两段平直端部开放。",
+  "culture": "留白接纳、积木协作、逐阶向前。",
+  "notes": "结构差异明显；台阶在32像素仍能辨认，是本轮重点候选。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-f2e24ea4-b698-48c2-9eac-18f2b45afe96.png",
+  "sourceCreatedAt": "2026-11-23T08:04:50.235Z",
+  "displayCreatedAt": "2026/11/23 16:04:50",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6ab46a1d3236274f6932cbde4bf8cb8900f8113a9a7de25f26494659de731f20",
+  "sourceBytes": 1067632,
+  "folder": "01_生成原稿/179_新款79_柔性像素",
+  "image": "01_生成原稿/179_新款79_柔性像素/原图.png",
+  "thumb": "00_索引素材/179.jpg",
+  "description": "01_生成原稿/179_新款79_柔性像素/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "像素模块、数字平台与可扩展结构。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

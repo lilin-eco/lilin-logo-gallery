@@ -1,0 +1,33 @@
+{
+  "number": 188,
+  "id": "188",
+  "title": "新款88_双阶共生",
+  "roundNumber": "88",
+  "shape": "外侧开合带面包围一枚独立的内阶形弧带，右端并行展开。",
+  "culture": "中心留白、双阶承接、共同向外。",
+  "notes": "可以作为双L构造的设计来源，但并非一眼可读的字母组合；32像素内外关系仍可辨。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-0af101a0-4ced-441a-95ec-7c9eb27d6599.png",
+  "sourceCreatedAt": "2026-11-23T08:08:00.545Z",
+  "displayCreatedAt": "2026/11/23 16:08:00",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "dab68c076d82df11d6f366f9ed6c71bed99baf29153fc9b098890738c43ac7e5",
+  "sourceBytes": 1113158,
+  "folder": "01_生成原稿/188_新款88_双阶共生",
+  "image": "01_生成原稿/188_新款88_双阶共生/原图.png",
+  "thumb": "00_索引素材/188.jpg",
+  "description": "01_生成原稿/188_新款88_双阶共生/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "双层模块与路由。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

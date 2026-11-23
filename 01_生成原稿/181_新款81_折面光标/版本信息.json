@@ -1,0 +1,33 @@
+{
+  "number": 181,
+  "id": "181",
+  "title": "新款81_折面光标",
+  "roundNumber": "81",
+  "shape": "上下两枚尖锐折面在左侧汇合，右上形成明显箭形。",
+  "culture": "共享起点、双面协同、向前行动。",
+  "notes": "整体锐利，和柔和原稿差异大；更偏工具型软件，少用作人文气质的主推荐。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-cf43bef5-5ea8-4370-b7f6-aaa90c323f10.png",
+  "sourceCreatedAt": "2026-11-23T08:04:29.261Z",
+  "displayCreatedAt": "2026/11/23 16:04:29",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "2248ab9638c27a8593555de433cc658256251d472e84acced0edb7417c1acc1b",
+  "sourceBytes": 1080286,
+  "folder": "01_生成原稿/181_新款81_折面光标",
+  "image": "01_生成原稿/181_新款81_折面光标/原图.png",
+  "thumb": "00_索引素材/181.jpg",
+  "description": "01_生成原稿/181_新款81_折面光标/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "光标、指向与执行动势。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

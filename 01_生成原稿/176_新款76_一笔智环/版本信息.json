@@ -1,0 +1,33 @@
+{
+  "number": 176,
+  "id": "176",
+  "title": "新款76_一笔智环",
+  "roundNumber": "76",
+  "shape": "一条连续圆角环带围合圆润菱形，右上端断开并保留上挑。",
+  "culture": "开放接纳、同一支撑、持续连接。",
+  "notes": "轮廓简洁，小尺寸较清楚；作为抽象环形，软件属性需结合品牌应用。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-f98188ff-2881-4d26-9db1-b9a68503540d.png",
+  "sourceCreatedAt": "2026-11-23T08:03:02.626Z",
+  "displayCreatedAt": "2026/11/23 16:03:02",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "9eb1b1dd4375731dd5d34f81eb5841ad9f2d3660d75d36684e3bfd3191eaf43e",
+  "sourceBytes": 1087427,
+  "folder": "01_生成原稿/176_新款76_一笔智环",
+  "image": "01_生成原稿/176_新款76_一笔智环/原图.png",
+  "thumb": "00_索引素材/176.jpg",
+  "description": "01_生成原稿/176_新款76_一笔智环/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "开放连接与轻量应用入口。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

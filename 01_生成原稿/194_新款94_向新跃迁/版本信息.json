@@ -1,0 +1,33 @@
+{
+  "number": 194,
+  "id": "194",
+  "title": "新款94_向新跃迁",
+  "roundNumber": "94",
+  "shape": "上下两条拉长的尖头带向右伸展，形成宽开口箭形。",
+  "culture": "留白接纳、上下相随、向右行动。",
+  "notes": "方向性强且偏横向；小尺寸尖端会减弱，适合宽版组合。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-97420f83-20d8-4df4-921e-d56f653a325a.png",
+  "sourceCreatedAt": "2026-11-23T08:08:11.950Z",
+  "displayCreatedAt": "2026/11/23 16:08:11",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "7ebcaba72eb9032e04bfd6fb9bf906e76f20f530533a1259e81846e42325c915",
+  "sourceBytes": 1090223,
+  "folder": "01_生成原稿/194_新款94_向新跃迁",
+  "image": "01_生成原稿/194_新款94_向新跃迁/原图.png",
+  "thumb": "00_索引素材/194.jpg",
+  "description": "01_生成原稿/194_新款94_向新跃迁/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "执行、传输与跃迁动势。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

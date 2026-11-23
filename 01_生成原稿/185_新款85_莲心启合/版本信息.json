@@ -1,0 +1,33 @@
+{
+  "number": 185,
+  "id": "185",
+  "title": "新款85_莲心启合",
+  "roundNumber": "85",
+  "shape": "下侧三瓣莲心与外菱形相接，中央花瓣向上进入留白。",
+  "culture": "三瓣分别寓意善心、善念、善行，汇入同一底部。",
+  "notes": "莲花较直观，文化表达强于软件属性；32像素下花瓣细缝变弱。",
+  "status": "软件科技拓展候选",
+  "centralLotus": true,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-a52c1a8b-9d7c-4c8d-88f5-6ab4e8d94cd3.png",
+  "sourceCreatedAt": "2026-11-23T08:06:42.190Z",
+  "displayCreatedAt": "2026/11/23 16:06:42",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "36be1a501047e87998f8f5dfb5089ae9bca7dc85e47b00ba873736814a4b281f",
+  "sourceBytes": 1118029,
+  "folder": "01_生成原稿/185_新款85_莲心启合",
+  "image": "01_生成原稿/185_新款85_莲心启合/原图.png",
+  "thumb": "00_索引素材/185.jpg",
+  "description": "01_生成原稿/185_新款85_莲心启合/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "以三瓣协作连接品牌文化，技术感主要来自几何外框。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

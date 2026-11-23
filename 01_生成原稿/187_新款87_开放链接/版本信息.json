@@ -1,0 +1,33 @@
+{
+  "number": 187,
+  "id": "187",
+  "title": "新款87_开放链接",
+  "roundNumber": "87",
+  "shape": "两枚厚圆角链节斜向咬合，白缝保留两处开放端。",
+  "culture": "开口接纳、链节相助、连接行动。",
+  "notes": "链接关系直观，和原稿差异大；小尺寸主体仍清楚，是本轮重点候选。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-c1b3dc30-6d9d-4e71-9398-6984b46de74a.png",
+  "sourceCreatedAt": "2026-11-23T08:07:15.229Z",
+  "displayCreatedAt": "2026/11/23 16:07:15",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "c1ca5c896633ff5de01eb14159b063e58896c5b5601121f2813f95ab10ca0337",
+  "sourceBytes": 1082743,
+  "folder": "01_生成原稿/187_新款87_开放链接",
+  "image": "01_生成原稿/187_新款87_开放链接/原图.png",
+  "thumb": "00_索引素材/187.jpg",
+  "description": "01_生成原稿/187_新款87_开放链接/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "链接、系统集成与互联。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

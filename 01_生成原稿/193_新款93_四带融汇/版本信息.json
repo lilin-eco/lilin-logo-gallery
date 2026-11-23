@@ -1,0 +1,33 @@
+{
+  "number": 193,
+  "id": "193",
+  "title": "新款93_四带融汇",
+  "roundNumber": "93",
+  "shape": "四片宽带在菱形路径上拼合，左上白槽呈柔性穿插。",
+  "culture": "共同中心、四片协作、右侧开放。",
+  "notes": "成图是四带而非四个方格，已据实改名；与77同为分片，93的长带穿插更明显。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-0fde2155-139d-4ffb-9764-789fe2acb476.png",
+  "sourceCreatedAt": "2026-11-23T08:09:15.149Z",
+  "displayCreatedAt": "2026/11/23 16:09:15",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "8f648d383ebff9f98bbfacc70ced876518c1ab8ad608a12e859f6d34bf663a7b",
+  "sourceBytes": 1090510,
+  "folder": "01_生成原稿/193_新款93_四带融汇",
+  "image": "01_生成原稿/193_新款93_四带融汇/原图.png",
+  "thumb": "00_索引素材/193.jpg",
+  "description": "01_生成原稿/193_新款93_四带融汇/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "分片模块与协同工作区。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

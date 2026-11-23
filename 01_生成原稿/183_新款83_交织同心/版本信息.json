@@ -1,0 +1,33 @@
+{
+  "number": 183,
+  "id": "183",
+  "title": "新款83_交织同心",
+  "roundNumber": "83",
+  "shape": "两条宽带在左侧形成一次前后交织，中央留白保持通透。",
+  "culture": "开放中心、穿插合作、信息传递。",
+  "notes": "与75有家族相似性；本款突出左侧上下穿插，外轮廓更接近原稿。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-46856c4c-1add-4775-87c7-2a91e2742737.png",
+  "sourceCreatedAt": "2026-11-23T08:05:57.774Z",
+  "displayCreatedAt": "2026/11/23 16:05:57",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "a29a30dee1d581b818f80531d9642d2431ecfcd03d55799bb91e9ee5d8be24df",
+  "sourceBytes": 1100476,
+  "folder": "01_生成原稿/183_新款83_交织同心",
+  "image": "01_生成原稿/183_新款83_交织同心/原图.png",
+  "thumb": "00_索引素材/183.jpg",
+  "description": "01_生成原稿/183_新款83_交织同心/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "跨模块交互与连接。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

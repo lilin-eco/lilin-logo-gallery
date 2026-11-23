@@ -1,0 +1,33 @@
+{
+  "number": 178,
+  "id": "178",
+  "title": "新款78_层流并行",
+  "roundNumber": "78",
+  "shape": "三条嵌套带面沿同一菱形方向回折，右侧分层开放。",
+  "culture": "中心留白、通路共向、持续流动。",
+  "notes": "多条线道的科技特征明显；32像素下较密，适合较大展示。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-277b0d05-096b-4087-8477-1e38e3256687.png",
+  "sourceCreatedAt": "2026-11-23T08:02:43.099Z",
+  "displayCreatedAt": "2026/11/23 16:02:43",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "68c5e9676066a210a36356b999b784b1155c4577db56654c7bbb96adeda75f28",
+  "sourceBytes": 1188473,
+  "folder": "01_生成原稿/178_新款78_层流并行",
+  "image": "01_生成原稿/178_新款78_层流并行/原图.png",
+  "thumb": "00_索引素材/178.jpg",
+  "description": "01_生成原稿/178_新款78_层流并行/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "并行数据通路。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

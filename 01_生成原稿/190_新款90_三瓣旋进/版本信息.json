@@ -1,0 +1,33 @@
+{
+  "number": 190,
+  "id": "190",
+  "title": "新款90_三瓣旋进",
+  "roundNumber": "90",
+  "shape": "三片宽圆旋转叶围绕菱形中心，白缝将三片分开。",
+  "culture": "三片分别对应善心、善念、善行，围绕共同中心运转。",
+  "notes": "和原稿结构差异明显，兼有流动与模块感；32像素仍有三片关系，是本轮重点候选。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-8659711b-42bb-451e-9623-60a3009341fc.png",
+  "sourceCreatedAt": "2026-11-23T08:07:36.443Z",
+  "displayCreatedAt": "2026/11/23 16:07:36",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "58694096eace225f07dc77711d160f30486d164030ad1e3de71ff0a7e0eda72e",
+  "sourceBytes": 1084011,
+  "folder": "01_生成原稿/190_新款90_三瓣旋进",
+  "image": "01_生成原稿/190_新款90_三瓣旋进/原图.png",
+  "thumb": "00_索引素材/190.jpg",
+  "description": "01_生成原稿/190_新款90_三瓣旋进/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "模块轮转与协同执行。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

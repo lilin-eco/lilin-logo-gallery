@@ -1,0 +1,33 @@
+{
+  "number": 186,
+  "id": "186",
+  "title": "新款86_水滴智界",
+  "roundNumber": "86",
+  "shape": "圆润水滴外形中切出向右开放的菱形留白。",
+  "culture": "内部接纳、环带承托、开口向外。",
+  "notes": "轮廓饱满，小尺寸清楚；与水滴类符号有共有形态，独特性需后续筛选。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-a8cccd10-f9c8-45f7-a4b3-3cdd5955ebbc.png",
+  "sourceCreatedAt": "2026-11-23T08:06:59.943Z",
+  "displayCreatedAt": "2026/11/23 16:06:59",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "4dc1f515df94d801fcdda219fea79ca92277ac6295b1a011c9f33919566b118a",
+  "sourceBytes": 1079083,
+  "folder": "01_生成原稿/186_新款86_水滴智界",
+  "image": "01_生成原稿/186_新款86_水滴智界/原图.png",
+  "thumb": "00_索引素材/186.jpg",
+  "description": "01_生成原稿/186_新款86_水滴智界/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "圆方融合的应用标识。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}

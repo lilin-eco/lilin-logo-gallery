@@ -1,0 +1,33 @@
+{
+  "number": 191,
+  "id": "191",
+  "title": "新款91_圆方共融",
+  "roundNumber": "91",
+  "shape": "外侧近圆环与内侧菱形共同构造，右侧端部圆润开放。",
+  "culture": "中心留白、圆环支撑、开放服务。",
+  "notes": "更温和饱满，保留原稿的上挑与下侧分路；与86相比，环形感更强。",
+  "status": "软件科技拓展候选",
+  "centralLotus": false,
+  "stage": "28",
+  "stageName": "开合图标二十变",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-a81d9f64-4a8b-4087-8c79-2027a52dbab4.png",
+  "sourceCreatedAt": "2026-11-23T08:08:53.234Z",
+  "displayCreatedAt": "2026/11/23 16:08:53",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "051599e5e943539dfb6ab7aa05a51c9c3b4dbacc5cb9ba7791a2c499fa634689",
+  "sourceBytes": 1093850,
+  "folder": "01_生成原稿/191_新款91_圆方共融",
+  "image": "01_生成原稿/191_新款91_圆方共融/原图.png",
+  "thumb": "00_索引素材/191.jpg",
+  "description": "01_生成原稿/191_新款91_圆方共融/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/39_开合图标二十变",
+  "assessment": {
+    "engineering": "本轮以软件品牌为主，不使用建筑或机械图示。",
+    "software": "圆方几何融合的应用标识。",
+    "name": "延续开合之礼的造形来源；独立符号不承担“礼林”二字直读，正式应用可与礼林生态字标组合。"
+  }
+}
