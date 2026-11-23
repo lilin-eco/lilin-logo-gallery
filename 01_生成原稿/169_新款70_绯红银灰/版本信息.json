@@ -1,0 +1,33 @@
+{
+  "number": 169,
+  "id": "169",
+  "title": "新款70_绯红银灰",
+  "roundNumber": "70",
+  "shape": "沿用67号圆角窗口、合抱外轮廓、点折及双端口，仅调整实色配色。",
+  "culture": "接纳留白、共享连接和开放端部继续表达善心、善念、善行。",
+  "notes": "暖红主体清楚，色彩比原稿更活跃；银灰不代表金属材质，小面积浅色连接在极小尺寸下会减弱。",
+  "status": "软件配色候选",
+  "centralLotus": false,
+  "stage": "26",
+  "stageName": "软件品牌四色",
+  "parents": [
+    166
+  ],
+  "sourceFilename": "exec-a0111b11-0d25-4d5f-ac55-fd7fb34982ee.png",
+  "sourceCreatedAt": "2026-11-23T07:30:44.326Z",
+  "displayCreatedAt": "2026/11/23 15:30:44",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "033e7879b9f39945bffd830af7e12b0fd27ac8790bfb44152e008dfd4cb82e28",
+  "sourceBytes": 1010148,
+  "folder": "01_生成原稿/169_新款70_绯红银灰",
+  "image": "01_生成原稿/169_新款70_绯红银灰/原图.png",
+  "thumb": "00_索引素材/169.jpg",
+  "description": "01_生成原稿/169_新款70_绯红银灰/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/37_软件品牌四色",
+  "assessment": {
+    "engineering": "沿用67构造，未添加工程物象或材料效果。",
+    "software": "绯红为主、冷石板色为辅，浅银灰仅承担连接，偏简洁的软件产品配色。",
+    "name": "保留既有点折、圆角窗口和双端部，品牌名称由组合字标明确。"
+  }
+}

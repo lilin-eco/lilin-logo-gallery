@@ -1,0 +1,33 @@
+{
+  "number": 168,
+  "id": "168",
+  "title": "新款69_晴蓝珊瑚",
+  "roundNumber": "69",
+  "shape": "沿用67号圆角窗口、合抱外轮廓、点折及双端口，仅调整实色配色。",
+  "culture": "接纳留白、共享连接和开放端部继续表达善心、善念、善行。",
+  "notes": "色彩更轻快、亲和；主蓝仍较明显，但与先前蓝紫渐变不同，为清楚分区的实色方向。",
+  "status": "软件配色候选",
+  "centralLotus": false,
+  "stage": "26",
+  "stageName": "软件品牌四色",
+  "parents": [
+    166
+  ],
+  "sourceFilename": "exec-e02187b0-b1a8-4174-9655-ae81bcf0624b.png",
+  "sourceCreatedAt": "2026-11-23T07:29:58.949Z",
+  "displayCreatedAt": "2026/11/23 15:29:58",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "dbf3b0a208639ec73e8ab4426b65b241f6ef17b420a34ab15282d5282726326b",
+  "sourceBytes": 1028034,
+  "folder": "01_生成原稿/168_新款69_晴蓝珊瑚",
+  "image": "01_生成原稿/168_新款69_晴蓝珊瑚/原图.png",
+  "thumb": "00_索引素材/168.jpg",
+  "description": "01_生成原稿/168_新款69_晴蓝珊瑚/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/37_软件品牌四色",
+  "assessment": {
+    "engineering": "不改变图形结构，以色彩气质减少工程材料色联想。",
+    "software": "晴蓝与珊瑚粉形成友好的数字产品色彩对比，柠黄用于短连接。",
+    "name": "沿用67号图形与准确的礼林生态组合字标。"
+  }
+}

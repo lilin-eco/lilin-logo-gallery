@@ -1,0 +1,33 @@
+{
+  "number": 167,
+  "id": "167",
+  "title": "新款68_湖蓝青柠",
+  "roundNumber": "68",
+  "shape": "沿用67号圆角窗口、合抱外轮廓、点折及双端口，仅调整实色配色。",
+  "culture": "接纳留白、共享连接和开放端部继续表达善心、善念、善行。",
+  "notes": "四款中较偏清爽、专业的软件品牌方向；青柠用作小面积点缀，小尺寸需控制面积，避免喧宾夺主。",
+  "status": "软件配色候选",
+  "centralLotus": false,
+  "stage": "26",
+  "stageName": "软件品牌四色",
+  "parents": [
+    166
+  ],
+  "sourceFilename": "exec-a4e47485-927d-4fc4-b436-c085b4aa50b6.png",
+  "sourceCreatedAt": "2026-11-23T07:29:42.235Z",
+  "displayCreatedAt": "2026/11/23 15:29:42",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "67ee3e39e5eda4647eafb58d905d9dea94d7d8f5c093ed9daded578ebe4295fe",
+  "sourceBytes": 1081354,
+  "folder": "01_生成原稿/167_新款68_湖蓝青柠",
+  "image": "01_生成原稿/167_新款68_湖蓝青柠/原图.png",
+  "thumb": "00_索引素材/167.jpg",
+  "description": "01_生成原稿/167_新款68_湖蓝青柠/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/37_软件品牌四色",
+  "assessment": {
+    "engineering": "沿用67的承接关系，配色重点转向软件产品与数字服务。",
+    "software": "湖蓝主体、青柠信号点和石墨端部形成较明确的数字产品配色层级。",
+    "name": "沿用67的点折、合抱外轮廓与双端口来源，未新增字形或装饰。"
+  }
+}
