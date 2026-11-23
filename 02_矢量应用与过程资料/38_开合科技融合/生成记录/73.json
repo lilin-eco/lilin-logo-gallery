@@ -1,0 +1,15 @@
+{
+  "id": "73",
+  "number": 73,
+  "name": "模块接口",
+  "centralLotus": false,
+  "sourceRound": "开合之礼",
+  "reference": "C:/Users/Administrator/Documents/ChatGPT/公司官网/output/礼林Logo完整档案_2026-11-16/02_矢量应用与过程资料/38_开合科技融合/inputs/selected-open-mark.png",
+  "shape": "在原有右侧开口内缘加入两处短圆角阶形切口，以接口秩序强调模块协作。",
+  "culture": "开放中心为善心，相向接口为善念，持续开放的端部为善行。",
+  "prompt": "Use case: logo-brand / precise identity-preserving technology refinement. Target: the exact supplied blue-purple-cyan open-diamond flowing ribbon emblem for Chinese brand 礼林生态 / LILIN ECO. The client LIKES THIS VERSION and asks to integrate technology elements. Preserve its recognizable silhouette, three main flowing ribbon masses, royal-blue upward curl at upper-left, violet upper-right face, cyan lower sweep and large WHITE DIAMOND CENTER with the open right side. Preserve the SAME vivid blue/violet/cyan palette and its smooth flat 2D color transitions. The main mark must still be simple and airy. Technology must be integrated INTO existing geometry, not pasted around it. Targeted change: Refine ONLY THE EXISTING OPEN RIGHT GATEWAY and nearest inner corners. The purple upper returning band and cyan lower returning band terminate as TWO complementary compact interface ends: retain their flowing taper, but each gains ONE small broad rounded STEP-CUT on its INNER edge, so the white gap feels like two software modules meeting. The large white center stays diamond-shaped; give just ONE lower inner corner a very short rounded-rectilinear transition to echo UI geometry. Keep the iconic top-left blue curl and the actual outer envelope extremely close to the original. Do not turn the whole symbol into a hard square, enclosing box, prism or generic </> code brackets. No node dots or extra circuit lines. ONE centered standalone emblem on PURE WHITE with generous margins, no text, captions, swatches or mockup. Preserve soft curves, clear large openings and overall optical weight. No new flower, company words or literal characters. No construction beams, skyline, gear, robot, chip, laptop or engineering pictograms. No dense motherboard pattern, tiny decorative circuit network, external halo, extra enclosing frame, particles, 3D, glass, lighting effect, shadow, glossy reflections or texture. Keep original identity stronger than the tech detail.",
+  "tool": "image_gen.imagegen",
+  "archivedReference": "inputs/selected-open-mark.png",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-68f5dc01-51d3-4a6b-bea7-bf6e7dbcd195.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-68f5dc01-51d3-4a6b-bea7-bf6e7dbcd195.png"
+}

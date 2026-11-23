@@ -1,0 +1,28 @@
+{
+  "number": 171,
+  "id": "171",
+  "title": "新款72_数据通路_修正前",
+  "roundNumber": "72",
+  "shape": "把下侧已有白槽整理成带圆润折点的开放数据通路，保留外侧带面与开放菱形。",
+  "culture": "中心留白为善心，分路共接为善念，向外贯通为善行。",
+  "notes": "下侧通路有亮边渐隐效果，修正为清楚的白色负形通道。",
+  "status": "修正前过程稿",
+  "centralLotus": false,
+  "stage": "27",
+  "stageName": "开合科技融合",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-64478cf6-608c-461d-a640-b277ca0b2b83.png",
+  "sourceCreatedAt": "2026-11-23T07:47:31.654Z",
+  "displayCreatedAt": "2026/11/23 15:47:31",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "714155dbc4104d1d90a33f5060f2c5921dd55e7c0a5f58a0869b00c51a47d6ba",
+  "sourceBytes": 1101440,
+  "folder": "01_生成原稿/171_新款72_数据通路_修正前",
+  "image": "01_生成原稿/171_新款72_数据通路_修正前/原图.png",
+  "thumb": "00_索引素材/171.jpg",
+  "description": "01_生成原稿/171_新款72_数据通路_修正前/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合"
+}

@@ -1,0 +1,33 @@
+{
+  "number": 173,
+  "id": "173",
+  "title": "新款73_模块接口",
+  "roundNumber": "73",
+  "shape": "在原有右侧开口内缘加入两处短圆角阶形切口，以接口秩序强调模块协作。",
+  "culture": "开放中心为善心，相向接口为善念，持续开放的端部为善行。",
+  "notes": "三款中改动较克制，接口秩序清楚；32像素时阶形细节变小，但外轮廓仍保留。",
+  "status": "软件科技细化候选",
+  "centralLotus": false,
+  "stage": "27",
+  "stageName": "开合科技融合",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-68f5dc01-51d3-4a6b-bea7-bf6e7dbcd195.png",
+  "sourceCreatedAt": "2026-11-23T07:47:11.700Z",
+  "displayCreatedAt": "2026/11/23 15:47:11",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "86575b9ee061a051e0aec100a81a3c6f04b400343e6f648da400a35791f61192",
+  "sourceBytes": 1007762,
+  "folder": "01_生成原稿/173_新款73_模块接口",
+  "image": "01_生成原稿/173_新款73_模块接口/原图.png",
+  "thumb": "00_索引素材/173.jpg",
+  "description": "01_生成原稿/173_新款73_模块接口/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合",
+  "assessment": {
+    "engineering": "保留原有带面构造，新增细节集中在软件接口。",
+    "software": "右侧相向端部加入短阶形切口，中央开口更接近模块接口关系。",
+    "name": "原稿上扬转折、开放菱形和双路径保留，未增加独立字形。"
+  }
+}

@@ -4423,5 +4423,132 @@
       "software": "明快薄荷与蜜桃形成较轻松的应用品牌气质，深石板色短连接稳定视觉。",
       "name": "延续67号主要图形特征，未改变名称来源和三善结构意图。"
     }
+  },
+  {
+    "number": 171,
+    "id": "171",
+    "title": "新款72_数据通路_修正前",
+    "roundNumber": "72",
+    "shape": "把下侧已有白槽整理成带圆润折点的开放数据通路，保留外侧带面与开放菱形。",
+    "culture": "中心留白为善心，分路共接为善念，向外贯通为善行。",
+    "notes": "下侧通路有亮边渐隐效果，修正为清楚的白色负形通道。",
+    "status": "修正前过程稿",
+    "centralLotus": false,
+    "stage": "27",
+    "stageName": "开合科技融合",
+    "parents": [
+      85
+    ],
+    "sourceFilename": "exec-64478cf6-608c-461d-a640-b277ca0b2b83.png",
+    "sourceCreatedAt": "2026-11-23T07:47:31.654Z",
+    "displayCreatedAt": "2026/11/23 15:47:31",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "714155dbc4104d1d90a33f5060f2c5921dd55e7c0a5f58a0869b00c51a47d6ba",
+    "sourceBytes": 1101440,
+    "folder": "01_生成原稿/171_新款72_数据通路_修正前",
+    "image": "01_生成原稿/171_新款72_数据通路_修正前/原图.png",
+    "thumb": "00_索引素材/171.jpg",
+    "description": "01_生成原稿/171_新款72_数据通路_修正前/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合"
+  },
+  {
+    "number": 172,
+    "id": "172",
+    "title": "新款72_数据通路",
+    "roundNumber": "72",
+    "shape": "把下侧已有白槽整理成带圆润折点的开放数据通路，保留外侧带面与开放菱形。",
+    "culture": "中心留白为善心，分路共接为善念，向外贯通为善行。",
+    "notes": "通路变化较明显，仍保留原稿主要色彩和轮廓；初稿亮边已修为白色负形，小尺寸下细分路会减弱。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "27",
+    "stageName": "开合科技融合",
+    "parents": [
+      85
+    ],
+    "sourceFilename": "exec-fb303b5d-5de2-4c3c-8880-41055aefcff6.png",
+    "sourceCreatedAt": "2026-11-23T07:50:34.412Z",
+    "displayCreatedAt": "2026/11/23 15:50:34",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ab3d8b3bbdf6b66bad841fd0e308fa189ac9795c0950636aa4056b253457cc04",
+    "sourceBytes": 1098808,
+    "folder": "01_生成原稿/172_新款72_数据通路",
+    "image": "01_生成原稿/172_新款72_数据通路/原图.png",
+    "thumb": "00_索引素材/172.jpg",
+    "description": "01_生成原稿/172_新款72_数据通路/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合",
+    "assessment": {
+      "engineering": "行业表达以软件和数据连接为主，沿用开合带面的共有承接。",
+      "software": "把原有分叉白槽改成并行通路，沿既有带面向右侧开口流出。",
+      "name": "延续开合之礼的主要轮廓与转折来源，名称由组合字标明确呈现。"
+    }
+  },
+  {
+    "number": 173,
+    "id": "173",
+    "title": "新款73_模块接口",
+    "roundNumber": "73",
+    "shape": "在原有右侧开口内缘加入两处短圆角阶形切口，以接口秩序强调模块协作。",
+    "culture": "开放中心为善心，相向接口为善念，持续开放的端部为善行。",
+    "notes": "三款中改动较克制，接口秩序清楚；32像素时阶形细节变小，但外轮廓仍保留。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "27",
+    "stageName": "开合科技融合",
+    "parents": [
+      85
+    ],
+    "sourceFilename": "exec-68f5dc01-51d3-4a6b-bea7-bf6e7dbcd195.png",
+    "sourceCreatedAt": "2026-11-23T07:47:11.700Z",
+    "displayCreatedAt": "2026/11/23 15:47:11",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "86575b9ee061a051e0aec100a81a3c6f04b400343e6f648da400a35791f61192",
+    "sourceBytes": 1007762,
+    "folder": "01_生成原稿/173_新款73_模块接口",
+    "image": "01_生成原稿/173_新款73_模块接口/原图.png",
+    "thumb": "00_索引素材/173.jpg",
+    "description": "01_生成原稿/173_新款73_模块接口/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合",
+    "assessment": {
+      "engineering": "保留原有带面构造，新增细节集中在软件接口。",
+      "software": "右侧相向端部加入短阶形切口，中央开口更接近模块接口关系。",
+      "name": "原稿上扬转折、开放菱形和双路径保留，未增加独立字形。"
+    }
+  },
+  {
+    "number": 174,
+    "id": "174",
+    "title": "新款74_智联节点",
+    "roundNumber": "74",
+    "shape": "在左下宽带内嵌一条短白槽与两个小节点，保留原有流动轮廓和中央留白。",
+    "culture": "留白接纳为善心，节点相连为善念，沿带面传递为善行。",
+    "notes": "科技元素较直观，仍控制为两点一线；32像素时连接细节会弱化，原稿轮廓仍作为主要识别。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "27",
+    "stageName": "开合科技融合",
+    "parents": [
+      85
+    ],
+    "sourceFilename": "exec-ea71519b-08d9-4f1f-8ec9-1c6449856d9f.png",
+    "sourceCreatedAt": "2026-11-23T07:48:43.183Z",
+    "displayCreatedAt": "2026/11/23 15:48:43",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "70a587e4bf9b5c049727c8861e21754343f208d78077f27fd8ca496627b61936",
+    "sourceBytes": 1092668,
+    "folder": "01_生成原稿/174_新款74_智联节点",
+    "image": "01_生成原稿/174_新款74_智联节点/原图.png",
+    "thumb": "00_索引素材/174.jpg",
+    "description": "01_生成原稿/174_新款74_智联节点/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合",
+    "assessment": {
+      "engineering": "保留原有带面，不增加机械或建筑结构。",
+      "software": "左下宽带内部嵌入两节点与短连接，明确提示数据互联。",
+      "name": "延续开合之礼的轮廓和颜色，节点为局部信息，不承担名称识别。"
+    }
   }
 ]

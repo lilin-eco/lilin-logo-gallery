@@ -1,0 +1,33 @@
+{
+  "number": 172,
+  "id": "172",
+  "title": "新款72_数据通路",
+  "roundNumber": "72",
+  "shape": "把下侧已有白槽整理成带圆润折点的开放数据通路，保留外侧带面与开放菱形。",
+  "culture": "中心留白为善心，分路共接为善念，向外贯通为善行。",
+  "notes": "通路变化较明显，仍保留原稿主要色彩和轮廓；初稿亮边已修为白色负形，小尺寸下细分路会减弱。",
+  "status": "软件科技细化候选",
+  "centralLotus": false,
+  "stage": "27",
+  "stageName": "开合科技融合",
+  "parents": [
+    85
+  ],
+  "sourceFilename": "exec-fb303b5d-5de2-4c3c-8880-41055aefcff6.png",
+  "sourceCreatedAt": "2026-11-23T07:50:34.412Z",
+  "displayCreatedAt": "2026/11/23 15:50:34",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "ab3d8b3bbdf6b66bad841fd0e308fa189ac9795c0950636aa4056b253457cc04",
+  "sourceBytes": 1098808,
+  "folder": "01_生成原稿/172_新款72_数据通路",
+  "image": "01_生成原稿/172_新款72_数据通路/原图.png",
+  "thumb": "00_索引素材/172.jpg",
+  "description": "01_生成原稿/172_新款72_数据通路/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/38_开合科技融合",
+  "assessment": {
+    "engineering": "行业表达以软件和数据连接为主，沿用开合带面的共有承接。",
+    "software": "把原有分叉白槽改成并行通路，沿既有带面向右侧开口流出。",
+    "name": "延续开合之礼的主要轮廓与转折来源，名称由组合字标明确呈现。"
+  }
+}
