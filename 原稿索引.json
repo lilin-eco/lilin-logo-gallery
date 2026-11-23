@@ -4192,5 +4192,104 @@
       "software": "大白槽和双侧开放关系。",
       "name": "转折与成对连接保留名称意图，不能直接读为完整礼林。"
     }
+  },
+  {
+    "number": 164,
+    "id": "164",
+    "title": "新款65_轻量接口",
+    "roundNumber": "65",
+    "shape": "保留原稿外轮廓，将点画、双分叉端部与浅接槽整理为统一圆角接口。",
+    "culture": "善心为合抱留白，善念为共同接口，善行为开放端部。",
+    "notes": "最接近原稿，科技感变化相对克制；32像素时浅接槽减弱，方点和双端部仍较清楚。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "25",
+    "stageName": "合抱科技细化",
+    "parents": [
+      159
+    ],
+    "sourceFilename": "exec-2e786c97-2242-40e8-8ef9-eca26fc4c706.png",
+    "sourceCreatedAt": "2026-11-23T07:17:38.882Z",
+    "displayCreatedAt": "2026/11/23 15:17:38",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "84c6a339b437fed3b7fef57851224454e861982bc7f191a356837b8647e8c636",
+    "sourceBytes": 1053536,
+    "folder": "01_生成原稿/164_新款65_轻量接口",
+    "image": "01_生成原稿/164_新款65_轻量接口/原图.png",
+    "thumb": "00_索引素材/164.jpg",
+    "description": "01_生成原稿/164_新款65_轻量接口/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/36_合抱科技细化",
+    "assessment": {
+      "engineering": "本轮不增加工程物象，沿用原稿柔和承接关系。",
+      "software": "圆角方点、统一双端口与浅接槽形成轻量模块接口的形态。",
+      "name": "延续60号橙色点折、转回与右侧双叉来源，非完整可读礼林合字。"
+    }
+  },
+  {
+    "number": 165,
+    "id": "165",
+    "title": "新款66_双路协同",
+    "roundNumber": "66",
+    "shape": "橙色点折与合抱底部保留，右侧改为同根双曲线通路，白槽贯通其中。",
+    "culture": "善心为开放中心，善念为双路协作，善行为通路延伸。",
+    "notes": "通路变化较明显，曲线仍柔和；也可能产生波形或传递动作联想，不能凭图形断言观看者已认出软件行业。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "25",
+    "stageName": "合抱科技细化",
+    "parents": [
+      159
+    ],
+    "sourceFilename": "exec-b8edf148-cd1f-4d43-a2eb-c0c42211c42f.png",
+    "sourceCreatedAt": "2026-11-23T07:17:15.489Z",
+    "displayCreatedAt": "2026/11/23 15:17:15",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e4f04f6a5fd346f10656339236d1d27af40bfca95e9ce87707d42599e2a483eb",
+    "sourceBytes": 1075966,
+    "folder": "01_生成原稿/165_新款66_双路协同",
+    "image": "01_生成原稿/165_新款66_双路协同/原图.png",
+    "thumb": "00_索引素材/165.jpg",
+    "description": "01_生成原稿/165_新款66_双路协同/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/36_合抱科技细化",
+    "assessment": {
+      "engineering": "保留低位共有根部，不引入梁架或机械部件。",
+      "software": "右侧两条同根曲线与贯通白槽表达并行数据通路和协作。",
+      "name": "左侧礼的点折开钩延续，右侧双通路承载林的成对来源。"
+    }
+  },
+  {
+    "number": 166,
+    "id": "166",
+    "title": "新款67_模块互联",
+    "roundNumber": "67",
+    "shape": "外侧合抱曲线延续，内侧以圆角窗口、偏置白槽和双端口形成模块感。",
+    "culture": "善心为内侧窗口留白，善念为模块互联，善行为开放端口。",
+    "notes": "三款中变化最明确，内侧窗口有助于建立软件图标方向；与原稿仍存在局部比例及线条差异，正式母版需统一圆角和端部厚度。",
+    "status": "软件科技细化候选",
+    "centralLotus": false,
+    "stage": "25",
+    "stageName": "合抱科技细化",
+    "parents": [
+      159
+    ],
+    "sourceFilename": "exec-65e8c659-207a-403e-a2b9-30fb0b09598c.png",
+    "sourceCreatedAt": "2026-11-23T07:18:02.810Z",
+    "displayCreatedAt": "2026/11/23 15:18:02",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8954edfb41b98819752dfb8221f6a03cdec4ab27777fb7a0eaa0a5e67d5638fb",
+    "sourceBytes": 1026507,
+    "folder": "01_生成原稿/166_新款67_模块互联",
+    "image": "01_生成原稿/166_新款67_模块互联/原图.png",
+    "thumb": "00_索引素材/166.jpg",
+    "description": "01_生成原稿/166_新款67_模块互联/设计说明.md",
+    "sourceCollection": "02_矢量应用与过程资料/36_合抱科技细化",
+    "assessment": {
+      "engineering": "保持原稿承接关系，行业重点转向软件的界面与连接。",
+      "software": "内侧圆角窗口、局部横竖段与开放双端口，形成较强的界面模块感。",
+      "name": "主要点折、开钩与双端部保留，与60号保持明确的构图关系。"
+    }
   }
 ]

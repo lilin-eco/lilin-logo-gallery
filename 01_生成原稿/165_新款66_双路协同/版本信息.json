@@ -1,0 +1,33 @@
+{
+  "number": 165,
+  "id": "165",
+  "title": "新款66_双路协同",
+  "roundNumber": "66",
+  "shape": "橙色点折与合抱底部保留，右侧改为同根双曲线通路，白槽贯通其中。",
+  "culture": "善心为开放中心，善念为双路协作，善行为通路延伸。",
+  "notes": "通路变化较明显，曲线仍柔和；也可能产生波形或传递动作联想，不能凭图形断言观看者已认出软件行业。",
+  "status": "软件科技细化候选",
+  "centralLotus": false,
+  "stage": "25",
+  "stageName": "合抱科技细化",
+  "parents": [
+    159
+  ],
+  "sourceFilename": "exec-b8edf148-cd1f-4d43-a2eb-c0c42211c42f.png",
+  "sourceCreatedAt": "2026-11-23T07:17:15.489Z",
+  "displayCreatedAt": "2026/11/23 15:17:15",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "e4f04f6a5fd346f10656339236d1d27af40bfca95e9ce87707d42599e2a483eb",
+  "sourceBytes": 1075966,
+  "folder": "01_生成原稿/165_新款66_双路协同",
+  "image": "01_生成原稿/165_新款66_双路协同/原图.png",
+  "thumb": "00_索引素材/165.jpg",
+  "description": "01_生成原稿/165_新款66_双路协同/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/36_合抱科技细化",
+  "assessment": {
+    "engineering": "保留低位共有根部，不引入梁架或机械部件。",
+    "software": "右侧两条同根曲线与贯通白槽表达并行数据通路和协作。",
+    "name": "左侧礼的点折开钩延续，右侧双通路承载林的成对来源。"
+  }
+}
