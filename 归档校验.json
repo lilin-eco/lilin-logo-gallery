@@ -1,12 +1,13 @@
 {
-  "verifiedOn": "2026-11-23T08:16:26.306Z",
-  "copiedAssets": 1455,
-  "manifestHashesMatched": 1455,
+  "verifiedOn": "2026-11-24T09:50:54.455Z",
+  "copiedAssets": 1501,
+  "manifestHashesMatched": 1501,
   "originalsMatched": 194,
-  "uniqueOriginalSourceFilenames": 194,
-  "previewCards": 233,
-  "localPreviewLinksChecked": 1178,
+  "previewCards": 234,
   "allChecksPassed": true,
   "scriptSyntaxValid": true,
-  "browserInteractionVerified": false
+  "browserInteractionVerified": false,
+  "typographyCount": 10,
+  "sameEmbeddedIcon": true,
+  "priorityCandidate": "191"
 }

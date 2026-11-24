@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T01",
+    "number": 1,
+    "name": "几何中黑",
+    "shape": "方正骨架与适度圆角，字重均衡，适合作为稳健的软件企业字标。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: CUSTOM GEOMETRIC MEDIUM-BOLD Chinese sans lettering. Balanced square em boxes, modern clean horizontal strokes, subtle optical corner rounding, even medium-bold weight. Dark deep navy. Four characters spaced modestly. Understated premium software brand; neither generic office font nor futuristic stencil. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T02",
+    "number": 2,
+    "name": "圆角柔黑",
+    "shape": "笔端圆润，弱化棱角，以亲和力呼应图标的柔性带面。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: SOFT ROUNDED Chinese sans lettering, fully readable modern rounded terminals, smooth stroke junctions, moderate weight and generous open counters. The four characters should look friendly and contemporary without childish bubble forms. Deep navy blue. Clearly rounded compared with ordinary geometric black. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T03",
+    "number": 3,
+    "name": "宽扁科技",
+    "shape": "四字采用横向舒展比例，平直笔画与少量斜切端部增强科技感。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: CUSTOM WIDE EXTENDED techno Chinese lettering: visibly WIDE AND SLIGHTLY LOW aspect ratio, straight horizontal strokes, angular squared inner corners, selective small diagonal terminal cuts. Solid medium-bold dark navy, not hollow outline. The Chinese must stay fully intact and easy to read, no excessive stencil gaps. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T04",
+    "number": 4,
+    "name": "轻盈疏朗",
+    "shape": "较细的等线笔画与疏朗字距，让组合更轻、更通透。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: ELEGANT LIGHT-WEIGHT Chinese sans lettering: visually thin precise even strokes, large open counters, wider tracking. Fresh sophisticated airy technology brand, not weak hairlines. Dark navy, four characters in one centered line. Must visibly contrast with heavy versions. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T05",
+    "number": 5,
+    "name": "紧凑重黑",
+    "shape": "偏窄而有力的重黑字形，形成小尺寸也清楚的紧凑组合。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: COMPACT HEAVY Chinese sans lettering with slightly CONDENSED tall proportions, strong thick strokes, generous legible counters and close but non-touching spacing. Dark navy. A confident app-company wordmark, no seal, no calligraphy, not wide-tracked. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T06",
+    "number": 6,
+    "name": "人文雅宋",
+    "shape": "使用克制的现代宋体风格，以细微粗细对比体现人文气质。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: CONTEMPORARY REFINED Chinese SONG/SERIF wordmark: moderate thick-thin stroke contrast, short crisp small wedge serifs, restrained elegant ends, upright modern proportions. Not brush calligraphy or antique signage. Deep navy. Premium humanistic design company feel complementing colorful technology symbol. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T07",
+    "number": 7,
+    "name": "方圆共生",
+    "shape": "外转角柔和、内部空间方整，字形呼应图标的圆方关系。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: CUSTOM SQUIRCLE Chinese lettering: unmistakably square internal counters but gently ROUNDED OUTER corners. Medium-bold almost monoline strokes, modular consistency across 礼林生态. Deep navy. Distinct designed junctions, rounded-square rhythm, no tiny detached dots added, not generic rounded bubble font. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T08",
+    "number": 8,
+    "name": "流线向前",
+    "shape": "字形轻微前倾并收束笔端，与图标的流动方向呼应。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: CUSTOM FORWARD-LEANING Chinese software wordmark with a subtle 8-degree RIGHT LEAN, dynamic tapered stroke ends and clean sans construction. All four characters remain fully legible and aligned on one baseline. Medium weight navy-to-blue restrained 2D gradient. No speed stripes, no English, no cartoon brush. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T09",
+    "number": 9,
+    "name": "双色层次",
+    "shape": "礼林与生态用深浅两级蓝色区分，字重协调，突出名称层次。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: TWO-TONE modern Chinese sans wordmark: 礼林 in deep dark NAVY semi-bold, 生态 in fresh royal BLUE medium weight. Same optical size and compatible geometric construction, clear balanced hierarchy and spacing, one centered line reading 礼林生态. No separate slogans, no dividing lines, no decorative motifs. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "id": "T10",
+    "number": 10,
+    "name": "定制相承",
+    "shape": "在相邻笔势之间形成克制的呼应，保留四字完整识别。",
+    "culture": "沿用91号图形的中心留白、圆环支撑与右侧开放，表达善心、善念、善行；字标负责明确呈现公司简称。",
+    "centralLotus": false,
+    "sourceRound": "91圆方共融",
+    "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-54826d67-e170-4f2f-aca2-9dbbc593d880.png",
+    "prompt": "Use case: logo-brand / precise-object-edit, Chinese vertical logo lockup. Image 1 is the EXACT approved symbol to preserve. Keep that same blue-purple-cyan round-open-diamond swirl icon, same contour, gradients, open right gap, central diamond, upper flick, and lower cyan split. DO NOT redesign, rotate, simplify or embellish the symbol. Extend the WHITE CANVAS DOWNWARD and place the exact Chinese company wordmark directly BELOW the symbol. Text verbatim, exactly four simplified Chinese characters: \"礼林生态\". No traditional replacements, no missing or incorrect strokes. TYPOGRAPHY DIRECTION: BESPOKE CONNECTED-LOGIC Chinese logotype, not a stock typeface: four characters 礼林生态 retain ALL recognizable radicals, while a few neighboring horizontal terminals share a consistent upward micro-curve echoing the icon. One subtle continuous baseline rhythm, but DO NOT merge the four words into an unreadable knot. Geometric-humanist medium weight, deep navy with just a tiny blue accent on one terminal. Design-led and legible. Composition: ONE finished vertical logo lockup on pure white. Symbol about 56% of total canvas width centered above; Chinese line below about 60–70% canvas width, optically centered under the symbol, wordmark height about one sixth of symbol height, generous clear gap about 12% of symbol height. Text should be secondary to the icon, polished precise legible shapes. Give the whole lockup generous white margins. No English, no slogans, no extra text, no numbers, no labels, no swatches, no frames, no mockups, no shadows, no 3D, no glow, no gradients in background. The ONLY requested changes are adding the distinctive Chinese typography below and extending the canvas. Preserve the approved SYMBOL strongly.",
+    "tool": "image_gen.imagegen"
+  }
+]
