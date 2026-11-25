@@ -1,0 +1,282 @@
+[
+  {
+    "id": "C01-cn",
+    "family": "Noto Sans SC Medium",
+    "bold": false,
+    "tracking": 18,
+    "text": "礼林"
+  },
+  {
+    "id": "C01-pinyin",
+    "family": "Segoe UI",
+    "bold": true,
+    "tracking": 25,
+    "text": "LILIN"
+  },
+  {
+    "id": "C02-cn",
+    "family": "幼圆",
+    "bold": false,
+    "tracking": 22,
+    "text": "礼林"
+  },
+  {
+    "id": "C02-pinyin",
+    "family": "Segoe UI",
+    "bold": false,
+    "tracking": 24,
+    "text": "li lin"
+  },
+  {
+    "id": "C03-cn",
+    "family": "Noto Sans SC Black",
+    "bold": false,
+    "tracking": 8,
+    "text": "礼林"
+  },
+  {
+    "id": "C03-pinyin",
+    "family": "Bahnschrift",
+    "bold": true,
+    "tracking": 16,
+    "text": "LILIN"
+  },
+  {
+    "id": "C04-cn",
+    "family": "Noto Serif SC Medium",
+    "bold": false,
+    "tracking": 18,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C04-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 22,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C05-cn",
+    "family": "Noto Serif SC Medium",
+    "bold": false,
+    "tracking": 32,
+    "text": "礼林"
+  },
+  {
+    "id": "C05-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 36,
+    "text": "LI LIN"
+  },
+  {
+    "id": "C06-cn",
+    "family": "Microsoft YaHei UI",
+    "bold": true,
+    "tracking": 10,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C06-pinyin",
+    "family": "Bahnschrift",
+    "bold": true,
+    "tracking": 10,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C07-cn",
+    "family": "Noto Sans SC Black",
+    "bold": false,
+    "tracking": 6,
+    "text": "礼林"
+  },
+  {
+    "id": "C07-pinyin",
+    "family": "Arial",
+    "bold": true,
+    "tracking": 28,
+    "text": "LILIN"
+  },
+  {
+    "id": "C08-cn",
+    "family": "等线",
+    "bold": false,
+    "tracking": 28,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C08-pinyin",
+    "family": "Segoe UI",
+    "bold": false,
+    "tracking": 35,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C09-cn",
+    "family": "Noto Serif SC Light",
+    "bold": false,
+    "tracking": 30,
+    "text": "礼林"
+  },
+  {
+    "id": "C09-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 50,
+    "text": "LI LIN"
+  },
+  {
+    "id": "C10-cn",
+    "family": "Noto Serif SC Medium",
+    "bold": false,
+    "tracking": 15,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C10-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 18,
+    "text": "LI LIN SHENG TAI"
+  },
+  {
+    "id": "C11-cn",
+    "family": "Noto Sans SC Black",
+    "bold": false,
+    "tracking": 0,
+    "text": "礼林"
+  },
+  {
+    "id": "C11-pinyin",
+    "family": "Bahnschrift",
+    "bold": true,
+    "tracking": 10,
+    "text": "LILIN"
+  },
+  {
+    "id": "C12-cn",
+    "family": "幼圆",
+    "bold": false,
+    "tracking": 26,
+    "text": "礼林"
+  },
+  {
+    "id": "C12-pinyin",
+    "family": "Segoe UI",
+    "bold": false,
+    "tracking": 38,
+    "text": "li lin"
+  },
+  {
+    "id": "C13-cn",
+    "family": "Noto Sans SC Medium",
+    "bold": false,
+    "tracking": 20,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C13-pinyin",
+    "family": "Segoe UI",
+    "bold": true,
+    "tracking": 20,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C14-cn",
+    "family": "Noto Sans SC Light",
+    "bold": false,
+    "tracking": 46,
+    "text": "礼林"
+  },
+  {
+    "id": "C14-pinyin",
+    "family": "Segoe UI",
+    "bold": false,
+    "tracking": 16,
+    "text": "Lilin"
+  },
+  {
+    "id": "C15-cn",
+    "family": "Noto Serif SC Medium",
+    "bold": false,
+    "tracking": 20,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C15-pinyin",
+    "family": "Arial",
+    "bold": false,
+    "tracking": 24,
+    "text": "LI LIN SHENG TAI"
+  },
+  {
+    "id": "C16-cn",
+    "family": "Noto Sans SC Medium",
+    "bold": false,
+    "tracking": 18,
+    "text": "礼林"
+  },
+  {
+    "id": "C16-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 28,
+    "text": "LILIN"
+  },
+  {
+    "id": "C17-cn",
+    "family": "Noto Serif SC Light",
+    "bold": false,
+    "tracking": 22,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C17-pinyin",
+    "family": "Georgia",
+    "bold": false,
+    "tracking": 35,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C18-cn",
+    "family": "Noto Sans SC Medium",
+    "bold": false,
+    "tracking": 36,
+    "text": "礼林"
+  },
+  {
+    "id": "C18-pinyin",
+    "family": "Arial",
+    "bold": true,
+    "tracking": 40,
+    "text": "LI LIN"
+  },
+  {
+    "id": "C19-cn",
+    "family": "幼圆",
+    "bold": false,
+    "tracking": 15,
+    "text": "礼林生态"
+  },
+  {
+    "id": "C19-pinyin",
+    "family": "Segoe UI",
+    "bold": false,
+    "tracking": 30,
+    "text": "LILIN SHENGTAI"
+  },
+  {
+    "id": "C20-cn",
+    "family": "Noto Sans SC Black",
+    "bold": false,
+    "tracking": 8,
+    "text": "礼林"
+  },
+  {
+    "id": "C20-pinyin",
+    "family": "Bahnschrift",
+    "bold": true,
+    "tracking": 25,
+    "text": "LILIN"
+  }
+]

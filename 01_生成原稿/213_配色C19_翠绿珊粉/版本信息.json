@@ -1,0 +1,44 @@
+{
+  "number": 213,
+  "id": "213",
+  "title": "配色C19_翠绿珊粉",
+  "roundNumber": "C19",
+  "shape": "翠绿珊粉配色；礼林生态／LILIN SHENGTAI，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "翠绿与珊粉明快亲和，四字圆体中文加无衬线拼音；已用深绿文字增加可读性。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-fb190279-e3aa-4822-be13-af0bc636c9b7.png",
+  "sourceCreatedAt": "2026-11-25T00:51:07.056Z",
+  "displayCreatedAt": "2026/11/25 08:51:07",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "56f4c9ecf06b99e70cf7affa30b359e9b4e3c18358a535485268b0abeec099e3",
+  "sourceBytes": 1130476,
+  "folder": "01_生成原稿/213_配色C19_翠绿珊粉",
+  "image": "01_生成原稿/213_配色C19_翠绿珊粉/原图.png",
+  "thumb": "00_索引素材/213.jpg",
+  "description": "01_生成原稿/213_配色C19_翠绿珊粉/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C19-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C19-lockup.svg",
+  "palette": [
+    "#009B75",
+    "#EF9A9E",
+    "#8BCDAF"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LILIN SHENGTAI",
+  "layout": "vertical",
+  "wordInk": "#195C4D",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+    "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 196,
+  "id": "196",
+  "title": "配色C02_湖绿珊瑚",
+  "roundNumber": "C02",
+  "shape": "湖绿珊瑚配色；礼林／li lin，横向中拼音组合。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "湖绿与珊瑚形成冷暖对比，圆体中文和小写拼音更亲和；缩小时文字偏轻。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-82172ab4-87af-406c-883c-8db4d2261871.png",
+  "sourceCreatedAt": "2026-11-25T00:45:26.196Z",
+  "displayCreatedAt": "2026/11/25 08:45:26",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "1809e0783ab3de6f7ca39f353dc01c6d306a27147908296b354eb6931910befb",
+  "sourceBytes": 1055250,
+  "folder": "01_生成原稿/196_配色C02_湖绿珊瑚",
+  "image": "01_生成原稿/196_配色C02_湖绿珊瑚/原图.png",
+  "thumb": "00_索引素材/196.jpg",
+  "description": "01_生成原稿/196_配色C02_湖绿珊瑚/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C02-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C02-lockup.svg",
+  "palette": [
+    "#007C78",
+    "#F36C5B",
+    "#8BC5B8"
+  ],
+  "chinese": "礼林",
+  "pinyin": "li lin",
+  "layout": "horizontal",
+  "wordInk": "#007C78",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／li lin；横向中拼音组合。",
+    "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

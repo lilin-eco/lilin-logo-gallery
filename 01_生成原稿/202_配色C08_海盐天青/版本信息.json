@@ -1,0 +1,44 @@
+{
+  "number": 202,
+  "id": "202",
+  "title": "配色C08_海盐天青",
+  "roundNumber": "C08",
+  "shape": "海盐天青配色；礼林生态／LILIN SHENGTAI，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "天青与海盐绿较轻快，等线中文和宽字距拼音偏清朗；小尺寸拼音较细。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-f614c9ae-9c49-41b9-aa1c-c1ed8fc5545a.png",
+  "sourceCreatedAt": "2026-11-25T00:47:09.497Z",
+  "displayCreatedAt": "2026/11/25 08:47:09",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "a743e35e5bc2f91df08d1514b5177fc9c4a2929d29b28201d3b85e44708f9a0d",
+  "sourceBytes": 1086478,
+  "folder": "01_生成原稿/202_配色C08_海盐天青",
+  "image": "01_生成原稿/202_配色C08_海盐天青/原图.png",
+  "thumb": "00_索引素材/202.jpg",
+  "description": "01_生成原稿/202_配色C08_海盐天青/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C08-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C08-lockup.svg",
+  "palette": [
+    "#187C9A",
+    "#77CFC3",
+    "#B5DFD5"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LILIN SHENGTAI",
+  "layout": "vertical",
+  "wordInk": "#187C9A",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+    "name": "中文采用等线，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

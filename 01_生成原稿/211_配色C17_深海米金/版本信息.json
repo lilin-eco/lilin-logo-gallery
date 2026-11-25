@@ -1,0 +1,44 @@
+{
+  "number": 211,
+  "id": "211",
+  "title": "配色C17_深海米金",
+  "roundNumber": "C17",
+  "shape": "深海米金配色；礼林生态／LILIN SHENGTAI，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "深海与米金温和沉静，四字轻宋与衬线拼音较雅致；小尺寸笔画更轻。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-254e1bfd-d542-4b53-889b-1d8ccbafd797.png",
+  "sourceCreatedAt": "2026-11-25T00:51:21.205Z",
+  "displayCreatedAt": "2026/11/25 08:51:21",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "290b57acbe431f05436586bc4a39667abd2ae6cbca6d43ba12cb7d302122a7d0",
+  "sourceBytes": 1111063,
+  "folder": "01_生成原稿/211_配色C17_深海米金",
+  "image": "01_生成原稿/211_配色C17_深海米金/原图.png",
+  "thumb": "00_索引素材/211.jpg",
+  "description": "01_生成原稿/211_配色C17_深海米金/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C17-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C17-lockup.svg",
+  "palette": [
+    "#224953",
+    "#DDCB98",
+    "#88A99A"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LILIN SHENGTAI",
+  "layout": "vertical",
+  "wordInk": "#224953",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+    "name": "中文采用Noto Serif SC Light，拼音采用Georgia；只呈现礼林或礼林生态。"
+  }
+}

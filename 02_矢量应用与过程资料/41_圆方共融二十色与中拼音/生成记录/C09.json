@@ -1,0 +1,27 @@
+{
+  "id": "C09",
+  "number": 9,
+  "name": "橄榄陶粉",
+  "palette": [
+    "#69784A",
+    "#DDA89C",
+    "#A6B386"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LI LIN",
+  "cnFamily": "Noto Serif SC Light",
+  "cnBold": false,
+  "cnTracking": 30,
+  "latinFamily": "Georgia",
+  "latinBold": false,
+  "latinTracking": 50,
+  "layout": "horizontal",
+  "reference": "C:/Users/Administrator/Documents/ChatGPT/公司官网/output/礼林Logo完整档案_2026-11-16/02_矢量应用与过程资料/40_圆方共融中文组合/inputs/approved-91.png",
+  "sourceRound": "91圆方共融",
+  "centralLotus": false,
+  "tool": "image_gen.imagegen",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "prompt": "Use case: logo-brand / precise-object-edit. Image 1 is the EXACT round/open-diamond ribbon symbol chosen by the client. Recolor ONLY this emblem. Preserve the identical circular outside, diamond white counter, upward left flick, round upper-right terminal, open right gap and long split lower-right negative-space cut. NO redrawing into another logo, no rotation, no added motif. Remove ALL the original royal-blue/violet/cyan gradients. The client explicitly dislikes that AI-looking blue-purple effect. Make this a professional FLAT SOLID COLOR brand emblem with at most THREE clean color fields. Palette 橄榄陶粉: dominant main sweeping left/lower ribbon #69784A, upper-right lobe #DDA89C, small lower returning strip #A6B386. The colors should be accurate, distinct flat ink regions with smooth crisp contours, naturally meeting along the original structural ribbon transitions. Absolutely NO gradients, no soft color blending, no glossy fold shading, no translucent overlaps. White negative spaces unchanged. Plain PURE WHITE backdrop, one centered emblem, 15% margins. No text, numbers, labels, swatches or mockups. No blue-purple substitutes, no glow, shadow, 3D, glass, metallic or texture. Maintain the original iconic geometry and visual weight. Create ONLY the recolored symbol; typography will be composed separately without regenerating it.",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-e861113d-8c52-4a92-a1b6-f3c98cc76680.png",
+  "output_hint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db as C:\\Users\\Administrator\\.codex\\generated_images\\01a1c95b-8a24-7ac3-9404-f7f6e73da9db\\exec-e861113d-8c52-4a92-a1b6-f3c98cc76680.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

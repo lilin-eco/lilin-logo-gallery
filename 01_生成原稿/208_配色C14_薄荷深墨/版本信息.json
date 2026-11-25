@@ -1,0 +1,44 @@
+{
+  "number": 208,
+  "id": "208",
+  "title": "配色C14_薄荷深墨",
+  "roundNumber": "C14",
+  "shape": "薄荷深墨配色；礼林／Lilin，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "薄荷与深墨清新，轻字重中文配首字母大写拼音；文字已使用深墨保证对比。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-803bbd51-b666-43d2-b080-68e778e785f4.png",
+  "sourceCreatedAt": "2026-11-25T00:50:09.724Z",
+  "displayCreatedAt": "2026/11/25 08:50:09",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "d307b514bbd4d5e0f6f09c77e75ec0935c47fb026658e90de08dc3068c31ff7e",
+  "sourceBytes": 1118719,
+  "folder": "01_生成原稿/208_配色C14_薄荷深墨",
+  "image": "01_生成原稿/208_配色C14_薄荷深墨/原图.png",
+  "thumb": "00_索引素材/208.jpg",
+  "description": "01_生成原稿/208_配色C14_薄荷深墨/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C14-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C14-lockup.svg",
+  "palette": [
+    "#50C6A0",
+    "#1F3D36",
+    "#9ED9BB"
+  ],
+  "chinese": "礼林",
+  "pinyin": "Lilin",
+  "layout": "vertical",
+  "wordInk": "#1F3D36",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／Lilin；中文主标／拼音副标。",
+    "name": "中文采用Noto Sans SC Light，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

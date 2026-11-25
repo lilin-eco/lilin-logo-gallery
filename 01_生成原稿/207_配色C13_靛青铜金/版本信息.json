@@ -1,0 +1,44 @@
+{
+  "number": 207,
+  "id": "207",
+  "title": "配色C13_靛青铜金",
+  "roundNumber": "C13",
+  "shape": "靛青铜金配色；礼林生态／LILIN SHENGTAI，横向中拼音组合。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "靛青与铜金较稳健，中文与拼音均采用现代无衬线，适合企业横版组合。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-e436eaec-d46c-44bc-9885-42f10dbe376f.png",
+  "sourceCreatedAt": "2026-11-25T00:49:54.064Z",
+  "displayCreatedAt": "2026/11/25 08:49:54",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6fe3e8f2a3abd883695f0c33e1adfb026f4b5c0e1a5dc88d4f00c538efc440a1",
+  "sourceBytes": 1096406,
+  "folder": "01_生成原稿/207_配色C13_靛青铜金",
+  "image": "01_生成原稿/207_配色C13_靛青铜金/原图.png",
+  "thumb": "00_索引素材/207.jpg",
+  "description": "01_生成原稿/207_配色C13_靛青铜金/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C13-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C13-lockup.svg",
+  "palette": [
+    "#1E5462",
+    "#C8A464",
+    "#76A3A9"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LILIN SHENGTAI",
+  "layout": "horizontal",
+  "wordInk": "#1E5462",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LILIN SHENGTAI；横向中拼音组合。",
+    "name": "中文采用Noto Sans SC Medium，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 195,
+  "id": "195",
+  "title": "配色C01_青黛柠黄",
+  "roundNumber": "C01",
+  "shape": "青黛柠黄配色；礼林／LILIN，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "深青配柠黄较清新，中黑中文与紧凑大写拼音形成稳定层级。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-1ffed5af-bfc6-4408-91ce-fe06c63641ce.png",
+  "sourceCreatedAt": "2026-11-25T00:45:10.661Z",
+  "displayCreatedAt": "2026/11/25 08:45:10",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "35c3d77129ca730fae642433ae12ba1a5f64dd8c09560933b45f88987fe86e38",
+  "sourceBytes": 1109189,
+  "folder": "01_生成原稿/195_配色C01_青黛柠黄",
+  "image": "01_生成原稿/195_配色C01_青黛柠黄/原图.png",
+  "thumb": "00_索引素材/195.jpg",
+  "description": "01_生成原稿/195_配色C01_青黛柠黄/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C01-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C01-lockup.svg",
+  "palette": [
+    "#155653",
+    "#CCD94B",
+    "#87B790"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LILIN",
+  "layout": "vertical",
+  "wordInk": "#155653",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LILIN；中文主标／拼音副标。",
+    "name": "中文采用Noto Sans SC Medium，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

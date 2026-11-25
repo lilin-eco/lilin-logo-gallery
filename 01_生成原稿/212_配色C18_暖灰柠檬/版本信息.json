@@ -1,0 +1,44 @@
+{
+  "number": 212,
+  "id": "212",
+  "title": "配色C18_暖灰柠檬",
+  "roundNumber": "C18",
+  "shape": "暖灰柠檬配色；礼林／LI LIN，拼音主标／中文副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "暖灰与柠檬黄较清爽，分词大写拼音为主、中文为副，形式较简洁。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-cfb50c9d-46ce-4c33-897e-862e7e24f6fa.png",
+  "sourceCreatedAt": "2026-11-25T00:51:54.688Z",
+  "displayCreatedAt": "2026/11/25 08:51:54",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6f47b526a870c823fcd26da104df674617e77c688bb18942a4c153a02f95394d",
+  "sourceBytes": 1077418,
+  "folder": "01_生成原稿/212_配色C18_暖灰柠檬",
+  "image": "01_生成原稿/212_配色C18_暖灰柠檬/原图.png",
+  "thumb": "00_索引素材/212.jpg",
+  "description": "01_生成原稿/212_配色C18_暖灰柠檬/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C18-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C18-lockup.svg",
+  "palette": [
+    "#5F625C",
+    "#D9D44B",
+    "#B1B5A0"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LI LIN",
+  "layout": "roman-first",
+  "wordInk": "#5F625C",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LI LIN；拼音主标／中文副标。",
+    "name": "中文采用Noto Sans SC Medium，拼音采用Arial；只呈现礼林或礼林生态。"
+  }
+}

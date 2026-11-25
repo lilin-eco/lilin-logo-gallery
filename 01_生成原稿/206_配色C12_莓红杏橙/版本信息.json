@@ -1,0 +1,44 @@
+{
+  "number": 206,
+  "id": "206",
+  "title": "配色C12_莓红杏橙",
+  "roundNumber": "C12",
+  "shape": "莓红杏橙配色；礼林／li lin，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "莓红与杏橙明快，圆体中文和小写拼音更轻松，适合比较年轻亲和方向。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-95e438f4-ea63-4cbd-afd6-a76972e3d903.png",
+  "sourceCreatedAt": "2026-11-25T00:49:48.701Z",
+  "displayCreatedAt": "2026/11/25 08:49:48",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "955fa5da2226ec05cad2faae26b5ba250e9373657384e084fc6c9a3649cfe270",
+  "sourceBytes": 1040164,
+  "folder": "01_生成原稿/206_配色C12_莓红杏橙",
+  "image": "01_生成原稿/206_配色C12_莓红杏橙/原图.png",
+  "thumb": "00_索引素材/206.jpg",
+  "description": "01_生成原稿/206_配色C12_莓红杏橙/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C12-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C12-lockup.svg",
+  "palette": [
+    "#B92E61",
+    "#F4AD6B",
+    "#DC7190"
+  ],
+  "chinese": "礼林",
+  "pinyin": "li lin",
+  "layout": "vertical",
+  "wordInk": "#B92E61",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／li lin；中文主标／拼音副标。",
+    "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。"
+  }
+}

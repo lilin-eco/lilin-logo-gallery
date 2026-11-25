@@ -1,0 +1,44 @@
+{
+  "number": 214,
+  "id": "214",
+  "title": "配色C20_晴空石墨",
+  "roundNumber": "C20",
+  "shape": "晴空石墨配色；礼林／LILIN，横向中拼音组合。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "晴空蓝与石墨没有蓝紫过渡，厚黑中文和紧凑大写拼音更偏软件工具，文字使用石墨。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-28a1eaea-c4a9-4178-aed2-037cfadc4e4e.png",
+  "sourceCreatedAt": "2026-11-25T00:51:36.133Z",
+  "displayCreatedAt": "2026/11/25 08:51:36",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "8883066e4e2eb2c322ee548848edcda6255cf0d04489a03b4b8ccd65937d7a97",
+  "sourceBytes": 1099691,
+  "folder": "01_生成原稿/214_配色C20_晴空石墨",
+  "image": "01_生成原稿/214_配色C20_晴空石墨/原图.png",
+  "thumb": "00_索引素材/214.jpg",
+  "description": "01_生成原稿/214_配色C20_晴空石墨/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C20-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C20-lockup.svg",
+  "palette": [
+    "#269CC4",
+    "#2F3943",
+    "#B5DBDE"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LILIN",
+  "layout": "horizontal",
+  "wordInk": "#2F3943",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LILIN；横向中拼音组合。",
+    "name": "中文采用Noto Sans SC Black，拼音采用Bahnschrift；只呈现礼林或礼林生态。"
+  }
+}

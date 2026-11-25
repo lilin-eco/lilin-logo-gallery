@@ -1,0 +1,44 @@
+{
+  "number": 203,
+  "id": "203",
+  "title": "配色C09_橄榄陶粉",
+  "roundNumber": "C09",
+  "shape": "橄榄陶粉配色；礼林／LI LIN，横向中拼音组合。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "橄榄与陶粉偏自然，轻宋中文和分词拼音更温和；细笔画适合较大展示。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-e861113d-8c52-4a92-a1b6-f3c98cc76680.png",
+  "sourceCreatedAt": "2026-11-25T00:49:02.641Z",
+  "displayCreatedAt": "2026/11/25 08:49:02",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f7a1c61c2d44ea568905c34d1e5f66a559be6d7709bca7c98cbd8bcc7da6304f",
+  "sourceBytes": 1030137,
+  "folder": "01_生成原稿/203_配色C09_橄榄陶粉",
+  "image": "01_生成原稿/203_配色C09_橄榄陶粉/原图.png",
+  "thumb": "00_索引素材/203.jpg",
+  "description": "01_生成原稿/203_配色C09_橄榄陶粉/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C09-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C09-lockup.svg",
+  "palette": [
+    "#69784A",
+    "#DDA89C",
+    "#A6B386"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LI LIN",
+  "layout": "horizontal",
+  "wordInk": "#69784A",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LI LIN；横向中拼音组合。",
+    "name": "中文采用Noto Serif SC Light，拼音采用Georgia；只呈现礼林或礼林生态。"
+  }
+}

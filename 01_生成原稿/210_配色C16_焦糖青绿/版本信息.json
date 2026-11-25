@@ -1,0 +1,44 @@
+{
+  "number": 210,
+  "id": "210",
+  "title": "配色C16_焦糖青绿",
+  "roundNumber": "C16",
+  "shape": "焦糖青绿配色；礼林／LILIN，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "焦糖与青绿偏温暖，中文中黑配衬线拼音；文字使用深咖，与图标主色区分。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-e508b041-6326-4e3d-ae1d-5ef2e8a7668d.png",
+  "sourceCreatedAt": "2026-11-25T00:50:38.418Z",
+  "displayCreatedAt": "2026/11/25 08:50:38",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "01b2acaf4d4d7c88d7eafbb22c790c0841926eab57a10cd1f78a05aefa009537",
+  "sourceBytes": 1037867,
+  "folder": "01_生成原稿/210_配色C16_焦糖青绿",
+  "image": "01_生成原稿/210_配色C16_焦糖青绿/原图.png",
+  "thumb": "00_索引素材/210.jpg",
+  "description": "01_生成原稿/210_配色C16_焦糖青绿/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C16-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C16-lockup.svg",
+  "palette": [
+    "#C67B3F",
+    "#408B7B",
+    "#E2C19C"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LILIN",
+  "layout": "vertical",
+  "wordInk": "#523C2C",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LILIN；中文主标／拼音副标。",
+    "name": "中文采用Noto Sans SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。"
+  }
+}

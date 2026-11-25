@@ -1,0 +1,44 @@
+{
+  "number": 209,
+  "id": "209",
+  "title": "配色C15_孔雀朱砂",
+  "roundNumber": "C15",
+  "shape": "孔雀朱砂配色；礼林生态／LI LIN SHENG TAI，横向中拼音组合。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "孔雀绿与朱砂有冷暖对照，雅宋中文配无衬线分词拼音，兼具人文与秩序。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-8be87d3f-6cba-4b7c-ac19-7ee0ca798b2d.png",
+  "sourceCreatedAt": "2026-11-25T00:50:24.816Z",
+  "displayCreatedAt": "2026/11/25 08:50:24",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "34d95585374a769486e6de3ea389abcc757950d1d00c613eae78692a72133a9c",
+  "sourceBytes": 1070418,
+  "folder": "01_生成原稿/209_配色C15_孔雀朱砂",
+  "image": "01_生成原稿/209_配色C15_孔雀朱砂/原图.png",
+  "thumb": "00_索引素材/209.jpg",
+  "description": "01_生成原稿/209_配色C15_孔雀朱砂/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C15-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C15-lockup.svg",
+  "palette": [
+    "#086D67",
+    "#D9604B",
+    "#98C1A6"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LI LIN SHENG TAI",
+  "layout": "horizontal",
+  "wordInk": "#086D67",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LI LIN SHENG TAI；横向中拼音组合。",
+    "name": "中文采用Noto Serif SC Medium，拼音采用Arial；只呈现礼林或礼林生态。"
+  }
+}

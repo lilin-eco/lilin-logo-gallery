@@ -1,0 +1,44 @@
+{
+  "number": 204,
+  "id": "204",
+  "title": "配色C10_咖墨奶油",
+  "roundNumber": "C10",
+  "shape": "咖墨奶油配色；礼林生态／LI LIN SHENG TAI，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "咖墨与奶油偏温暖沉稳，四字中文与四词拼音呈完整品牌名称。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-7b46ce58-1d5d-48c6-9140-79703905c0af.png",
+  "sourceCreatedAt": "2026-11-25T00:49:33.862Z",
+  "displayCreatedAt": "2026/11/25 08:49:33",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "63d80f0d28594bf54d461d37645a4dcba46bb6aed675e566a714d927a67b86c1",
+  "sourceBytes": 1060107,
+  "folder": "01_生成原稿/204_配色C10_咖墨奶油",
+  "image": "01_生成原稿/204_配色C10_咖墨奶油/原图.png",
+  "thumb": "00_索引素材/204.jpg",
+  "description": "01_生成原稿/204_配色C10_咖墨奶油/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C10-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C10-lockup.svg",
+  "palette": [
+    "#51453B",
+    "#D5BD85",
+    "#9D9278"
+  ],
+  "chinese": "礼林生态",
+  "pinyin": "LI LIN SHENG TAI",
+  "layout": "vertical",
+  "wordInk": "#51453B",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林生态／LI LIN SHENG TAI；中文主标／拼音副标。",
+    "name": "中文采用Noto Serif SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。"
+  }
+}

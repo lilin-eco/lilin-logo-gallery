@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-25",
+  "candidateCount": 20,
+  "roundNumbers": "C01–C20",
+  "sourceRound": "91圆方共融",
+  "centralLotusCandidates": [],
+  "totalGeneratedOriginals": 20,
+  "reviewed": [
+    "20套大图",
+    "五组放大对照",
+    "全部220像素范围缩小组合",
+    "中文字形与拼音逐项核对"
+  ],
+  "revisions": [
+    {
+      "scope": [
+        "C06",
+        "C07",
+        "C14",
+        "C16",
+        "C19",
+        "C20"
+      ],
+      "reason": "将文字切换到深色，增强白底对比；不修改生成图形。"
+    }
+  ],
+  "notes": [
+    {
+      "id": "C01",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；中文主标／拼音副标。",
+      "name": "中文采用Noto Sans SC Medium，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "深青配柠黄较清新，中黑中文与紧凑大写拼音形成稳定层级。"
+    },
+    {
+      "id": "C02",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／li lin；横向中拼音组合。",
+      "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "湖绿与珊瑚形成冷暖对比，圆体中文和小写拼音更亲和；缩小时文字偏轻。"
+    },
+    {
+      "id": "C03",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；横向中拼音组合。",
+      "name": "中文采用Noto Sans SC Black，拼音采用Bahnschrift；只呈现礼林或礼林生态。",
+      "notes": "石墨与亮橙形成强对比，厚黑中文和紧凑拼音有工具型软件气质。"
+    },
+    {
+      "id": "C04",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+      "name": "中文采用Noto Serif SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "松绿与米杏温和，宋体中文加衬线拼音偏人文，四字名称完整。"
+    },
+    {
+      "id": "C05",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LI LIN；中文主标／拼音副标。",
+      "name": "中文采用Noto Serif SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "莓红辨识度较强，分词衬线拼音与雅宋中文形成较舒展的节奏。"
+    },
+    {
+      "id": "C06",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；横向中拼音组合。",
+      "name": "中文采用Microsoft YaHei UI，拼音采用Bahnschrift；只呈现礼林或礼林生态。",
+      "notes": "朱红与墨黑较醒目，四字厚黑中文与大写拼音形成紧凑横向组合；文字已改为墨黑。"
+    },
+    {
+      "id": "C07",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；拼音主标／中文副标。",
+      "name": "中文采用Noto Sans SC Black，拼音采用Arial；只呈现礼林或礼林生态。",
+      "notes": "芥黄配墨绿较有个性，拼音为主标；已用深绿文字替代黄色文字。"
+    },
+    {
+      "id": "C08",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+      "name": "中文采用等线，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "天青与海盐绿较轻快，等线中文和宽字距拼音偏清朗；小尺寸拼音较细。"
+    },
+    {
+      "id": "C09",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LI LIN；横向中拼音组合。",
+      "name": "中文采用Noto Serif SC Light，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "橄榄与陶粉偏自然，轻宋中文和分词拼音更温和；细笔画适合较大展示。"
+    },
+    {
+      "id": "C10",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LI LIN SHENG TAI；中文主标／拼音副标。",
+      "name": "中文采用Noto Serif SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "咖墨与奶油偏温暖沉稳，四字中文与四词拼音呈完整品牌名称。"
+    },
+    {
+      "id": "C11",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；拼音主标／中文副标。",
+      "name": "中文采用Noto Sans SC Black，拼音采用Bahnschrift；只呈现礼林或礼林生态。",
+      "notes": "黑色与亮荧绿有鲜明对比，拼音主标更突出软件产品气质，中文作确认。"
+    },
+    {
+      "id": "C12",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／li lin；中文主标／拼音副标。",
+      "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "莓红与杏橙明快，圆体中文和小写拼音更轻松，适合比较年轻亲和方向。"
+    },
+    {
+      "id": "C13",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；横向中拼音组合。",
+      "name": "中文采用Noto Sans SC Medium，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "靛青与铜金较稳健，中文与拼音均采用现代无衬线，适合企业横版组合。"
+    },
+    {
+      "id": "C14",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／Lilin；中文主标／拼音副标。",
+      "name": "中文采用Noto Sans SC Light，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "薄荷与深墨清新，轻字重中文配首字母大写拼音；文字已使用深墨保证对比。"
+    },
+    {
+      "id": "C15",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LI LIN SHENG TAI；横向中拼音组合。",
+      "name": "中文采用Noto Serif SC Medium，拼音采用Arial；只呈现礼林或礼林生态。",
+      "notes": "孔雀绿与朱砂有冷暖对照，雅宋中文配无衬线分词拼音，兼具人文与秩序。"
+    },
+    {
+      "id": "C16",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；中文主标／拼音副标。",
+      "name": "中文采用Noto Sans SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "焦糖与青绿偏温暖，中文中黑配衬线拼音；文字使用深咖，与图标主色区分。"
+    },
+    {
+      "id": "C17",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+      "name": "中文采用Noto Serif SC Light，拼音采用Georgia；只呈现礼林或礼林生态。",
+      "notes": "深海与米金温和沉静，四字轻宋与衬线拼音较雅致；小尺寸笔画更轻。"
+    },
+    {
+      "id": "C18",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LI LIN；拼音主标／中文副标。",
+      "name": "中文采用Noto Sans SC Medium，拼音采用Arial；只呈现礼林或礼林生态。",
+      "notes": "暖灰与柠檬黄较清爽，分词大写拼音为主、中文为副，形式较简洁。"
+    },
+    {
+      "id": "C19",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林生态／LILIN SHENGTAI；中文主标／拼音副标。",
+      "name": "中文采用幼圆，拼音采用Segoe UI；只呈现礼林或礼林生态。",
+      "notes": "翠绿与珊粉明快亲和，四字圆体中文加无衬线拼音；已用深绿文字增加可读性。"
+    },
+    {
+      "id": "C20",
+      "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+      "software": "礼林／LILIN；横向中拼音组合。",
+      "name": "中文采用Noto Sans SC Black，拼音采用Bahnschrift；只呈现礼林或礼林生态。",
+      "notes": "晴空蓝与石墨没有蓝紫过渡，厚黑中文和紧凑大写拼音更偏软件工具，文字使用石墨。"
+    }
+  ]
+}

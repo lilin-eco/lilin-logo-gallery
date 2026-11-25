@@ -1,0 +1,44 @@
+{
+  "number": 199,
+  "id": "199",
+  "title": "配色C05_莓红月白",
+  "roundNumber": "C05",
+  "shape": "莓红月白配色；礼林／LI LIN，中文主标／拼音副标。",
+  "culture": "中心留白寓意善心，带面承接寓意善念，右侧开放寓意善行。中拼音组合明确礼林品牌名称。",
+  "notes": "莓红辨识度较强，分词衬线拼音与雅宋中文形成较舒展的节奏。",
+  "status": "配色与中拼音候选",
+  "centralLotus": false,
+  "stage": "29",
+  "stageName": "圆方共融二十色与中拼音",
+  "parents": [
+    191
+  ],
+  "sourceFilename": "exec-beca0764-a023-491e-92ae-049681356459.png",
+  "sourceCreatedAt": "2026-11-25T00:47:24.853Z",
+  "displayCreatedAt": "2026/11/25 08:47:24",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "e913eafe6aae022710b3cdb95478cdd2b4ee877ce51765f6bd3cef5fe870c112",
+  "sourceBytes": 1027568,
+  "folder": "01_生成原稿/199_配色C05_莓红月白",
+  "image": "01_生成原稿/199_配色C05_莓红月白/原图.png",
+  "thumb": "00_索引素材/199.jpg",
+  "description": "01_生成原稿/199_配色C05_莓红月白/设计说明.md",
+  "sourceCollection": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音",
+  "previewImage": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C05-lockup.png",
+  "lockupSvg": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/C05-lockup.svg",
+  "palette": [
+    "#9D2946",
+    "#D5A7B1",
+    "#EAE4DE"
+  ],
+  "chinese": "礼林",
+  "pinyin": "LI LIN",
+  "layout": "vertical",
+  "wordInk": "#9D2946",
+  "assessment": {
+    "engineering": "延续91圆方共融的主要轮廓、菱形中心及开放端部。",
+    "software": "礼林／LI LIN；中文主标／拼音副标。",
+    "name": "中文采用Noto Serif SC Medium，拼音采用Georgia；只呈现礼林或礼林生态。"
+  }
+}
