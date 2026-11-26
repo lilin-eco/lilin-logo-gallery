@@ -1,0 +1,638 @@
+{
+  "date": "2026-11-26",
+  "count": 20,
+  "sourceIcon": "inputs/approved-91.png",
+  "sourceIconSha256": "e2894167cea95a4a71dd3a18c9cb0fbc93d80a31cc68a142c67713017ecad20b",
+  "text": "LILIN SHENGTAI",
+  "iconPixelsUnchanged": true,
+  "pixelVerifiedRegion": {
+    "left": 0,
+    "top": 0,
+    "width": 1254,
+    "height": 1160
+  },
+  "imageModelUsed": false,
+  "tool": "System.Drawing font outlines + SVG typesetting + sharp export",
+  "variants": [
+    {
+      "id": "P01",
+      "number": 1,
+      "name": "均衡墨蓝",
+      "family": "Segoe UI Semibold",
+      "bold": false,
+      "italic": false,
+      "tracking": 18,
+      "color": "#25354A",
+      "targetHeight": 70,
+      "maxWidth": 870,
+      "description": "适中的字重与字距，让图标仍是视觉中心。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 221.85113254263769,
+        "y": 1220,
+        "width": 810.2977349147246,
+        "height": 70
+      },
+      "png": "P01-lockup.png",
+      "svg": "P01-lockup.svg",
+      "word": "P01-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 12.45
+    },
+    {
+      "id": "P02",
+      "number": 2,
+      "name": "技术蓝标",
+      "family": "Bahnschrift SemiBold",
+      "bold": false,
+      "italic": false,
+      "tracking": 24,
+      "color": "#1954B3",
+      "targetHeight": 74,
+      "maxWidth": 900,
+      "description": "规整的技术字形，呼应图标的蓝色，笔画更有力量。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 182.35475436145327,
+        "y": 1220,
+        "width": 889.2904912770935,
+        "height": 73.99999999999999
+      },
+      "png": "P02-lockup.png",
+      "svg": "P02-lockup.svg",
+      "word": "P02-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 7.09
+    },
+    {
+      "id": "P03",
+      "number": 3,
+      "name": "几何疏朗",
+      "family": "Century Gothic",
+      "bold": false,
+      "italic": false,
+      "tracking": 32,
+      "color": "#56616F",
+      "targetHeight": 67,
+      "maxWidth": 920,
+      "description": "圆形几何骨架配宽字距，呈现清晰轻快的节奏。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 226.06591080661377,
+        "y": 1220,
+        "width": 801.8681783867725,
+        "height": 67
+      },
+      "png": "P03-lockup.png",
+      "svg": "P03-lockup.svg",
+      "word": "P03-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 6.3
+    },
+    {
+      "id": "P04",
+      "number": 4,
+      "name": "圆润青标",
+      "family": "Arial Rounded MT Bold",
+      "bold": false,
+      "italic": false,
+      "tracking": 15,
+      "color": "#027B83",
+      "targetHeight": 72,
+      "maxWidth": 910,
+      "description": "圆润笔端配深青，呼应图标柔和的弧面。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 191.13405020085526,
+        "y": 1220,
+        "width": 871.7318995982895,
+        "height": 72
+      },
+      "png": "P04-lockup.png",
+      "svg": "P04-lockup.svg",
+      "word": "P04-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.04
+    },
+    {
+      "id": "P05",
+      "number": 5,
+      "name": "人文正黑",
+      "family": "Gill Sans MT",
+      "bold": true,
+      "italic": false,
+      "tracking": 28,
+      "color": "#24396D",
+      "targetHeight": 74,
+      "maxWidth": 890,
+      "description": "人文无衬线与深海蓝，保持稳健而不显僵硬。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 182,
+        "y": 1220,
+        "width": 890,
+        "height": 60.79454845782724
+      },
+      "png": "P05-lockup.png",
+      "svg": "P05-lockup.svg",
+      "word": "P05-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 11.16
+    },
+    {
+      "id": "P06",
+      "number": 6,
+      "name": "紧凑深青",
+      "family": "Franklin Gothic Demi",
+      "bold": false,
+      "italic": false,
+      "tracking": 8,
+      "color": "#164B61",
+      "targetHeight": 76,
+      "maxWidth": 880,
+      "description": "厚实而紧凑，适合较小尺寸和简明品牌应用。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 220.85751331454765,
+        "y": 1220,
+        "width": 812.2849733709047,
+        "height": 76
+      },
+      "png": "P06-lockup.png",
+      "svg": "P06-lockup.svg",
+      "word": "P06-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 9.49
+    },
+    {
+      "id": "P07",
+      "number": 7,
+      "name": "轻盈海青",
+      "family": "Corbel Light",
+      "bold": false,
+      "italic": false,
+      "tracking": 40,
+      "color": "#3B727B",
+      "targetHeight": 66,
+      "maxWidth": 930,
+      "description": "开放字形和轻字重，营造更轻的文字层级。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 182.30064829005642,
+        "y": 1220,
+        "width": 889.3987034198872,
+        "height": 66
+      },
+      "png": "P07-lockup.png",
+      "svg": "P07-lockup.svg",
+      "word": "P07-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.41
+    },
+    {
+      "id": "P08",
+      "number": 8,
+      "name": "柔线斜体",
+      "family": "Candara",
+      "bold": false,
+      "italic": true,
+      "tracking": 22,
+      "color": "#436E5D",
+      "targetHeight": 70,
+      "maxWidth": 910,
+      "description": "轻微斜体与柔和绿调，让文字有向前的动势。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 222.27167160250326,
+        "y": 1220,
+        "width": 809.4566567949935,
+        "height": 70
+      },
+      "png": "P08-lockup.png",
+      "svg": "P08-lockup.svg",
+      "word": "P08-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.79
+    },
+    {
+      "id": "P09",
+      "number": 9,
+      "name": "清朗翠墨",
+      "family": "Trebuchet MS",
+      "bold": true,
+      "italic": false,
+      "tracking": 20,
+      "color": "#007D68",
+      "targetHeight": 72,
+      "maxWidth": 900,
+      "description": "较有性格的无衬线字形与翠墨色，偏亲和软件品牌。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 217.82615271645227,
+        "y": 1220,
+        "width": 818.3476945670955,
+        "height": 72
+      },
+      "png": "P09-lockup.png",
+      "svg": "P09-lockup.svg",
+      "word": "P09-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.08
+    },
+    {
+      "id": "P10",
+      "number": 10,
+      "name": "雅致梅墨",
+      "family": "Georgia",
+      "bold": false,
+      "italic": false,
+      "tracking": 24,
+      "color": "#5C4964",
+      "targetHeight": 68,
+      "maxWidth": 930,
+      "description": "克制的衬线字形配暗梅色，提供偏雅致的对照。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 173.64651992574653,
+        "y": 1220,
+        "width": 906.7069601485069,
+        "height": 68
+      },
+      "png": "P10-lockup.png",
+      "svg": "P10-lockup.svg",
+      "word": "P10-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 8.1
+    },
+    {
+      "id": "P11",
+      "number": 11,
+      "name": "稳健衬线",
+      "family": "Cambria",
+      "bold": true,
+      "italic": false,
+      "tracking": 20,
+      "color": "#394D62",
+      "targetHeight": 70,
+      "maxWidth": 910,
+      "description": "有力的衬线与蓝灰色，表现稳重清楚的字标。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 181.3350014198196,
+        "y": 1220,
+        "width": 891.3299971603608,
+        "height": 70
+      },
+      "png": "P11-lockup.png",
+      "svg": "P11-lockup.svg",
+      "word": "P11-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 8.71
+    },
+    {
+      "id": "P12",
+      "number": 12,
+      "name": "细线钢蓝",
+      "family": "Calibri Light",
+      "bold": false,
+      "italic": false,
+      "tracking": 50,
+      "color": "#61748A",
+      "targetHeight": 64,
+      "maxWidth": 940,
+      "description": "轻字重、宽字距和钢蓝灰，文字退后，突出图形。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 164.44579386602413,
+        "y": 1220,
+        "width": 925.1084122679517,
+        "height": 64
+      },
+      "png": "P12-lockup.png",
+      "svg": "P12-lockup.svg",
+      "word": "P12-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 4.8
+    },
+    {
+      "id": "P13",
+      "number": 13,
+      "name": "窄体科技",
+      "family": "Bahnschrift Condensed",
+      "bold": false,
+      "italic": false,
+      "tracking": 38,
+      "color": "#264E8B",
+      "targetHeight": 78,
+      "maxWidth": 850,
+      "description": "较高窄的字面配规整字距，形成技术型字标节奏。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 237.79999474889502,
+        "y": 1220,
+        "width": 778.40001050221,
+        "height": 78
+      },
+      "png": "P13-lockup.png",
+      "svg": "P13-lockup.svg",
+      "word": "P13-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 8.25
+    },
+    {
+      "id": "P14",
+      "number": 14,
+      "name": "厚黑石墨",
+      "family": "Arial Black",
+      "bold": false,
+      "italic": false,
+      "tracking": 8,
+      "color": "#263139",
+      "targetHeight": 74,
+      "maxWidth": 940,
+      "description": "厚字重与石墨色，适合强调辨识和落地使用。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 157,
+        "y": 1220,
+        "width": 940,
+        "height": 73.45582571614148
+      },
+      "png": "P14-lockup.png",
+      "svg": "P14-lockup.svg",
+      "word": "P14-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 13.28
+    },
+    {
+      "id": "P15",
+      "number": 15,
+      "name": "静谧浅黑",
+      "family": "Segoe UI Light",
+      "bold": false,
+      "italic": false,
+      "tracking": 42,
+      "color": "#646777",
+      "targetHeight": 64,
+      "maxWidth": 920,
+      "description": "轻盈的直立字形与中性灰，减少文字对图标的争夺。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 214.94790120050357,
+        "y": 1220,
+        "width": 824.1041975989929,
+        "height": 64
+      },
+      "png": "P15-lockup.png",
+      "svg": "P15-lockup.svg",
+      "word": "P15-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.6
+    },
+    {
+      "id": "P16",
+      "number": 16,
+      "name": "收敛朱红",
+      "family": "Gill Sans MT",
+      "bold": false,
+      "italic": false,
+      "tracking": 30,
+      "color": "#B92B42",
+      "targetHeight": 70,
+      "maxWidth": 920,
+      "description": "将亮红改成较沉静的朱红，保留红色方向但更克制。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 172.84137902596217,
+        "y": 1220,
+        "width": 908.3172419480757,
+        "height": 70
+      },
+      "png": "P16-lockup.png",
+      "svg": "P16-lockup.svg",
+      "word": "P16-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 6.02
+    },
+    {
+      "id": "P17",
+      "number": 17,
+      "name": "暖铜几何",
+      "family": "Century Gothic",
+      "bold": true,
+      "italic": false,
+      "tracking": 22,
+      "color": "#9B6125",
+      "targetHeight": 70,
+      "maxWidth": 930,
+      "description": "几何粗体配暖铜色，与冷色图形形成适度冷暖对照。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 233.83015265885416,
+        "y": 1220,
+        "width": 786.3396946822917,
+        "height": 70
+      },
+      "png": "P17-lockup.png",
+      "svg": "P17-lockup.svg",
+      "word": "P17-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.08
+    },
+    {
+      "id": "P18",
+      "number": 18,
+      "name": "人文墨绿",
+      "family": "Garamond",
+      "bold": true,
+      "italic": false,
+      "tracking": 30,
+      "color": "#415248",
+      "targetHeight": 72,
+      "maxWidth": 920,
+      "description": "古典衬线配墨绿，作为人文气质的字体比较。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 167,
+        "y": 1220,
+        "width": 920,
+        "height": 59.68493332203768
+      },
+      "png": "P18-lockup.png",
+      "svg": "P18-lockup.svg",
+      "word": "P18-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 8.32
+    },
+    {
+      "id": "P19",
+      "number": 19,
+      "name": "窄黑蓝灰",
+      "family": "Arial Narrow",
+      "bold": true,
+      "italic": false,
+      "tracking": 38,
+      "color": "#36486D",
+      "targetHeight": 76,
+      "maxWidth": 870,
+      "description": "窄体厚笔画与蓝灰色，兼顾紧凑和可读性。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": null,
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 192,
+        "y": 1220,
+        "width": 870,
+        "height": 72.62551749340805
+      },
+      "png": "P19-lockup.png",
+      "svg": "P19-lockup.svg",
+      "word": "P19-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 9.11
+    },
+    {
+      "id": "P20",
+      "number": 20,
+      "name": "双色呼应",
+      "family": "Segoe UI",
+      "bold": true,
+      "italic": false,
+      "tracking": 18,
+      "color": "#1740A6",
+      "targetHeight": 70,
+      "maxWidth": 900,
+      "description": "LILIN用深蓝、SHENGTAI用深青，分词呼应图标色彩。",
+      "text": "LILIN SHENGTAI",
+      "secondColor": "#08757E",
+      "canvas": {
+        "width": 1254,
+        "height": 1420
+      },
+      "textBounds": {
+        "x": 206.54780602305328,
+        "y": 1220,
+        "width": 840.9043879538934,
+        "height": 70
+      },
+      "png": "P20-lockup.png",
+      "svg": "P20-lockup.svg",
+      "word": "P20-word.png",
+      "iconPixelsUnchanged": true,
+      "textOutlined": true,
+      "whiteContrast": 5.45
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
-  "verifiedOn": "2026-11-26T00:56:24.934Z",
-  "copiedAssets": 1674,
-  "manifestHashesMatched": 1674,
+  "verifiedOn": "2026-11-26T01:05:11.989Z",
+  "copiedAssets": 1776,
+  "manifestHashesMatched": 1776,
   "originalsMatched": 214,
-  "previewCards": 256,
+  "previewCards": 257,
   "allChecksPassed": true,
+  "iconPixelComparisons": 20,
   "iconPixelsUnchanged": true,
   "priorityCandidate": "191",
-  "redPinyinGroup": "42",
+  "pinyinFontGroup": "43",
   "browserInteractionVerified": false
 }

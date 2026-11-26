@@ -544,5 +544,18 @@
     "image": "02_矢量应用与过程资料/42_圆方共融中国红拼音/lilin-shengtai-red.png",
     "thumb": "00_索引素材/资料-42.jpg",
     "fileCount": 11
+  },
+  {
+    "id": "43",
+    "title": "圆方共融二十种拼音字标",
+    "shape": "P01–P20保持图标不变，比较下方LILIN SHENGTAI的字体、字重、字距和颜色。",
+    "culture": "图形沿用中心留白、圆环承托与开放端，拼音明确礼林生态名称。",
+    "notes": "20款图标区域像素均与原图一致，拼音已转路径。",
+    "reference": false,
+    "folder": "02_矢量应用与过程资料/43_圆方共融二十种拼音字标",
+    "description": "02_矢量应用与过程资料/43_圆方共融二十种拼音字标/README.md",
+    "image": "02_矢量应用与过程资料/43_圆方共融二十种拼音字标/pinyin-font-color-20.png",
+    "thumb": "00_索引素材/资料-43.jpg",
+    "fileCount": 102
   }
 ]
