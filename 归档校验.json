@@ -1,12 +1,12 @@
 {
-  "verifiedOn": "2026-11-25T00:55:16.391Z",
-  "copiedAssets": 1663,
-  "manifestHashesMatched": 1663,
+  "verifiedOn": "2026-11-26T00:56:24.934Z",
+  "copiedAssets": 1674,
+  "manifestHashesMatched": 1674,
   "originalsMatched": 214,
-  "uniqueOriginalSourceFilenames": 214,
-  "previewCards": 255,
-  "localPreviewLinksChecked": 1312,
+  "previewCards": 256,
   "allChecksPassed": true,
-  "scriptSyntaxValid": true,
+  "iconPixelsUnchanged": true,
+  "priorityCandidate": "191",
+  "redPinyinGroup": "42",
   "browserInteractionVerified": false
 }

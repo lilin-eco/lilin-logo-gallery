@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "sourceIcon": "inputs/approved-91.png",
+  "sourceIconSha256": "e2894167cea95a4a71dd3a18c9cb0fbc93d80a31cc68a142c67713017ecad20b",
+  "sourceWidth": 1254,
+  "sourceHeight": 1254,
+  "canvas": {
+    "width": 1254,
+    "height": 1420
+  },
+  "text": "LILIN SHENGTAI",
+  "font": "Segoe UI Bold",
+  "tracking": 18,
+  "red": "#D71920",
+  "textBounds": {
+    "x": 206.54780602305328,
+    "y": 1220,
+    "width": 840.9043879538934,
+    "height": 70
+  },
+  "iconPixelsUnchanged": true,
+  "pixelVerifiedRegion": {
+    "left": 0,
+    "top": 0,
+    "width": 1254,
+    "height": 1160
+  },
+  "textOutlined": true,
+  "tool": "System.Drawing outlines + SVG typesetting + sharp export",
+  "imageModelUsed": false
+}

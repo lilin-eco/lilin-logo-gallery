@@ -531,5 +531,18 @@
     "image": "02_矢量应用与过程资料/41_圆方共融二十色与中拼音/colors-bilingual-20.png",
     "thumb": "00_索引素材/资料-41.jpg",
     "fileCount": 142
+  },
+  {
+    "id": "42",
+    "title": "圆方共融中国红拼音",
+    "shape": "原图标下方居中放置LILIN SHENGTAI，拼音使用中国红#D71920。",
+    "culture": "图形沿用91的中心留白、圆环承托与开放端；拼音明确礼林生态名称。",
+    "notes": "原图标区域像素校验一致。拼音采用Segoe UI Bold并转为路径，不另加中文或口号。",
+    "reference": false,
+    "folder": "02_矢量应用与过程资料/42_圆方共融中国红拼音",
+    "description": "02_矢量应用与过程资料/42_圆方共融中国红拼音/README.md",
+    "image": "02_矢量应用与过程资料/42_圆方共融中国红拼音/lilin-shengtai-red.png",
+    "thumb": "00_索引素材/资料-42.jpg",
+    "fileCount": 11
   }
 ]

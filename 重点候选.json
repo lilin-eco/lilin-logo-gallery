@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-11-24",
+  "updatedOn": "2026-11-26",
   "candidates": [
     {
       "archiveId": "191",
@@ -7,7 +7,8 @@
       "name": "圆方共融",
       "level": "重点候选",
       "selectedBy": "用户",
-      "typographyGroup": "40"
+      "typographyGroup": "40",
+      "redPinyinGroup": "42"
     }
   ]
 }
